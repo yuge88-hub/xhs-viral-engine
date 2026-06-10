@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "note_id": "689327c9000000002502bbec",
+      "xsec_token": "AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "title": "才知道不同的AI竟然有不同的分工",
+      "url": "https://www.xiaohongshu.com/explore/689327c9000000002502bbec?xsec_token=AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "author": {
+        "user_id": "600eaa16000000000100ad15",
+        "nickname": "不劳而获一个亿",
+        "fans": 457,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/600eaa16000000000100ad15?xsec_token=AByiY_V03RwaKwefmjFKbFk_zsDTs41jvPdskLC7bkOy8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 23755,
+        "collects": 24394,
+        "comments": 439,
+        "shares": 2510
+      }
+    }
+  ]
+}

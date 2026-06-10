@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "note_id": "6a1e8193000000002103daf6",
+      "xsec_token": "ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "title": "「这几个词一出现,就暴露你在用 AI」",
+      "url": "https://www.xiaohongshu.com/explore/6a1e8193000000002103daf6?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "author": {
+        "user_id": "685fe8ff000000001d0159cf",
+        "nickname": "慢慢有解",
+        "fans": 99,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/685fe8ff000000001d0159cf?xsec_token=AB2Q8q9gKqr7bvl4IjBC2PEo1N3t2IySi1L_t_ci-tunw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1566,
+        "collects": 1436,
+        "comments": 696,
+        "shares": 162
+      }
+    }
+  ]
+}

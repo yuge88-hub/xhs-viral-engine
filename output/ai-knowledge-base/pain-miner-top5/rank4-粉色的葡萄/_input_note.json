@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "note_id": "691b36e8000000000703931c",
+      "xsec_token": "ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/691b36e8000000000703931c?xsec_token=ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "author": {
+        "user_id": "5b754f254205320001da31ba",
+        "nickname": "粉色的葡萄",
+        "fans": 565,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b754f254205320001da31ba?xsec_token=ABcy9wBkeVT1fHuy-xQ63NggIZN4wtytSP0mOGy24J3gs=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1352,
+        "collects": 2065,
+        "comments": 131,
+        "shares": 183
+      }
+    }
+  ]
+}

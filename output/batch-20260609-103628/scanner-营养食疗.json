@@ -1,0 +1,419 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "营养食疗",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 500,
+    "require_fans": false,
+    "fan_source": "auto"
+  },
+  "scanned_notes": 20,
+  "pre_filter_pass": 20,
+  "unique_authors": 20,
+  "fetched_fans": 0,
+  "viral_count": 20,
+  "elapsed_sec": 5.3,
+  "results": [
+    {
+      "note_id": "67c7c9bd0000000029031b33",
+      "title": "身体各器官最爱的食物❗❗❗",
+      "url": "https://www.xiaohongshu.com/explore/67c7c9bd0000000029031b33?xsec_token=ABEmeriH4zI49Edjwo6kCES2MNjs6OZNi8TOCUbiio2-g=",
+      "publish_time": "2025-05-01",
+      "author": {
+        "user_id": "5d45858d0000000012026d8f",
+        "nickname": "无忧四季养生",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5d45858d0000000012026d8f?xsec_token=ABRyoa-cBJzd7tzkeB3bxv23a2rE9aSuJXzlggDNtIFpU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 137341,
+        "collects": 109376,
+        "comments": 2486,
+        "shares": 24734
+      },
+      "viral_score": 137341.0
+    },
+    {
+      "note_id": "6129a38b000000002103bb8d",
+      "title": "秋季必喝❗️一周不重样养生汤羹，润燥养颜",
+      "url": "https://www.xiaohongshu.com/explore/6129a38b000000002103bb8d?xsec_token=ABXB7K1PXrMZ3JBsvOlK3eUwqiVlJqtgMLJw0ivrzvZco=",
+      "publish_time": "2023-08-14",
+      "author": {
+        "user_id": "5cff6fef0000000011016dca",
+        "nickname": "URINGO七彩叮当",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5cff6fef0000000011016dca?xsec_token=ABt0WiNdRJ4YAWOPxRifB0JVKqH8ZNtr53MRF6KaHVvyU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 60408,
+        "collects": 60773,
+        "comments": 305,
+        "shares": 8191
+      },
+      "viral_score": 60408.0
+    },
+    {
+      "note_id": "67f0c103000000001d038b92",
+      "title": "20个民间小偏方",
+      "url": "https://www.xiaohongshu.com/explore/67f0c103000000001d038b92?xsec_token=ABpJ726j0EsGaIhnMy0vffMJth3ih6wllXeMAWCicAaRw=",
+      "publish_time": "2025-05-07",
+      "author": {
+        "user_id": "65c37da3000000000903e02a",
+        "nickname": "麦穗爱养生",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65c37da3000000000903e02a?xsec_token=ABnSPQ8dTrrnwnMmPu3RFrRMxw83EPi2Jc9G5W2K72-3I=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 14897,
+        "collects": 28258,
+        "comments": 709,
+        "shares": 5692
+      },
+      "viral_score": 14897.0
+    },
+    {
+      "note_id": "685922340000000023004e56",
+      "title": "27岁少女感，漂亮的尽头是抗糖和抗衰",
+      "url": "https://www.xiaohongshu.com/explore/685922340000000023004e56?xsec_token=AB56A6bVTcM-bJNXrarPhHw6S6XwyLRNTZ6Wha1Y9lOU8=",
+      "publish_time": "2025-06-23",
+      "author": {
+        "user_id": "5b215fade8ac2b0b76a3555e",
+        "nickname": "河面皮",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b215fade8ac2b0b76a3555e?xsec_token=ABp6k8pV3xCMbgXiO_hHIcx0-LI4rvx3lSHnrchtjhRKw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 14483,
+        "collects": 2394,
+        "comments": 222,
+        "shares": 400
+      },
+      "viral_score": 14483.0
+    },
+    {
+      "note_id": "6735c7d0000000001b02d334",
+      "title": "这就是养脾胃的结果（黄皮吐血总结）",
+      "url": "https://www.xiaohongshu.com/explore/6735c7d0000000001b02d334?xsec_token=ABIRYWt19JbnXR-yTW4G-FTsV-sKio3BjGah-HW-oHCbk=",
+      "publish_time": "2024-11-15",
+      "author": {
+        "user_id": "5bdda77d6ac94f000145b085",
+        "nickname": "-Yiiiyx7",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5bdda77d6ac94f000145b085?xsec_token=ABiNsN54YQxODiJHXKQKElOe05JFZOXIDR2cB6Tyv9AWw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 13133,
+        "collects": 5921,
+        "comments": 77,
+        "shares": 413
+      },
+      "viral_score": 13133.0
+    },
+    {
+      "note_id": "6739ab8a000000003c01a008",
+      "title": "医院食谱",
+      "url": "https://www.xiaohongshu.com/explore/6739ab8a000000003c01a008?xsec_token=ABK4dFXu5fQOsTLCE7EYNdtv8IUQAkyVMEQmiEvoUdMDo=",
+      "publish_time": "2024-11-17",
+      "author": {
+        "user_id": "55e865d9c2bdeb5a6de43e35",
+        "nickname": "P0",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/55e865d9c2bdeb5a6de43e35?xsec_token=ABB6jc5mJL7LCiXbMxwxt9Y5MPBTvF7GRsYoYAFlAYY88=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 13107,
+        "collects": 11820,
+        "comments": 99,
+        "shares": 1783
+      },
+      "viral_score": 13107.0
+    },
+    {
+      "note_id": "5f9271c80000000001004e75",
+      "title": "陈皮泡水竟然有这么多搭配效果✅果断收藏",
+      "url": "https://www.xiaohongshu.com/explore/5f9271c80000000001004e75?xsec_token=ABS_c_823qvpIZHu2Jquk_m7_Nlb0g0ggujz2TgJJ3174=",
+      "publish_time": "2022-10-21",
+      "author": {
+        "user_id": "5c999547000000001200eefd",
+        "nickname": "甲卟",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c999547000000001200eefd?xsec_token=ABmDidhGWV50H7ht5B6MK1m-XUCrQNkZgkAD_8EaVKsQA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 12671,
+        "collects": 21110,
+        "comments": 241,
+        "shares": 4112
+      },
+      "viral_score": 12671.0
+    },
+    {
+      "note_id": "696b7af4000000002202362c",
+      "title": "身体的炎症全部消失22个tips",
+      "url": "https://www.xiaohongshu.com/explore/696b7af4000000002202362c?xsec_token=ABN0pV4TSBBJyVuDAjh-Dil1m0sEfkNssh5Mp2XEBGRj8=",
+      "publish_time": "01-17",
+      "author": {
+        "user_id": "6040ee7a000000000100acf2",
+        "nickname": "自爱老太变美计划",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6040ee7a000000000100acf2?xsec_token=ABVM0q0Id5btn7JqtwTPoCIAwqCfuvV-xmFEm17SFGCRY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 11561,
+        "collects": 10324,
+        "comments": 95,
+        "shares": 2695
+      },
+      "viral_score": 11561.0
+    },
+    {
+      "note_id": "69209b08000000001902401c",
+      "title": "秋冬营养膳食",
+      "url": "https://www.xiaohongshu.com/explore/69209b08000000001902401c?xsec_token=ABbNZjDwayxdc39Yr8ERDHeTdNiNP6oPjHE2rgJdQVwSw=",
+      "publish_time": "2025-11-22",
+      "author": {
+        "user_id": "6592a061000000002001fd9e",
+        "nickname": "宋小样",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6592a061000000002001fd9e?xsec_token=ABlzJJXInrIt_0Gn9rB4yJlEj1yBtXYs2Kk46dg7dyGI0=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 9381,
+        "collects": 8116,
+        "comments": 56,
+        "shares": 1878
+      },
+      "viral_score": 9381.0
+    },
+    {
+      "note_id": "6682a7610000000005007f48",
+      "title": "🌟晚上睡不着？是身体在求救了❗️❗️",
+      "url": "https://www.xiaohongshu.com/explore/6682a7610000000005007f48?xsec_token=ABLoOjzRFhtgdaeIzgT_ygQWgqjAOLdoJloYZoPIq-5R4=",
+      "publish_time": "2024-11-22",
+      "author": {
+        "user_id": "663b78df00000000070067b4",
+        "nickname": "简单养个生🍒",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/663b78df00000000070067b4?xsec_token=ABJWm4WpAzg5r1HZWyBWQc514hFojlGkM73kUw6LB4DtU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 9114,
+        "collects": 10739,
+        "comments": 296,
+        "shares": 4176
+      },
+      "viral_score": 9114.0
+    },
+    {
+      "note_id": "69e19b17000000001a032bbc",
+      "title": "41岁，空腹挨饿+排淤补血5年，成功活成少女",
+      "url": "https://www.xiaohongshu.com/explore/69e19b17000000001a032bbc?xsec_token=ABI-qkPJlAan1b11_K3vDVoqag0cg4TmJn9xGpRTuQ27Y=",
+      "publish_time": "04-17",
+      "author": {
+        "user_id": "580c178e34609443206be55c",
+        "nickname": "田罗麻麻",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/580c178e34609443206be55c?xsec_token=ABLyCOegCNw0Jwgang-4FntlB0PPp4YPo4mn9kOAVuW1E=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 9105,
+        "collects": 11125,
+        "comments": 465,
+        "shares": 926
+      },
+      "viral_score": 9105.0
+    },
+    {
+      "note_id": "69b37389000000000c009444",
+      "title": "45岁，每天两顿饭，坚持7年香港太太习惯",
+      "url": "https://www.xiaohongshu.com/explore/69b37389000000000c009444?xsec_token=AB7PmUJETVsNDrxV96fFjz_hZd7bdkXa2R9XQxVhkF6PM=",
+      "publish_time": "03-17",
+      "author": {
+        "user_id": "5c09f29e0000000007001078",
+        "nickname": "小卡拉米",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c09f29e0000000007001078?xsec_token=ABxRZN5HLLx8f2_av4bt-yImLmE0i9l3aT6DXKcfUSet8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 8513,
+        "collects": 3931,
+        "comments": 310,
+        "shares": 377
+      },
+      "viral_score": 8513.0
+    },
+    {
+      "note_id": "6a1eae88000000003502a82f",
+      "title": "夏日五行蔬菜能量汤🥣五色食补养五脏🌈",
+      "url": "https://www.xiaohongshu.com/explore/6a1eae88000000003502a82f?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vh_17_ndkCkTxdiQ2yt3R0Y=",
+      "publish_time": "6天前",
+      "author": {
+        "user_id": "661cfef6000000000b0328f5",
+        "nickname": "是淇安呀Lynn",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/661cfef6000000000b0328f5?xsec_token=ABAMwIMgujGBCTV6zpK1fDv2q2z1J3BJ5_55QA9ii0IpY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 7824,
+        "collects": 6533,
+        "comments": 75,
+        "shares": 1540
+      },
+      "viral_score": 7824.0
+    },
+    {
+      "note_id": "68db1737000000001301b5b1",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/68db1737000000001301b5b1?xsec_token=AB_jQ-X393k-4nw__s9JEFVKsb8lsumv7ZHZIk5EbpW2A=",
+      "publish_time": "2025-09-30",
+      "author": {
+        "user_id": "642115a000000000290105d2",
+        "nickname": "阿年食光",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/642115a000000000290105d2?xsec_token=ABhlFIxOA905-Qfbfs_QIc4m6EaTNkRA-Q5-hgMbisxAc=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 7462,
+        "collects": 6542,
+        "comments": 228,
+        "shares": 3116
+      },
+      "viral_score": 7462.0
+    },
+    {
+      "note_id": "6912d7f50000000005039bb3",
+      "title": "学中医的爷爷让我这个季节要多喝这些营养汤",
+      "url": "https://www.xiaohongshu.com/explore/6912d7f50000000005039bb3?xsec_token=ABmwRbwGXriEm1HFhYv8-NYr6EcrgHU6cW67vQIfU75_s=",
+      "publish_time": "2025-11-11",
+      "author": {
+        "user_id": "690a09ef000000003201fc6a",
+        "nickname": "虾仁煲汤记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/690a09ef000000003201fc6a?xsec_token=ABdwTD7EkUiAuD_DojagC4KXuGJEXxG-9Q2hYWYglLYu0=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 7259,
+        "collects": 4163,
+        "comments": 65,
+        "shares": 1988
+      },
+      "viral_score": 7259.0
+    },
+    {
+      "note_id": "6a1970ab000000003700ea21",
+      "title": "45岁复旦营养师，6种超级食物越吃越年轻",
+      "url": "https://www.xiaohongshu.com/explore/6a1970ab000000003700ea21?xsec_token=ABS09gg-8TbxD5BRohST5dOt8taz5Vc_N1Pf293UI7O6g=",
+      "publish_time": "05-29",
+      "author": {
+        "user_id": "5cdeee4d0000000010039ee0",
+        "nickname": "营养师 小丹",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5cdeee4d0000000010039ee0?xsec_token=ABLN0SPy1FTltG7Zh1_VULxPULPl3C6JR-0SpfCb1KXdI=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6968,
+        "collects": 12900,
+        "comments": 124,
+        "shares": 3504
+      },
+      "viral_score": 6968.0
+    },
+    {
+      "note_id": "68207cd0000000000303e4e0",
+      "title": "我发现🔍身体没有炎症的人都有一个饮食特点",
+      "url": "https://www.xiaohongshu.com/explore/68207cd0000000000303e4e0?xsec_token=AB7Hc1VHzFJ464lmvHhx1Da-u3JZCoVZ6Hyqt_4W3EWYA=",
+      "publish_time": "2025-06-03",
+      "author": {
+        "user_id": "62c556c0000000000303dfad",
+        "nickname": "二条的抗炎食记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/62c556c0000000000303dfad?xsec_token=AB0L8OAgDX4XRm_c6UUwPReCf4MlmrllDcmlStPSWuMXY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6708,
+        "collects": 3849,
+        "comments": 217,
+        "shares": 419
+      },
+      "viral_score": 6708.0
+    },
+    {
+      "note_id": "68f2117f0000000005033d43",
+      "title": "✅ 特殊期一周高蛋白食谱，直接抄作业！",
+      "url": "https://www.xiaohongshu.com/explore/68f2117f0000000005033d43?xsec_token=ABuKOxMHKUBwFsuwL46CmWfGsJv1K6a1jEDSnOZY8uLks=",
+      "publish_time": "2025-10-17",
+      "author": {
+        "user_id": "5e71ebe500000000010073b8",
+        "nickname": "职场青年养生指南",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5e71ebe500000000010073b8?xsec_token=ABeqm5ApQeQGESpBiflE3kocAKqgr0YQ1gFXCKwUW89lY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6617,
+        "collects": 6569,
+        "comments": 37,
+        "shares": 3243
+      },
+      "viral_score": 6617.0
+    },
+    {
+      "note_id": "68467c480000000022035e4c",
+      "title": "42岁无医美，空腹挨饿5年,终身坚持港式抗衰",
+      "url": "https://www.xiaohongshu.com/explore/68467c480000000022035e4c?xsec_token=ABz7ZT53IcDvA6eqVTSbywf7d2-SNEErEY6CYnAvDRaec=",
+      "publish_time": "2025-06-09",
+      "author": {
+        "user_id": "5c0899d0f7e8b978ffb91734",
+        "nickname": "板娘小姐",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c0899d0f7e8b978ffb91734?xsec_token=ABqHeb06DjXhb1E1oTAT_zEohNzWxOWfUWEl9I8V8OqpM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6103,
+        "collects": 4741,
+        "comments": 203,
+        "shares": 3111
+      },
+      "viral_score": 6103.0
+    },
+    {
+      "note_id": "6639ac2d000000001e01994d",
+      "title": "明星也迷中医！翁虹不老秘籍！",
+      "url": "https://www.xiaohongshu.com/explore/6639ac2d000000001e01994d?xsec_token=AB1O7Q_kmLBWm8bLcFkIj1AoIlQaysKc1mOnzZy-w8gWU=",
+      "publish_time": "2024-06-17",
+      "author": {
+        "user_id": "55ae0994f5a26365eae171d6",
+        "nickname": "葵葵（李逍雪）",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/55ae0994f5a26365eae171d6?xsec_token=AB1V238D4s_B1k08ipW1Nf3RqgRgPJgp6BfyQcBjapb8Q=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5820,
+        "collects": 3768,
+        "comments": 118,
+        "shares": 641
+      },
+      "viral_score": 5820.0
+    }
+  ]
+}

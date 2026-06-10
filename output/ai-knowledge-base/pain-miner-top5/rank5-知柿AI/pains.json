@@ -1,0 +1,87 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "request",
+      "suggestion",
+      "question",
+      "criticism",
+      "pain"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 20,
+    "total_kept_pain": 4,
+    "elapsed_sec": 61.1
+  },
+  "per_note": [
+    {
+      "note_id": "68416d0f00000000210193d0",
+      "title": "练完这400+页Coze，你的扣子就很牛了",
+      "url": "https://www.xiaohongshu.com/explore/68416d0f00000000210193d0?xsec_token=ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-685282c0000000000a0378b6",
+          "content": "滴滴，在哪学",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "飞翔",
+          "ip_location": "上海",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68be7538000000000b01523d",
+          "content": "coze是智能体搭建平台，可以搭建，也提供发布渠道，不会搭建智能体也可以在平台上使用别人发布的智能体",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "知柿AI",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69118eb90000000039007396",
+          "content": "你可以不发布，或者发布之后给智能体设置一个参数密码，输入密码才能访问",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "知柿AI",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68be49b80000000030016757",
+          "content": "想问不搭建智能体就不能用扣子吗？",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不爱可口",
+          "ip_location": "甘肃",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

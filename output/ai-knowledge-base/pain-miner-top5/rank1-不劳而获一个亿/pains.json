@@ -1,0 +1,99 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "question",
+      "criticism",
+      "suggestion",
+      "request",
+      "pain"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 20,
+    "total_kept_pain": 5,
+    "elapsed_sec": 22.7
+  },
+  "per_note": [
+    {
+      "note_id": "689327c9000000002502bbec",
+      "title": "才知道不同的AI竟然有不同的分工",
+      "url": "https://www.xiaohongshu.com/explore/689327c9000000002502bbec?xsec_token=AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-69bd87da000000002b0345cc",
+          "content": "刚出来那时是真的强，带给我的震撼不亚于gpt刚出的时候",
+          "likes": 93,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯69BDFDB7",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-692959ed000000003800c2c0",
+          "content": "想要整理几十篇论文，类似形成文献综述，选哪个呢",
+          "likes": 76,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "六月的四姑娘",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-699ee0c0000000001101a097",
+          "content": "DeepSeek难用的要命……",
+          "likes": 39,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Gigi",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a10133600000000280342d1",
+          "content": "基本都会用百花齐放了属于，现在都是想到哪个用哪个",
+          "likes": 11,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "印第安老斑鸠",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-697ca0170000000015012e06",
+          "content": "我元宝不能上榜？",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Ash",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

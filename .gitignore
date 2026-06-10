@@ -1,0 +1,83 @@
+# ====================== 🔒 敏感信息 (绝不能 commit) ======================
+.env
+**/.env
+cookies*.json
+**/cookies*.json
+*.cookies
+xhs-cookies.json
+**/*token*.json
+.deepseek
+
+# ====================== 📁 web-clipper 主体 (不属于本项目) ======================
+# 这个仓库只发布 xhs-viral-engine, web-clipper 原代码不发
+src/
+dist/
+lib/
+node_modules/
+chrome/
+webpack/
+bin/
+script/
+.github/
+package.json
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.eslintrc.js
+.eslintignore
+.prettierrc
+.yarnrc
+tsconfig.json
+vitest.config.ts
+global.d.ts
+guizang-ppt-webclipper.html
+md2html.py
+get_qr.py
+run-xhs.ps1
+test_xhs_*.py
+xhs-login-qr.png
+xhs-nutrition-report.*
+webclipper.zip
+.dockerignore
+
+# ====================== 🐍 Python ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# ====================== 🤖 Claude Code / AI 工具 ======================
+.claude/
+.codegraph/
+.aider*
+.cursor/
+
+# ====================== 💻 IDE ======================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# ====================== 📜 日志 / 临时 ======================
+*.log
+*.tmp
+npm-debug.log
+yarn-error.log
+debug*.py
+*.bak
+coverage/
+tmp/
+dll/
+.now
+release
+
+# ====================== 🚫 本地配置 ======================
+config.json

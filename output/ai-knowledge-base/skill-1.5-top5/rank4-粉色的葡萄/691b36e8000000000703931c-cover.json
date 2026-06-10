@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "691b36e8000000000703931c",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606100907/533f6348d0a83fd3f9be3e21e36ef29b/1040g00831p08k2hhi6004af54v7iacdq3mguemo!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\ai-knowledge-base\\skill-1.5-top5\\rank4-粉色的葡萄\\691b36e8000000000703931c-cover.png",
+  "rules": {
+    "file_size_kb": 88.3,
+    "width": 1080,
+    "height": 1440,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(255,255,255)",
+    "is_landscape": false,
+    "dominant_color_hex": "#ffffff"
+  },
+  "llm_visual": {}
+}

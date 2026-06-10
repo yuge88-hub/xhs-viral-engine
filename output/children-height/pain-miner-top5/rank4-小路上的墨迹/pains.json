@@ -1,0 +1,47 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "pain",
+      "request",
+      "question",
+      "criticism",
+      "suggestion"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 19,
+    "total_kept_pain": 1,
+    "elapsed_sec": 18.2
+  },
+  "per_note": [
+    {
+      "note_id": "663ca0f7000000001e02464a",
+      "title": "协和开的生长发育3件套（对矮娃）",
+      "url": "https://www.xiaohongshu.com/explore/663ca0f7000000001e02464a?xsec_token=ABOrj3h6jDng5wEDlC_NsbD2QAGmvoVz13hzcrW_lDEfw=",
+      "total_comments": 19,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-6682a0cc000000000400b7e2",
+          "content": "25岁了还能长吗",
+          "likes": 12,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "喜闻乐见w6",
+          "ip_location": "河南",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

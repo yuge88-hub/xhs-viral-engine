@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 副业 · 小红书爆款情报报告</title>
+<style>
+:root {
+  --bg-1: #0a0e27;
+  --bg-2: #131938;
+  --card: rgba(255, 255, 255, 0.04);
+  --card-border: rgba(255, 255, 255, 0.08);
+  --text: #e8eaf0;
+  --text-dim: #9ba0b8;
+  --accent-1: #6ee7b7;
+  --accent-2: #5eb3ff;
+  --accent-3: #c084fc;
+  --warn: #fbbf24;
+  --bad: #f87171;
+  --bar-1: #6ee7b7;
+  --bar-2: #5eb3ff;
+  --bar-3: #c084fc;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  background: linear-gradient(135deg, var(--bg-1) 0%, var(--bg-2) 100%);
+  color: var(--text);
+  min-height: 100vh;
+  padding: 32px 24px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.watermark {
+  position: fixed; inset: 0; pointer-events: none; z-index: 0;
+  background-image: radial-gradient(circle at 20% 30%, rgba(110, 231, 183, 0.04) 0%, transparent 40%),
+                    radial-gradient(circle at 80% 70%, rgba(94, 179, 255, 0.04) 0%, transparent 40%);
+}
+.wrap { max-width: 1400px; margin: 0 auto; position: relative; z-index: 1; }
+
+/* Hero */
+.hero {
+  background: linear-gradient(135deg, rgba(110, 231, 183, 0.08) 0%, rgba(94, 179, 255, 0.04) 100%);
+  border: 1px solid var(--card-border);
+  border-radius: 16px;
+  padding: 32px 36px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.hero-tag {
+  font-size: 11px; letter-spacing: 0.18em; color: var(--accent-1);
+  text-transform: uppercase; font-weight: 600; margin-bottom: 8px;
+}
+.hero h1 { font-size: 36px; font-weight: 700; margin-bottom: 8px; }
+.hero .sub { color: var(--text-dim); font-size: 15px; }
+.hero .top-num {
+  font-size: 56px; font-weight: 800;
+  background: linear-gradient(135deg, var(--accent-1) 0%, var(--accent-2) 100%);
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+}
+.hero .top-label { color: var(--text-dim); font-size: 12px; text-align: center; margin-top: 4px; }
+
+/* KPI Row */
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.kpi {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.kpi-label { color: var(--text-dim); font-size: 12px; margin-bottom: 8px; }
+.kpi-num {
+  font-size: 32px; font-weight: 700;
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 6px;
+}
+.kpi-source { color: var(--text-dim); font-size: 12px; }
+.kpi-source b { color: var(--text); font-weight: 600; }
+
+/* Two-col layout */
+.two-col {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+.panel {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 24px;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+.panel-h {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 18px;
+}
+.panel-h h2 { font-size: 16px; font-weight: 600; }
+.panel-h .hint { color: var(--text-dim); font-size: 12px; }
+
+/* Bar chart (Top 8) */
+.bars { display: flex; flex-direction: column; gap: 10px; }
+.bar-row { display: grid; grid-template-columns: minmax(0, 1fr) 3fr 60px; gap: 10px; align-items: center; }
+.bar-title { color: var(--text); font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bar-track { background: rgba(255, 255, 255, 0.05); height: 14px; border-radius: 4px; overflow: hidden; }
+.bar-fill {
+  height: 100%; border-radius: 4px;
+  background: linear-gradient(90deg, var(--bar-1) 0%, var(--bar-2) 60%, var(--bar-3) 100%);
+}
+.bar-num { text-align: right; color: var(--text-dim); font-size: 12px; font-variant-numeric: tabular-nums; }
+
+/* Donut */
+.donut-wrap { display: flex; align-items: center; gap: 24px; justify-content: center; padding: 20px 0; }
+.donut {
+  width: 140px; height: 140px; border-radius: 50%;
+  background: conic-gradient(var(--accent-1) 0% 40%, var(--accent-2) 40% 100%);
+  position: relative;
+  display: flex; align-items: center; justify-content: center;
+}
+.donut::before {
+  content: ""; position: absolute; inset: 22px;
+  background: var(--bg-1); border-radius: 50%;
+}
+.donut-center { position: relative; text-align: center; z-index: 1; }
+.donut-num { font-size: 22px; font-weight: 700; }
+.donut-label { color: var(--text-dim); font-size: 11px; }
+.donut-legend { display: flex; flex-direction: column; gap: 8px; }
+.donut-legend-item { display: flex; align-items: center; gap: 8px; font-size: 13px; }
+.dot { width: 10px; height: 10px; border-radius: 50%; }
+
+/* Hero note */
+.hero-note {
+  background: linear-gradient(135deg, rgba(110, 231, 183, 0.06), rgba(192, 132, 252, 0.04));
+  border: 1px solid rgba(110, 231, 183, 0.2);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+}
+.hero-note-tag { color: var(--accent-1); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 600; margin-bottom: 4px; }
+.hero-note-title { font-size: 18px; font-weight: 600; margin-bottom: 6px; }
+.hero-note-meta { color: var(--text-dim); font-size: 12px; }
+
+/* Author cards */
+.authors-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.author-card {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.author-head { display: flex; gap: 12px; margin-bottom: 12px; }
+.author-avatar {
+  width: 44px; height: 44px; border-radius: 50%;
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-3));
+  display: flex; align-items: center; justify-content: center;
+  color: var(--bg-1); font-weight: 700; font-size: 16px;
+  flex-shrink: 0;
+}
+.author-name { font-weight: 600; margin-bottom: 2px; }
+.author-id { color: var(--text-dim); font-size: 11px; }
+.author-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-bottom: 12px; }
+.author-stat { background: rgba(255, 255, 255, 0.04); border-radius: 6px; padding: 8px 10px; }
+.author-stat-num { font-size: 14px; font-weight: 600; }
+.author-stat-label { color: var(--text-dim); font-size: 10px; margin-top: 2px; }
+.author-samples { color: var(--text-dim); font-size: 11px; margin-top: 8px; padding-top: 8px; border-top: 1px solid var(--card-border); }
+.author-samples li { list-style: none; padding: 3px 0; }
+
+/* Pain grid */
+.pain-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.pain-card {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 12px 14px;
+}
+.pain-text { font-size: 13px; margin-bottom: 6px; line-height: 1.45; }
+.pain-source { color: var(--text-dim); font-size: 11px; display: flex; align-items: center; gap: 6px; }
+.pain-source::before { content: "来源:"; color: var(--accent-1); }
+
+/* Reverse prompt section */
+.reverse-block {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin-bottom: 12px;
+}
+.reverse-block h3 {
+  font-size: 14px; font-weight: 600;
+  color: var(--accent-1);
+  margin-bottom: 10px;
+  display: flex; align-items: center; gap: 8px;
+}
+.reverse-block h3::before {
+  content: ""; display: inline-block;
+  width: 4px; height: 14px; border-radius: 2px;
+  background: linear-gradient(180deg, var(--accent-1), var(--accent-2));
+}
+.reverse-block .meta-line {
+  color: var(--text-dim); font-size: 12px; margin-bottom: 12px;
+}
+.reverse-block ul { list-style: none; }
+.reverse-block li {
+  padding: 6px 0;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.05);
+  font-size: 13px;
+}
+.reverse-block li:last-child { border-bottom: none; }
+.reverse-block li b { color: var(--accent-2); margin-right: 8px; }
+
+/* Footer */
+.foot {
+  text-align: center; color: var(--text-dim); font-size: 12px;
+  padding: 24px 0; margin-top: 16px;
+}
+.foot a { color: var(--accent-1); text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="watermark"></div>
+<div class="wrap">
+  <div class="hero">
+    <div>
+      <div class="hero-tag">XHS CONTENT INTELLIGENCE</div>
+      <h1>AI 副业 · 小红书内容情报报告</h1>
+      <div class="sub">爆款样本、互动结构、评论需求和对标账号的可视化情报面板</div>
+    </div>
+    <div>
+      <div class="top-num">5</div>
+      <div class="top-label">Top Samples</div>
+    </div>
+  </div>
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="kpi-label">总互动热度</div><div class="kpi-num">25.0万</div><div class="kpi-source">Top 来源: <b>用AI做儿童绘本🔥涨粉8W - 小红书</b></div></div>
+<div class="kpi"><div class="kpi-label">点赞</div><div class="kpi-num">11.9万</div><div class="kpi-source">Top 来源: <b>用AI做儿童绘本🔥涨粉8W - 小红书</b></div></div>
+<div class="kpi"><div class="kpi-label">收藏</div><div class="kpi-num">12.0万</div><div class="kpi-source">Top 来源: <b>用AI做儿童绘本🔥涨粉8W - 小红书</b></div></div>
+<div class="kpi"><div class="kpi-label">评论</div><div class="kpi-num">1.1万</div><div class="kpi-source">Top 来源: <b>用AI做儿童绘本🔥涨粉8W - 小红书</b></div></div>
+  </div>
+
+  <div class="two-col">
+    <div class="panel">
+      <div class="panel-h">
+        <h2>互动热度柱状图</h2>
+        <span class="hint">Top 8</span>
+      </div>
+      <div class="bars"><div class="bar-row"><div class="bar-title">用AI做儿童绘本🔥涨粉8W</div><div class="bar-track"><div class="bar-fill" style="width:100.0%"></div></div><div class="bar-num">2.0万</div></div>
+<div class="bar-row"><div class="bar-title">如何远程賺外国人的钱</div><div class="bar-track"><div class="bar-fill" style="width:78.4%"></div></div><div class="bar-num">1.6万</div></div>
+<div class="bar-row"><div class="bar-title">一口气学会ai漫剧制作全流程，小白必看！</div><div class="bar-track"><div class="bar-fill" style="width:69.8%"></div></div><div class="bar-num">1.4万</div></div>
+<div class="bar-row"><div class="bar-title">教程来了！价格500的Ai单子是怎样做的？</div><div class="bar-track"><div class="bar-fill" style="width:37.7%"></div></div><div class="bar-num">7716</div></div>
+<div class="bar-row"><div class="bar-title"></div><div class="bar-track"><div class="bar-fill" style="width:36.1%"></div></div><div class="bar-num">7401</div></div>
+<div class="bar-row"><div class="bar-title">小说挣美元的第122天（粉丝暴涨！）</div><div class="bar-track"><div class="bar-fill" style="width:32.2%"></div></div><div class="bar-num">6597</div></div>
+<div class="bar-row"><div class="bar-title">地铁上如何用1r赚到1000r？</div><div class="bar-track"><div class="bar-fill" style="width:27.2%"></div></div><div class="bar-num">5572</div></div>
+<div class="bar-row"><div class="bar-title">用Ai写公众号，写了1个月，收入4位数</div><div class="bar-track"><div class="bar-fill" style="width:26.7%"></div></div><div class="bar-num">5460</div></div></div>
+    </div>
+    <div class="panel">
+      <div class="panel-h">
+        <h2>内容类型占比</h2>
+        <span class="hint">视频 vs 图文</span>
+      </div>
+      <div class="donut-wrap">
+        <div class="donut"><div class="donut-center"><div class="donut-num">19</div><div class="donut-label">总笔记</div></div></div>
+        <div class="donut-legend">
+          <div class="donut-legend-item"><span class="dot" style="background:var(--accent-1)"></span> 视频 0</div>
+          <div class="donut-legend-item"><span class="dot" style="background:var(--accent-2)"></span> 图文 19</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-note">
+    <div class="hero-note-tag">最高热度样本 · Hero Note</div>
+    <div class="hero-note-title">用AI做儿童绘本🔥涨粉8W - 小红书</div>
+    <div class="hero-note-meta">作者: 予哥 · 点赞 2.0万 · 收藏 2.4万 · 评论 749 · 发布 2024-06-14</div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-h">
+      <h2>对标账号渲染</h2>
+      <span class="hint">用户信息 + 用户笔记</span>
+    </div>
+    <div class="authors-grid">
+    <div class="author-card">
+      <div class="author-head">
+        <div class="author-avatar">予</div>
+        <div>
+          <div class="author-name">予哥</div>
+          <div class="author-id">粉丝 ? · 发布 2024-06-14</div>
+        </div>
+      </div>
+      <div class="author-stats">
+        <div class="author-stat"><div class="author-stat-num">2.0万</div><div class="author-stat-label">点赞</div></div>
+        <div class="author-stat"><div class="author-stat-num">2.4万</div><div class="author-stat-label">收藏</div></div>
+        <div class="author-stat"><div class="author-stat-num">749</div><div class="author-stat-label">评论</div></div>
+      </div>
+      <ul class="author-samples">
+        <li>📌 用AI做儿童绘本🔥涨粉8W - 小红书</li>
+      </ul>
+    </div>
+    
+
+    <div class="author-card">
+      <div class="author-head">
+        <div class="author-avatar">予</div>
+        <div>
+          <div class="author-name">予哥</div>
+          <div class="author-id">粉丝 ? · 发布 2024-09-29</div>
+        </div>
+      </div>
+      <div class="author-stats">
+        <div class="author-stat"><div class="author-stat-num">1.6万</div><div class="author-stat-label">点赞</div></div>
+        <div class="author-stat"><div class="author-stat-num">2.0万</div><div class="author-stat-label">收藏</div></div>
+        <div class="author-stat"><div class="author-stat-num">189</div><div class="author-stat-label">评论</div></div>
+      </div>
+      <ul class="author-samples">
+        <li>📌 如何远程賺外国人的钱 - 小红书</li>
+      </ul>
+    </div>
+    
+
+    <div class="author-card">
+      <div class="author-head">
+        <div class="author-avatar">予</div>
+        <div>
+          <div class="author-name">予哥</div>
+          <div class="author-id">粉丝 ? · 发布 2026-05-29</div>
+        </div>
+      </div>
+      <div class="author-stats">
+        <div class="author-stat"><div class="author-stat-num">1.5万</div><div class="author-stat-label">点赞</div></div>
+        <div class="author-stat"><div class="author-stat-num">1.3万</div><div class="author-stat-label">收藏</div></div>
+        <div class="author-stat"><div class="author-stat-num">6202</div><div class="author-stat-label">评论</div></div>
+      </div>
+      <ul class="author-samples">
+        <li>📌 一口气学会ai漫剧制作全流程，小白必看！ - 小红书</li>
+      </ul>
+    </div>
+    
+
+    <div class="author-card">
+      <div class="author-head">
+        <div class="author-avatar">予</div>
+        <div>
+          <div class="author-name">予哥</div>
+          <div class="author-id">粉丝 ? · 发布 2024-10-28</div>
+        </div>
+      </div>
+      <div class="author-stats">
+        <div class="author-stat"><div class="author-stat-num">7717</div><div class="author-stat-label">点赞</div></div>
+        <div class="author-stat"><div class="author-stat-num">6496</div><div class="author-stat-label">收藏</div></div>
+        <div class="author-stat"><div class="author-stat-num">254</div><div class="author-stat-label">评论</div></div>
+      </div>
+      <ul class="author-samples">
+        <li>📌 教程来了！价格500的Ai单子是怎样做的？ - 小红书</li>
+      </ul>
+    </div>
+    
+
+    <div class="author-card">
+      <div class="author-head">
+        <div class="author-avatar">予</div>
+        <div>
+          <div class="author-name">予哥</div>
+          <div class="author-id">粉丝 ? · 发布 2026-05-22</div>
+        </div>
+      </div>
+      <div class="author-stats">
+        <div class="author-stat"><div class="author-stat-num">7443</div><div class="author-stat-label">点赞</div></div>
+        <div class="author-stat"><div class="author-stat-num">6013</div><div class="author-stat-label">收藏</div></div>
+        <div class="author-stat"><div class="author-stat-num">37</div><div class="author-stat-label">评论</div></div>
+      </div>
+      <ul class="author-samples">
+        <li>📌 未来三年还有很大红利的20个赛道 #自媒体 #女性成长 #职场 #搞钱 #情感 #互联网 #深度思考 #干货分享 #副业</li>
+      </ul>
+    </div>
+    </div>
+  </div>
+
+  <div class="panel" style="margin-top:16px;">
+    <div class="panel-h">
+      <h2>评论需求摘录</h2>
+      <span class="hint">评论 + 来源笔记</span>
+    </div>
+    <div class="pain-grid"></div>
+  </div>
+
+  <div class="panel" style="margin-top:16px;">
+    <div class="panel-h">
+      <h2>5 段式仿写 prompt (核心结论)</h2>
+      <span class="hint">Skill 4 v0.5 reverse_prompt</span>
+    </div>
+    
+    <div class="reverse-block">
+      <h3>予哥 · 用AI做儿童绘本🔥涨粉8W - 小红书</h3>
+      <div class="meta-line">点赞 2.0万 · 已生成 5 段式 prompt (output/skill-4-reverse-prompts-v0.5/)</div>
+      <ul><li><b>角色设定 (Role)</b></li><li>&nbsp;&nbsp;· 作者身份: 予哥</li><li>&nbsp;&nbsp;· 角色 DNA: {{待填: 你的第一人称视角, 权威感来源}}</li><li>&nbsp;&nbsp;· 互动数据 (参照): 粉丝 ? / 点赞 20000 / 收藏 24000</li><li><b>目标读者 (Audience)</b></li><li>&nbsp;&nbsp;· 人群画像: {{待填: 25-35 宝妈 + AI 副业新手}}</li><li>&nbsp;&nbsp;· 核心需求: {{待填: 他们要什么 — 工具? 教程? 案例? 情绪?}}</li><li>&nbsp;&nbsp;· 认知水平: {{待填: 小白/有基础/熟练 (影响深度)}}</li><li><b>选题方向 (Topic)</b></li><li>&nbsp;&nbsp;· 爆款主题: {{待填: 选题角度 — 你要写什么}}</li><li>&nbsp;&nbsp;· 标题标签: AI, AIGC, AI绘画, 搞钱, 副业, 信息差, 奇域AI, AI教程</li><li>&nbsp;&nbsp;· 痛点钩子 (开篇可用): - {{待填: 痛点钩子 1 — 来自评论区高赞}} - {{待填: 痛点钩子 2}} - {{待填: 痛点钩子 3}}</li><li>&nbsp;&nbsp;· 差异化: {{待填: 你和原爆款不一样的地方 — 避免抄}}</li><li><b>内容结构 (Structure)</b></li><li>&nbsp;&nbsp;· 总字数控制: {{待填: e.g. 200 字内 5 段}}</li><li>&nbsp;&nbsp;· 开头模式: {{待填: 反常识/痛点共鸣/数字结果/教程预告 — 选 1-2 个}}</li><li>&nbsp;&nbsp;· 中段模式: {{待填: 干货清单/分群/案例 — 选 1 个}}</li><li>&nbsp;&nbsp;· 收尾模式: {{待填: 引导评论/求关注/求教程 — 选 1 个}}</li><li>&nbsp;&nbsp;· 语言风格: {{待填: 短句 + 感叹号 + emoji + 反问 + 排比}}</li><li><b>引导动作 (CTA)</b></li><li>&nbsp;&nbsp;· 爆款 CTA 原文: {{待填: 原爆款末尾让读者做什么}}</li><li>&nbsp;&nbsp;· 约束规则: {{待填: 禁用词 / 格式 / 边界}}</li><li>&nbsp;&nbsp;· 工作流逻辑: {{待填: 哪些段落每篇都固定}}</li></ul>
+    </div>
+    
+
+    <div class="reverse-block">
+      <h3>予哥 · 如何远程賺外国人的钱 - 小红书</h3>
+      <div class="meta-line">点赞 1.6万 · 已生成 5 段式 prompt (output/skill-4-reverse-prompts-v0.5/)</div>
+      <ul><li><b>角色设定 (Role)</b></li><li>&nbsp;&nbsp;· 作者身份: 予哥</li><li>&nbsp;&nbsp;· 角色 DNA: {{待填: 你的第一人称视角, 权威感来源}}</li><li>&nbsp;&nbsp;· 互动数据 (参照): 粉丝 ? / 点赞 16000 / 收藏 20000</li><li><b>目标读者 (Audience)</b></li><li>&nbsp;&nbsp;· 人群画像: {{待填: 25-35 宝妈 + AI 副业新手}}</li><li>&nbsp;&nbsp;· 核心需求: {{待填: 他们要什么 — 工具? 教程? 案例? 情绪?}}</li><li>&nbsp;&nbsp;· 认知水平: {{待填: 小白/有基础/熟练 (影响深度)}}</li><li><b>选题方向 (Topic)</b></li><li>&nbsp;&nbsp;· 爆款主题: {{待填: 选题角度 — 你要写什么}}</li><li>&nbsp;&nbsp;· 标题标签: 赚钱, 商业认知</li><li>&nbsp;&nbsp;· 痛点钩子 (开篇可用): - {{待填: 痛点钩子 1 — 来自评论区高赞}} - {{待填: 痛点钩子 2}} - {{待填: 痛点钩子 3}}</li><li>&nbsp;&nbsp;· 差异化: {{待填: 你和原爆款不一样的地方 — 避免抄}}</li><li><b>内容结构 (Structure)</b></li><li>&nbsp;&nbsp;· 总字数控制: {{待填: e.g. 200 字内 5 段}}</li><li>&nbsp;&nbsp;· 开头模式: {{待填: 反常识/痛点共鸣/数字结果/教程预告 — 选 1-2 个}}</li><li>&nbsp;&nbsp;· 中段模式: {{待填: 干货清单/分群/案例 — 选 1 个}}</li><li>&nbsp;&nbsp;· 收尾模式: {{待填: 引导评论/求关注/求教程 — 选 1 个}}</li><li>&nbsp;&nbsp;· 语言风格: {{待填: 短句 + 感叹号 + emoji + 反问 + 排比}}</li><li><b>引导动作 (CTA)</b></li><li>&nbsp;&nbsp;· 爆款 CTA 原文: {{待填: 原爆款末尾让读者做什么}}</li><li>&nbsp;&nbsp;· 约束规则: {{待填: 禁用词 / 格式 / 边界}}</li><li>&nbsp;&nbsp;· 工作流逻辑: {{待填: 哪些段落每篇都固定}}</li></ul>
+    </div>
+    
+
+    <div class="reverse-block">
+      <h3>予哥 · 一口气学会ai漫剧制作全流程，小白必看！ - 小红书</h3>
+      <div class="meta-line">点赞 1.5万 · 已生成 5 段式 prompt (output/skill-4-reverse-prompts-v0.5/)</div>
+      <ul><li><b>角色设定 (Role)</b></li><li>&nbsp;&nbsp;· 作者身份: 予哥</li><li>&nbsp;&nbsp;· 角色 DNA: {{待填: 你的第一人称视角, 权威感来源}}</li><li>&nbsp;&nbsp;· 互动数据 (参照): 粉丝 ? / 点赞 15000 / 收藏 13000</li><li><b>目标读者 (Audience)</b></li><li>&nbsp;&nbsp;· 人群画像: {{待填: 25-35 宝妈 + AI 副业新手}}</li><li>&nbsp;&nbsp;· 核心需求: {{待填: 他们要什么 — 工具? 教程? 案例? 情绪?}}</li><li>&nbsp;&nbsp;· 认知水平: {{待填: 小白/有基础/熟练 (影响深度)}}</li><li><b>选题方向 (Topic)</b></li><li>&nbsp;&nbsp;· 爆款主题: {{待填: 选题角度 — 你要写什么}}</li><li>&nbsp;&nbsp;· 标题标签: AI视频, AI, AI生成, AIGC, AI漫剧, AI工具, AI人工智能, ai关键词</li><li>&nbsp;&nbsp;· 痛点钩子 (开篇可用): - {{待填: 痛点钩子 1 — 来自评论区高赞}} - {{待填: 痛点钩子 2}} - {{待填: 痛点钩子 3}}</li><li>&nbsp;&nbsp;· 差异化: {{待填: 你和原爆款不一样的地方 — 避免抄}}</li><li><b>内容结构 (Structure)</b></li><li>&nbsp;&nbsp;· 总字数控制: {{待填: e.g. 200 字内 5 段}}</li><li>&nbsp;&nbsp;· 开头模式: {{待填: 反常识/痛点共鸣/数字结果/教程预告 — 选 1-2 个}}</li><li>&nbsp;&nbsp;· 中段模式: {{待填: 干货清单/分群/案例 — 选 1 个}}</li><li>&nbsp;&nbsp;· 收尾模式: {{待填: 引导评论/求关注/求教程 — 选 1 个}}</li><li>&nbsp;&nbsp;· 语言风格: {{待填: 短句 + 感叹号 + emoji + 反问 + 排比}}</li><li><b>引导动作 (CTA)</b></li><li>&nbsp;&nbsp;· 爆款 CTA 原文: {{待填: 原爆款末尾让读者做什么}}</li><li>&nbsp;&nbsp;· 约束规则: {{待填: 禁用词 / 格式 / 边界}}</li><li>&nbsp;&nbsp;· 工作流逻辑: {{待填: 哪些段落每篇都固定}}</li></ul>
+    </div>
+    
+
+    <div class="reverse-block">
+      <h3>予哥 · 教程来了！价格500的Ai单子是怎样做的？ - 小红书</h3>
+      <div class="meta-line">点赞 7717 · 已生成 5 段式 prompt (output/skill-4-reverse-prompts-v0.5/)</div>
+      <ul><li><b>角色设定 (Role)</b></li><li>&nbsp;&nbsp;· 作者身份: 予哥</li><li>&nbsp;&nbsp;· 角色 DNA: {{待填: 你的第一人称视角, 权威感来源}}</li><li>&nbsp;&nbsp;· 互动数据 (参照): 粉丝 ? / 点赞 7717 / 收藏 6496</li><li><b>目标读者 (Audience)</b></li><li>&nbsp;&nbsp;· 人群画像: {{待填: 25-35 宝妈 + AI 副业新手}}</li><li>&nbsp;&nbsp;· 核心需求: {{待填: 他们要什么 — 工具? 教程? 案例? 情绪?}}</li><li>&nbsp;&nbsp;· 认知水平: {{待填: 小白/有基础/熟练 (影响深度)}}</li><li><b>选题方向 (Topic)</b></li><li>&nbsp;&nbsp;· 爆款主题: {{待填: 选题角度 — 你要写什么}}</li><li>&nbsp;&nbsp;· 标题标签: 设计干货, ai设计, ai接单, ai副业, 城市文化和旅游, 找工作, Stable, midjourney</li><li>&nbsp;&nbsp;· 痛点钩子 (开篇可用): - {{待填: 痛点钩子 1 — 来自评论区高赞}} - {{待填: 痛点钩子 2}} - {{待填: 痛点钩子 3}}</li><li>&nbsp;&nbsp;· 差异化: {{待填: 你和原爆款不一样的地方 — 避免抄}}</li><li><b>内容结构 (Structure)</b></li><li>&nbsp;&nbsp;· 总字数控制: {{待填: e.g. 200 字内 5 段}}</li><li>&nbsp;&nbsp;· 开头模式: {{待填: 反常识/痛点共鸣/数字结果/教程预告 — 选 1-2 个}}</li><li>&nbsp;&nbsp;· 中段模式: {{待填: 干货清单/分群/案例 — 选 1 个}}</li><li>&nbsp;&nbsp;· 收尾模式: {{待填: 引导评论/求关注/求教程 — 选 1 个}}</li><li>&nbsp;&nbsp;· 语言风格: {{待填: 短句 + 感叹号 + emoji + 反问 + 排比}}</li><li><b>引导动作 (CTA)</b></li><li>&nbsp;&nbsp;· 爆款 CTA 原文: {{待填: 原爆款末尾让读者做什么}}</li><li>&nbsp;&nbsp;· 约束规则: {{待填: 禁用词 / 格式 / 边界}}</li><li>&nbsp;&nbsp;· 工作流逻辑: {{待填: 哪些段落每篇都固定}}</li></ul>
+    </div>
+    
+
+    <div class="reverse-block">
+      <h3>予哥 · 未来三年还有很大红利的20个赛道 #自媒体 #女性成长 #职场 #搞钱 #情感 #互联网 #深度思考 #干货分享 #副业</h3>
+      <div class="meta-line">点赞 7443 · 已生成 5 段式 prompt (output/skill-4-reverse-prompts-v0.5/)</div>
+      <ul><li><b>角色设定 (Role)</b></li><li>&nbsp;&nbsp;· 作者身份: 予哥</li><li>&nbsp;&nbsp;· 角色 DNA: {{待填: 你的第一人称视角, 权威感来源}}</li><li>&nbsp;&nbsp;· 互动数据 (参照): 粉丝 ? / 点赞 7443 / 收藏 6013</li><li><b>目标读者 (Audience)</b></li><li>&nbsp;&nbsp;· 人群画像: {{待填: 25-35 宝妈 + AI 副业新手}}</li><li>&nbsp;&nbsp;· 核心需求: {{待填: 他们要什么 — 工具? 教程? 案例? 情绪?}}</li><li>&nbsp;&nbsp;· 认知水平: {{待填: 小白/有基础/熟练 (影响深度)}}</li><li><b>选题方向 (Topic)</b></li><li>&nbsp;&nbsp;· 爆款主题: {{待填: 选题角度 — 你要写什么}}</li><li>&nbsp;&nbsp;· 标题标签: 自媒体, 女性成长, 职场, 搞钱, 情感, 互联网, 深度思考, 干货分享</li><li>&nbsp;&nbsp;· 痛点钩子 (开篇可用): - {{待填: 痛点钩子 1 — 来自评论区高赞}} - {{待填: 痛点钩子 2}} - {{待填: 痛点钩子 3}}</li><li>&nbsp;&nbsp;· 差异化: {{待填: 你和原爆款不一样的地方 — 避免抄}}</li><li><b>内容结构 (Structure)</b></li><li>&nbsp;&nbsp;· 总字数控制: {{待填: e.g. 200 字内 5 段}}</li><li>&nbsp;&nbsp;· 开头模式: {{待填: 反常识/痛点共鸣/数字结果/教程预告 — 选 1-2 个}}</li><li>&nbsp;&nbsp;· 中段模式: {{待填: 干货清单/分群/案例 — 选 1 个}}</li><li>&nbsp;&nbsp;· 收尾模式: {{待填: 引导评论/求关注/求教程 — 选 1 个}}</li><li>&nbsp;&nbsp;· 语言风格: {{待填: 短句 + 感叹号 + emoji + 反问 + 排比}}</li><li><b>引导动作 (CTA)</b></li><li>&nbsp;&nbsp;· 爆款 CTA 原文: {{待填: 原爆款末尾让读者做什么}}</li><li>&nbsp;&nbsp;· 约束规则: {{待填: 禁用词 / 格式 / 边界}}</li><li>&nbsp;&nbsp;· 工作流逻辑: {{待填: 哪些段落每篇都固定}}</li></ul>
+    </div>
+    
+  </div>
+
+  <div class="foot">
+    Generated by Skill 1.5 + Skill 4 v0.5 · 2026-06-09 · 数据来源: xhs-trending-scanner → viral-analyzer → reverse-prompt
+  </div>
+</div>
+</body>
+</html>

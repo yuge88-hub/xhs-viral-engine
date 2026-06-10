@@ -1,0 +1,475 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 17,
+  "filters": {
+    "min_likes": 3,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "suggestion",
+      "pain",
+      "question",
+      "criticism",
+      "request"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 271,
+    "total_kept_pain": 23,
+    "elapsed_sec": 370.0
+  },
+  "per_note": [
+    {
+      "note_id": "6a1c12560000000008027c39",
+      "title": "大学做兼职确实过的很滋润了",
+      "url": "https://www.xiaohongshu.com/explore/6a1c12560000000008027c39?xsec_token=ABYBFaTlF5HDOJDImTLifl0wL6VwR4cJS1A0yBGGAnZmk=",
+      "total_comments": 16,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-6a1c424e000000002702ed2e",
+          "content": "是学前专业的，能直接在本地找吗？有没有门槛啊？",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "沅沅",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69de0b050000000021038980",
+      "title": "野路子卖手机壳，年入3000万",
+      "url": "https://www.xiaohongshu.com/explore/69de0b050000000021038980?xsec_token=AB6W2bjTzEwV9rYLggVdbtNKeEVaBw95rlNvmO5Bgsx1E=",
+      "total_comments": 18,
+      "kept_comments": 7,
+      "top_pains": [
+        {
+          "id": "comment-69de1670000000001400b0b0",
+          "content": "她气血好足啊，感觉做什么都能成",
+          "likes": 3396,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "枫晚",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69e6037e000000001401dc20",
+          "content": "知道为什么能一个月10万了，一个手机壳160左右",
+          "likes": 1189,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "公主请学习",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69df883d0000000035028496",
+          "content": "我08年的时候开过淘宝卖手工小挂件，可惜当初没坚持下来，想想好后悔啊，回看那时候真是红利期啊",
+          "likes": 562,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "银丰小院",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69e0a2ea0000000014018808",
+          "content": "是的那时候真的是风口，电商干啥都行，我也是差不多那个时候进去的最多的一年能入百万，我属于纯做生意那种没爱好没啥想法这两年就不行了没做了，不知道干嘛去",
+          "likes": 367,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "咿呀",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69e1ffa0000000001401bc17",
+          "content": "遇到抄袭这种怎么办？你有什么爆款人家同链接直接上了",
+          "likes": 120,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "云吃吃",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "66745b67000000001c021ee3",
+      "title": "🔥5个赚小钱的副业（含渠道➕方法）不看错亿！",
+      "url": "https://www.xiaohongshu.com/explore/66745b67000000001c021ee3?xsec_token=ABFJfdqF3EgmvrBVYa9C-h_VM63cRxeD9YT5f5DVtnLpQ=",
+      "total_comments": 19,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-6683be7a0000000012026b19",
+          "content": "在家闲得慌，想找一份副业 求带",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "家有二宝",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        },
+        {
+          "id": "comment-6684238f000000001802ad6e",
+          "content": "能闲着也是一种幸福啊",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "鲁细细",
+          "ip_location": "福建",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-667827c8000000001500b558",
+          "content": "这几个博主在哪个平台呀",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "至幸",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "66a4bc150000000005030e5c",
+      "title": "24岁，研究生，3年赚17万，如何从0～1做博主",
+      "url": "https://www.xiaohongshu.com/explore/66a4bc150000000005030e5c?xsec_token=ABdMWPK2gZ8633-95vLE9eL1LzRP9PA758TjMv0QLU59w=",
+      "total_comments": 12,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "66f8fa58000000001902e7f6",
+      "title": "如何远程賺外国人的钱",
+      "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+      "total_comments": 13,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-689d8aca00000000270067bd",
+          "content": "不会外语，感觉没法做",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "教道德与法治的林雪",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "671bd477000000001b03dcce",
+      "title": "21个奇奇怪怪的网站，收入蹭蹭蹭！",
+      "url": "https://www.xiaohongshu.com/explore/671bd477000000001b03dcce?xsec_token=ABbG096Fyb9BR-ZORjaoVbWpSb-nP8LLtYQdmgi6lCemo=",
+      "total_comments": 11,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69df6c4d000000001f007357",
+      "title": "怎么找到自己擅长且有人愿意付费的事情？",
+      "url": "https://www.xiaohongshu.com/explore/69df6c4d000000001f007357?xsec_token=AB8MFJ5hPw1OfdbxwLmqbcM3GKQxI9bmNwqRak3-qFOL0=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69f1c1bf0000000028009c08",
+          "content": "那时候我喜欢养蚂蚁，看它们看一天",
+          "likes": 296,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "解决各种麻烦",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69f9292f0000000027021972",
+          "content": "如果擅长画画，可以做代画，我以前就经常买代画参加学校比赛。我擅长写 ppt，一直想我写 ppt 这么厉害，不上班太可惜了，后来小红书上陆续有人问我接不接 ppt 定制。我认为 ppt 代写算时薪，性价比太低了，不接。后来转念一想，既然自己喜欢，又何必那么在意性价比呢。 这不就是做着自己喜欢的事情，还能赚点小钱吗",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "麦肯锡咨询ppt",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "praise"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6826954f000000002300e26c",
+      "title": "小说挣美元的第122天（粉丝暴涨！）",
+      "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "total_comments": 18,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69256421000000001d01ec20",
+          "content": "博主想问问没有小说基础从哪开始哇，直接先写中文小说国内平台发布，然后翻译同步发布到国外可以吗",
+          "likes": 31,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小弥子",
+          "ip_location": "中国香港",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-682b536b000000000900d6a3",
+          "content": "国人能写h文吗？",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Charlesnth",
+          "ip_location": "云南",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a1481b7000000003701ddc3",
+      "title": "我真的尝试过好多种副业啊……",
+      "url": "https://www.xiaohongshu.com/explore/6a1481b7000000003701ddc3?xsec_token=ABlrs_PVhyK2A77F1AK5x0H9T7j51J24oe2f0TJGbLhRU=",
+      "total_comments": 20,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-6a1c81140000000028036c53",
+          "content": "我玩任何软件刷到任何东西第一反应就是思考这玩意咋盈利，然后就去各个平台搜相关平台的创作者政策以及那些做成功的人咋做的，开始就更简单了，跟着教程学习，绝不会码着以后看，因为以后就不会看了",
+          "likes": 67,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不许躺平",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-6a1bc056000000002803501f",
+          "content": "质量高的视觉中国，图虫这些都可以，或者500px，其实国内这种下载图片的网站都是需要用户上传的，这就是卖图片。我做的国外的，因为光是被下载一次就0.5美金，差不多3.4块了，遇到那种订阅购买的，一张图6美金哈哈哈哈哈哈哈对我来说可以了，这种被动收入还蛮爽，我没有刻意去拍照片，很多都是随手拍，有时候这种最真实的反而是他们需要的",
+          "likes": 49,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不许躺平",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1a68ae000000002803ef8f",
+          "content": "请问这么多副业每个月盈利多少啊，哪个最挣钱",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Lucky 💛 Emily",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "684aad74000000002102cfd6",
+      "title": "新手插画师应该如何接稿？🤔",
+      "url": "https://www.xiaohongshu.com/explore/684aad74000000002102cfd6?xsec_token=AB13jBb3di9_frcs51uH8xOBtYrOL3G0JGNEDCBW54IVc=",
+      "total_comments": 19,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6912ace90000000003036040",
+      "title": "想挣300vv，你只需要每天重复6个小时",
+      "url": "https://www.xiaohongshu.com/explore/6912ace90000000003036040?xsec_token=ABmwRbwGXriEm1HFhYv8-NYvJi7CtMlJ3fSFBix3opEIM=",
+      "total_comments": 10,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "67583465000000000103f17a",
+      "title": "用Ai写公众号，写了1个月，收入4位数",
+      "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "total_comments": 19,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-696dddd4000000000601d074",
+          "content": "公众号有多少自然流？写了一个月，还是没人看，当爱好还行，想赚钱难",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "云间禅房😇疗愈所",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "685f91730000000022032908",
+      "title": "几份收入，还清负债",
+      "url": "https://www.xiaohongshu.com/explore/685f91730000000022032908?xsec_token=AB2Q8q9gKqr7bvl4IjBC2PEq4YvRbpdrWjxhqg-6M5KF4=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a1755a2000000002a0062d6",
+          "content": "我有那种聊天软件，就是男的发消息花钱，女的回复挣钱，大多每天都是两三百这样，时间多就可以多挣点 感兴趣嘛",
+          "likes": 20,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小宝餐饮咨询",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a0d229f000000002701556d",
+          "content": "能熬夜可以试试这个",
+          "likes": 7,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "稀奇古怪小卖铺",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68414113000000002002b140",
+      "title": "29岁，裸辞不上班5年，我都干了啥",
+      "url": "https://www.xiaohongshu.com/explore/68414113000000002002b140?xsec_token=ABnmHUFErhs6CilyX1xz5XzGai_yCWczLIdB2ttBTJM_E=",
+      "total_comments": 12,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69b2a7730000000015030164",
+      "title": "替大家试过了～ 不上班的活法有很多✌️",
+      "url": "https://www.xiaohongshu.com/explore/69b2a7730000000015030164?xsec_token=ABFfRrWtGmW7qrtTkwxxw8vZu6_jI2f4Is1kiMgKDZ3UE=",
+      "total_comments": 14,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "680b4497000000001c017434",
+      "title": "单篇稿费300—5000💰不上班也能养活自己",
+      "url": "https://www.xiaohongshu.com/explore/680b4497000000001c017434?xsec_token=ABgSBmCvr_voDuoEZOc08G7i-QBpQJjeBC1APiNuo34qM=",
+      "total_comments": 12,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-689a23bf000000002903833c",
+          "content": "能分享原图吗？",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "一路向阳，不负生香",
+          "ip_location": "上海",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69d9e8fc000000001a02f2f8",
+      "title": "发布145个视频后，聊聊我的心路历程",
+      "url": "https://www.xiaohongshu.com/explore/69d9e8fc000000001a02f2f8?xsec_token=ABGwMMM3H0ZG57Z2p1PEvsXyizksJ_i0B7jadr52PUNys=",
+      "total_comments": 18,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69fabd6000000000270155ca",
+          "content": "灰色地带，不查到你就能做，被查了基本都是非法使用国际信道。就博主赚的这点钱，用正规信道几个月成本都不够。",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69eee1860000000029012886",
+          "content": "我油管做了三个月 才过了100 粉 感觉好难",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "乙木小姐",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    }
+  ]
+}

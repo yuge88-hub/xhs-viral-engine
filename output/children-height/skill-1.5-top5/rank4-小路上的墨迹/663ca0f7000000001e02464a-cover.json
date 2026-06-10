@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "663ca0f7000000001e02464a",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606092159/1f655e84c3fe9fdee0b6f44856d4752a/1040g008312issj4fg65g49l80pru91i9j6mb6p8!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\children-height\\skill-1.5-top5\\rank4-小路上的墨迹\\663ca0f7000000001e02464a-cover.png",
+  "rules": {
+    "file_size_kb": 153.6,
+    "width": 1080,
+    "height": 1440,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(182,154,129)",
+    "is_landscape": false,
+    "dominant_color_hex": "#b69a81"
+  },
+  "llm_visual": {}
+}

@@ -1,0 +1,60 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "request",
+      "pain",
+      "question",
+      "criticism",
+      "suggestion"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 20,
+    "total_kept_pain": 2,
+    "elapsed_sec": 15.6
+  },
+  "per_note": [
+    {
+      "note_id": "67835d3a000000000b0349a3",
+      "title": "0-7岁儿童身高体重发育表",
+      "url": "https://www.xiaohongshu.com/explore/67835d3a000000000b0349a3?xsec_token=AB3vh9k-JDh3irqYlb8kBRESVZzOx9am0ercSd2WEe9IU=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6784b1b70000000021014c16",
+          "content": "天天看到二月龄63以上的女宝宝身高我都焦虑了，我家70天身高60厘米",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "八月",
+          "ip_location": "贵州",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6784d3f6000000001b01f0d1",
+          "content": "宝宝出生体重身高开始就可以记录一下生长曲线的，出生后的每次体检医生也会给出合理的评估，如果医生说正常标准，那就不要担心，不要给自己压力，轻松育娃哦",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "美食宝妈～vicky",
+          "ip_location": "浙江",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

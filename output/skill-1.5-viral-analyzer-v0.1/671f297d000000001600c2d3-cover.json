@@ -1,0 +1,19 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "671f297d000000001600c2d3",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606091733/703a07ac93e730c86805041e71cfb4fb/1040g2sg319g40ks9madg4a5u5ohgnok91o7m9j0!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\skill-1.5-viral-analyzer-v0.1\\671f297d000000001600c2d3-cover.png",
+  "rules": {
+    "file_size_kb": 102.1,
+    "width": 959,
+    "height": 1367,
+    "aspect_ratio": 0.7,
+    "dominant_color": "rgb(238,238,238)",
+    "is_landscape": false,
+    "dominant_color_hex": "#eeeeee"
+  },
+  "llm_visual": {
+    "error": "LLM 调用失败: 400 Client Error: Bad Request for url: https://api.deepseek.com/v1/chat/completions"
+  }
+}

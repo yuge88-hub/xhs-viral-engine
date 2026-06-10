@@ -1,0 +1,60 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "request",
+      "criticism",
+      "suggestion",
+      "pain",
+      "question"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 9,
+    "total_kept_pain": 2,
+    "elapsed_sec": 18.4
+  },
+  "per_note": [
+    {
+      "note_id": "6865cc8300000000120212c2",
+      "title": "锌真的对孩子太重要了！",
+      "url": "https://www.xiaohongshu.com/explore/6865cc8300000000120212c2?xsec_token=ABlyhg4CzOkq7LouxOuJ0i1vnMFou9faGDnG891SB_Yks=",
+      "total_comments": 9,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a118848000000002a027c28",
+          "content": "相爱相杀，那为什么还要生产这种同时都有的药",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯694AA1F6",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69f05eac000000002902fe8f",
+          "content": "@胖丁是只猫 牛指甲碎碎的那些是什么？是缺梓吗",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "超级贪吃胖丁",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "副业赚钱",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 500,
+    "require_fans": false,
+    "fan_source": "auto"
+  },
+  "scanned_notes": 20,
+  "pre_filter_pass": 18,
+  "unique_authors": 17,
+  "fetched_fans": 0,
+  "viral_count": 18,
+  "elapsed_sec": 6.6,
+  "results": [
+    {
+      "note_id": "6a1c12560000000008027c39",
+      "title": "大学做兼职确实过的很滋润了",
+      "url": "https://www.xiaohongshu.com/explore/6a1c12560000000008027c39?xsec_token=ABYBFaTlF5HDOJDImTLifl0wL6VwR4cJS1A0yBGGAnZmk=",
+      "publish_time": "05-31",
+      "author": {
+        "user_id": "6671c9a60000000007006fe1",
+        "nickname": "妞儿",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6671c9a60000000007006fe1?xsec_token=ABkBk8GkQazhVg4hZTt6XSEyEqnpehqtkAB0pzYdgifxA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 154437,
+        "collects": 72280,
+        "comments": 4720,
+        "shares": 6968
+      },
+      "viral_score": 154437.0
+    },
+    {
+      "note_id": "69de0b050000000021038980",
+      "title": "野路子卖手机壳，年入3000万",
+      "url": "https://www.xiaohongshu.com/explore/69de0b050000000021038980?xsec_token=AB6W2bjTzEwV9rYLggVdbtNKeEVaBw95rlNvmO5Bgsx1E=",
+      "publish_time": "04-19",
+      "author": {
+        "user_id": "5a02bccd4eacab14cffb2ff6",
+        "nickname": "卡卡导",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5a02bccd4eacab14cffb2ff6?xsec_token=ABgdkFNGBdFEJf_NhmIobwKjUnL5WqNqgzHCb6Kno8hec=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 59981,
+        "collects": 46103,
+        "comments": 432,
+        "shares": 9819
+      },
+      "viral_score": 59981.0
+    },
+    {
+      "note_id": "66745b67000000001c021ee3",
+      "title": "🔥5个赚小钱的副业（含渠道➕方法）不看错亿！",
+      "url": "https://www.xiaohongshu.com/explore/66745b67000000001c021ee3?xsec_token=ABFJfdqF3EgmvrBVYa9C-h_VM63cRxeD9YT5f5DVtnLpQ=",
+      "publish_time": "2024-07-06",
+      "author": {
+        "user_id": "5c56f621000000001a01f759",
+        "nickname": "鲁细细",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c56f621000000001a01f759?xsec_token=ABsGXYud8aA0xoxXA8aecO1JHU_4O0zD88kLH1M_ER_Vc=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 17785,
+        "collects": 21995,
+        "comments": 315,
+        "shares": 2667
+      },
+      "viral_score": 17785.0
+    },
+    {
+      "note_id": "66a4bc150000000005030e5c",
+      "title": "24岁，研究生，3年赚17万，如何从0～1做博主",
+      "url": "https://www.xiaohongshu.com/explore/66a4bc150000000005030e5c?xsec_token=ABdMWPK2gZ8633-95vLE9eL1LzRP9PA758TjMv0QLU59w=",
+      "publish_time": "2025-05-22",
+      "author": {
+        "user_id": "5d60aa1a000000000100700c",
+        "nickname": "Rosa学姐",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5d60aa1a000000000100700c?xsec_token=ABijykFV-fjpmsbc5ynZUGQ1xnMgPaQn3V4iQVPvX_ab4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 17069,
+        "collects": 9986,
+        "comments": 1687,
+        "shares": 661
+      },
+      "viral_score": 17069.0
+    },
+    {
+      "note_id": "66f8fa58000000001902e7f6",
+      "title": "如何远程賺外国人的钱",
+      "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+      "publish_time": "2024-09-29",
+      "author": {
+        "user_id": "642055030000000012012cc1",
+        "nickname": "Sylis聊创业",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 16061,
+        "collects": 19806,
+        "comments": 189,
+        "shares": 2727
+      },
+      "viral_score": 16061.0
+    },
+    {
+      "note_id": "69df6c4d000000001f007357",
+      "title": "怎么找到自己擅长且有人愿意付费的事情？",
+      "url": "https://www.xiaohongshu.com/explore/69df6c4d000000001f007357?xsec_token=AB8MFJ5hPw1OfdbxwLmqbcM3GKQxI9bmNwqRak3-qFOL0=",
+      "publish_time": "04-15",
+      "author": {
+        "user_id": "695384c2000000000301299a",
+        "nickname": "邱同学",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/695384c2000000000301299a?xsec_token=AB2R1N_LnQHkiR_wwWDmW-gHQC7XD-xKrqsMMr9lkumaE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6907,
+        "collects": 6663,
+        "comments": 1456,
+        "shares": 978
+      },
+      "viral_score": 6907.0
+    },
+    {
+      "note_id": "6826954f000000002300e26c",
+      "title": "小说挣美元的第122天（粉丝暴涨！）",
+      "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "publish_time": "2025-10-15",
+      "author": {
+        "user_id": "606a90a700000000010077cd",
+        "nickname": "周公何在",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6595,
+        "collects": 6780,
+        "comments": 110,
+        "shares": 627
+      },
+      "viral_score": 6595.0
+    },
+    {
+      "note_id": "65b073df000000002c02918e",
+      "title": "全勤3000刀|给老外写网文真的很赚钱",
+      "url": "https://www.xiaohongshu.com/explore/65b073df000000002c02918e?xsec_token=ABoREN5nVj-9axsHrZSPX8ugDqE9i-ndBI_6MPH5d3k7k=",
+      "publish_time": "2024-01-24",
+      "author": {
+        "user_id": "653a2d02000000000301de1a",
+        "nickname": "海外编辑Niki",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/653a2d02000000000301de1a?xsec_token=ABiDC_K99eNzTYq68kmLU_MZjQof9p3jDZeIiqpBz1mag=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6169,
+        "collects": 9548,
+        "comments": 217,
+        "shares": 1171
+      },
+      "viral_score": 6169.0
+    },
+    {
+      "note_id": "6732d8e1000000003c015be9",
+      "title": "搞钱攻略！9种被动收入让他年赚130万美元",
+      "url": "https://www.xiaohongshu.com/explore/6732d8e1000000003c015be9?xsec_token=ABffOB-lO3dqZR7kty0M8sOTdBuSxznBrW7WhKk0D_H38=",
+      "publish_time": "2024-11-12",
+      "author": {
+        "user_id": "64ff1d340000000004027c21",
+        "nickname": "CEO星球(何东晓Hugo)",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/64ff1d340000000004027c21?xsec_token=AByaFdXGhJe6-XDb-7cVYFioaGfeqmpmlebFicMlCNftA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6161,
+        "collects": 9273,
+        "comments": 73,
+        "shares": 1204
+      },
+      "viral_score": 6161.0
+    },
+    {
+      "note_id": "6a1481b7000000003701ddc3",
+      "title": "我真的尝试过好多种副业啊……",
+      "url": "https://www.xiaohongshu.com/explore/6a1481b7000000003701ddc3?xsec_token=ABlrs_PVhyK2A77F1AK5x0H9T7j51J24oe2f0TJGbLhRU=",
+      "publish_time": "05-26",
+      "author": {
+        "user_id": "6218b421000000001000ffde",
+        "nickname": "不许躺平",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6218b421000000001000ffde?xsec_token=ABG2DQ7CPSWxTHQ3bsd61OGo95SuEhPjXczpKjriUvhJY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6111,
+        "collects": 4492,
+        "comments": 604,
+        "shares": 644
+      },
+      "viral_score": 6111.0
+    },
+    {
+      "note_id": "684aad74000000002102cfd6",
+      "title": "新手插画师应该如何接稿？🤔",
+      "url": "https://www.xiaohongshu.com/explore/684aad74000000002102cfd6?xsec_token=AB13jBb3di9_frcs51uH8xOBtYrOL3G0JGNEDCBW54IVc=",
+      "publish_time": "2025-06-12",
+      "author": {
+        "user_id": "5f572c090000000001002560",
+        "nickname": "拜托每天都画画",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5f572c090000000001002560?xsec_token=ABeLbiqz2YHED_YtyA-FpaHtMh1xjn1OgX5qGPUMpXLN4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5975,
+        "collects": 6008,
+        "comments": 290,
+        "shares": 579
+      },
+      "viral_score": 5975.0
+    },
+    {
+      "note_id": "6912ace90000000003036040",
+      "title": "想挣300vv，你只需要每天重复6个小时",
+      "url": "https://www.xiaohongshu.com/explore/6912ace90000000003036040?xsec_token=ABmwRbwGXriEm1HFhYv8-NYvJi7CtMlJ3fSFBix3opEIM=",
+      "publish_time": "2025-11-11",
+      "author": {
+        "user_id": "6850ed40000000001b018e62",
+        "nickname": "Labibi",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6850ed40000000001b018e62?xsec_token=ABzpPPQq91xWofEO-9UBI2DHyO_6gEiNgLSDeCt2shQj8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5866,
+        "collects": 8601,
+        "comments": 85,
+        "shares": 1387
+      },
+      "viral_score": 5866.0
+    },
+    {
+      "note_id": "67e171be000000000d016ca3",
+      "title": "搞钱攻略！17岁给推文“AI算命”24小时赚22万",
+      "url": "https://www.xiaohongshu.com/explore/67e171be000000000d016ca3?xsec_token=ABqRw6MlGUmuzhlxwhWv7yjax7y5hQPkWNDAAAUThYefE=",
+      "publish_time": "2025-06-13",
+      "author": {
+        "user_id": "64ff1d340000000004027c21",
+        "nickname": "CEO星球(何东晓Hugo)",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/64ff1d340000000004027c21?xsec_token=AByaFdXGhJe6-XDb-7cVYFioaGfeqmpmlebFicMlCNftA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5840,
+        "collects": 5278,
+        "comments": 100,
+        "shares": 2325
+      },
+      "viral_score": 5840.0
+    },
+    {
+      "note_id": "67583465000000000103f17a",
+      "title": "用Ai写公众号，写了1个月，收入4位数",
+      "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "publish_time": "2024-12-14",
+      "author": {
+        "user_id": "65eacb270000000005008c7d",
+        "nickname": "坎叔",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5459,
+        "collects": 6853,
+        "comments": 168,
+        "shares": 866
+      },
+      "viral_score": 5459.0
+    },
+    {
+      "note_id": "674997f90000000006017f7c",
+      "title": "均价1w+，每月20单，原来约拍真能赚到钱啊",
+      "url": "https://www.xiaohongshu.com/explore/674997f90000000006017f7c?xsec_token=ABwRiakGnFLCBWyZTdjO9Ipl2-YpB3Egbbomo54KDNZRo=",
+      "publish_time": "2024-12-01",
+      "author": {
+        "user_id": "5c77fa3f000000001800685f",
+        "nickname": "一卷民谣",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c77fa3f000000001800685f?xsec_token=ABSIhEXtgS2wtUw_16VzGO8bcjfXI_PKRMOrWDvysrQ6A=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4887,
+        "collects": 2002,
+        "comments": 104,
+        "shares": 1005
+      },
+      "viral_score": 4887.0
+    },
+    {
+      "note_id": "685f91730000000022032908",
+      "title": "几份收入，还清负债",
+      "url": "https://www.xiaohongshu.com/explore/685f91730000000022032908?xsec_token=AB2Q8q9gKqr7bvl4IjBC2PEq4YvRbpdrWjxhqg-6M5KF4=",
+      "publish_time": "2025-06-28",
+      "author": {
+        "user_id": "669b55f6000000002401e8ad",
+        "nickname": "库克成长笔记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/669b55f6000000002401e8ad?xsec_token=ABgL4VOVYUMscIqQ6s3MEr7BRlmqf9pGFpRYIkcxVMjNQ=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4575,
+        "collects": 3413,
+        "comments": 574,
+        "shares": 234
+      },
+      "viral_score": 4575.0
+    },
+    {
+      "note_id": "68414113000000002002b140",
+      "title": "29岁，裸辞不上班5年，我都干了啥",
+      "url": "https://www.xiaohongshu.com/explore/68414113000000002002b140?xsec_token=ABnmHUFErhs6CilyX1xz5XzGai_yCWczLIdB2ttBTJM_E=",
+      "publish_time": "2025-06-30",
+      "author": {
+        "user_id": "5c814d19000000001602e752",
+        "nickname": "玲崽不上班",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c814d19000000001602e752?xsec_token=ABoXZsLyPSKljgCGnmnNyFbrDx7WlJjLg9s5MwZsb9Uyg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4417,
+        "collects": 3545,
+        "comments": 38,
+        "shares": 229
+      },
+      "viral_score": 4417.0
+    },
+    {
+      "note_id": "69b2a7730000000015030164",
+      "title": "替大家试过了～ 不上班的活法有很多✌️",
+      "url": "https://www.xiaohongshu.com/explore/69b2a7730000000015030164?xsec_token=ABFfRrWtGmW7qrtTkwxxw8vZu6_jI2f4Is1kiMgKDZ3UE=",
+      "publish_time": "03-30",
+      "author": {
+        "user_id": "67fa26b3000000000d00bb73",
+        "nickname": "阿雨说母婴",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67fa26b3000000000d00bb73?xsec_token=ABQvm22BSIetPJVVUAUUwkDh3Qe8CRDHmlkQdCtQTxAQY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4287,
+        "collects": 4616,
+        "comments": 204,
+        "shares": 850
+      },
+      "viral_score": 4287.0
+    }
+  ]
+}

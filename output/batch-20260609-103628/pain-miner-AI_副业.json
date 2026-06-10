@@ -1,0 +1,24 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 17,
+  "filters": {
+    "min_likes": 5,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "question",
+      "request",
+      "suggestion",
+      "criticism",
+      "pain"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 0,
+    "total_kept_pain": 0,
+    "elapsed_sec": 113.9
+  },
+  "per_note": []
+}

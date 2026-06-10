@@ -1,0 +1,533 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 11,
+  "filters": {
+    "min_likes": 3,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "criticism",
+      "suggestion",
+      "question",
+      "request",
+      "pain"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 193,
+    "total_kept_pain": 31,
+    "elapsed_sec": 231.4
+  },
+  "per_note": [
+    {
+      "note_id": "6a16703e0000000035032f51",
+      "title": "小红书新政策！普通人做自媒体新红利已来！！",
+      "url": "https://www.xiaohongshu.com/explore/6a16703e0000000035032f51?xsec_token=AB92xhYVydQAHjeIKy8h5KiSwya1lOF9eCr9QCKqIbiLs=",
+      "total_comments": 16,
+      "kept_comments": 6,
+      "top_pains": [
+        {
+          "id": "comment-6a1714b5000000002a02557b",
+          "content": "感觉你们是真能发财，我听到机制已经困了",
+          "likes": 1645,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不发脾气只发财",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a179da4000000002702c7c9",
+          "content": "哈哈哈哈哈十二点是该睡了，能刷到证明你也是发财预备役[坏笑R]",
+          "likes": 189,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "赵财猫🐱（搞钱版）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1a874b000000002702d36e",
+          "content": "告诉大家一个技巧 那就是在别人的评论下面回复，到处曝光系统就会判定你是活人！在我这里回复吧 我不嫌烦哈哈哈哈",
+          "likes": 81,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "曦",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a17e1d000000000270294e2",
+          "content": "看到博主是做运营的，可不可以看看我的主页呀，感觉我的视频流量好差呀，我也是新人，真的很想做一个穿搭博主，就姐姐多多给些建议～",
+          "likes": 58,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "吃个杨桃🍦",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-6a1a92f3000000002300e91c",
+          "content": "看到博主总结小红书新政策四大变化了对吧，1.新推流机制这块别只盯着流量数字看，重点是你内容的完播率和互动深度有没有跟上平台的新算法权重。2.新内容载体不是说让你什么都做而是选一个你擅长的深耕比如图文就死磕图文质量别看别人做视频你也跟着焦虑。3.新变现途径对普通人来说最靠谱的还是先跑通一个最小闭环哪怕只有100个铁粉能变现也比10万泛粉强得多。4.评论区有人说小红书既要又要其实平台方向很明确就是优质原创内容+真实互动数据这两个指标抓住了红利自然就是你的💪",
+          "likes": 33,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "郑州贺老师帮你看号",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "pain",
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69b65823000000001b0222dc",
+      "title": "快抄作业！自媒体第一步：万赞封面",
+      "url": "https://www.xiaohongshu.com/explore/69b65823000000001b0222dc?xsec_token=ABTSuYe9XmJ4ZzLAKA14VzwXDmRkdscKaYjSjG3_YrCt4=",
+      "total_comments": 15,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69a79502000000002801eac3",
+      "title": "再见了，苏丽珍的朋友们",
+      "url": "https://www.xiaohongshu.com/explore/69a79502000000002801eac3?xsec_token=ABykZ5Faf5H6uKkXPYkWXmo8cGsIRoeXfYu2RBPP-cU_Q=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-69a7964f000000001501742a",
+          "content": "宝宝 毒舌有很多优秀的编辑 我已经脱离毒舌b站账号很久、几近八个多月。他们的内容我们也很喜欢 所以大家都值得期待 希望多多关注～～",
+          "likes": 906,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "苏丽珍",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-69abfffe000000000d03d923",
+          "content": "你会有新账号吗？我也才第一次看到就是告别有新账号希望有人能踢踢我，我先轻置玉臀在此，静候🍵",
+          "likes": 39,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "冬天有太阳（芒种）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-69a8841100000000080338ad",
+          "content": "在多媒体高度发达的今天，唯有那些带着强烈个人IP属性的表达，才能在自媒体时代碰撞出真正动人的火花。第一次刷到这篇帖子时，我甚至不知道苏丽珍是谁，却被这既有力量又有温度的文字深深吸引，忍不住反复驻足品读。遗憾的是，博主即将停更。2026年，九紫离火运，其势迅猛，令人惊叹！愿帖主如大鹏展翅，扶摇直上九万里。我便不再关注了。",
+          "likes": 38,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "苏苏在养娃",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69a84473000000000600e8d7",
+          "content": "不懂就问，这个苏丽珍是方大同歌里那个吗（触雷致歉ky致歉致歉一切不知道致歉什么反正先致歉）",
+          "likes": 36,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "时.",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69a89082000000000600b226",
+          "content": "那你不关注，我也不关注了",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不看世界哪来的世界观",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6973a744000000000c03481a",
+      "title": "2026所有人都有机会做自媒体",
+      "url": "https://www.xiaohongshu.com/explore/6973a744000000000c03481a?xsec_token=AB0KsCnj0W0_1-b9Zy6EkensiwUeBXT3xkozJV-Ox8fZE=",
+      "total_comments": 19,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6977208300000000050335f9",
+          "content": "我不会私信任何人，也不会加任何人的联系方式，所有主动找你的都不是我，请大家擦亮双眼。",
+          "likes": 19,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "王加加",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69762b2600000000090375c0",
+          "content": "宝宝能看看我吗",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "木口好好好",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6854d506000000001703325d",
+      "title": "纯素人自媒体爆款sop大公开🔥（广告6w/条）",
+      "url": "https://www.xiaohongshu.com/explore/6854d506000000001703325d?xsec_token=ABC3XIL3MJv7vbq5awgmZIFK2IMmy82XLarsP-Wx4hU6U=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-68564dbf0000000020032102",
+          "content": "姐妹们，我不带人的，同时提醒下互联网说带你们的 基本是骗子 大家注意安全",
+          "likes": 61,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "22顶呱呱的哇",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "criticism"
+          ]
+        },
+        {
+          "id": "comment-6856418c000000002000fce0",
+          "content": "宝宝我觉得你可以直接将你的封面设置成vlog里的一帧，然后选题可以选一个比较小的点、比如说你是在英国的医生，我觉得可以分享在英国的一些生活方式，一些有趣的现象 我会很愿意看的！！但是如果是纯流水账的话 可能就不那么吸引人",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "好运芒果er",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68564ba7000000001e01f49a",
+          "content": "求带，预算5K",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "💐小满。",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        },
+        {
+          "id": "comment-68554394000000000c0177da",
+          "content": "呜呜呜呜呜呜呜呜呜那个紫色的的手机好好看啊，啥牌子",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯68226584",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-685561e80000000009039dca",
+          "content": "内容哪里来的灵感啊",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "意瑾YiJin",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68862920000000002400f49f",
+      "title": "新人博主必备的入门工具🧰暑假做自媒体必",
+      "url": "https://www.xiaohongshu.com/explore/68862920000000002400f49f?xsec_token=ABGj9EgG8yJ-Mg4WQmcFrjYNYouzercxCboB5tC6Cpf18=",
+      "total_comments": 18,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "68550d46000000000d024314",
+      "title": "正常人是做不好自媒体的",
+      "url": "https://www.xiaohongshu.com/explore/68550d46000000000d024314?xsec_token=AB1dclmROOF66iWvPxdnCjIKJCV-fmwHZs23OAf-Yg8BM=",
+      "total_comments": 19,
+      "kept_comments": 7,
+      "top_pains": [
+        {
+          "id": "comment-68567ad70000000020027192",
+          "content": "正好那天看到这一页：网络是由自恋驱动的",
+          "likes": 644,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "樹獺國王不慌不忙",
+          "ip_location": "贵州",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68553c3a000000000d014db8",
+          "content": "露脸，在大多数情况下，最危险的情况，无非就是私信骚扰。没那么夸张",
+          "likes": 267,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "耶梦加德.",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-685511c30000000004019fb4",
+          "content": "我大概三个月前才想着要做自媒体，确实感觉自己和周围一些听父母安排，按部就班结婚生子的“正常人”不一样。我很不喜欢被人使唤，很不喜欢和人建立上下级关系，很难“找份稳定工作”。我创作的主要内容是心理和英语，当时主要想用英语内容搞米，用心理内容表达和疗愈自己的心理创伤。陆续发了一些我被我NPD父PUA和操控的经历，居然得到了广大网友关注和点赞。三个多月，小众赛道，从12粉到现在900＋粉。不得不承认，在现实中没法表达的、少有人理解的东西，在这里有人听得懂、看得见。而且我发现我分享创伤的同时也能帮助到他人，帮他们照见自己，看到他们自己的创伤。我觉得是个双赢又能正循环的事。",
+          "likes": 191,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Andy的自渡之旅",
+          "ip_location": "广西",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-685537fa000000001102e314",
+          "content": "俺一直想问一个问题[抽泣R]都说别在网上随便露脸或者发自己的照片，但是那些颜值博主和明星网红，她们是怎么保护自己隐私的呢。。做露脸会不会很危险呀（别喷我真不懂，疑惑很久了）",
+          "likes": 139,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "本分",
+          "ip_location": "浙江",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6855225c000000000b0164d3",
+          "content": "真的我发现了 我本来想做的 但是特别害怕自己的观点不对别人信了又给别人造成不好的影响 那就是我的过错了",
+          "likes": 49,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "暖壤小金",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "687e41ac0000000012021be0",
+      "title": "自媒体必备5个爆款钩子开头（精华汇总版）",
+      "url": "https://www.xiaohongshu.com/explore/687e41ac0000000012021be0?xsec_token=ABYHK6sDoQjMh_WjItj0pXRJ83hBwN3eqXpFKF0oDSy70=",
+      "total_comments": 18,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-687e644d0000000002007675",
+          "content": "我已经想好下条文案开头怎么写了：千万不要在面试的时候踩这些坑，不然我也不会面了六次实习都被刷，直到第七次终于面上了垂类头部公司……能不能求个表扬（bushi",
+          "likes": 25,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "起司🧀",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-687e70f2000000000400a737",
+          "content": "所以有宝子看出我的开头用的是哪个公式吗",
+          "likes": 11,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "椰挞进步没！",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-687fa8b20000000015002a8a",
+          "content": "你信不信我说一个扎心的真相，我发现这种标题党还是会有一堆人不划走给他点赞，不会还有人不知道吧",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "L-LIAM",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a06791e00000000080016b0",
+      "title": "超高效率！揭秘我做自媒体丝滑全流程SOP",
+      "url": "https://www.xiaohongshu.com/explore/6a06791e00000000080016b0?xsec_token=ABRos64Pw_k18lDxxYVph0LYCI1F2PmTzbQWFKQR4J2hc=",
+      "total_comments": 15,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a0826ca000000002b0013ca",
+          "content": "我也能拍超多，但是我发现我拍完了懒得剪！",
+          "likes": 93,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "积极生活的小张",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a07173f000000002803ccc1",
+          "content": "Wc真不愧是百万粉丝的博主 。 之前认识一个朋友就是跟他出完门，坐地铁的路上他就把要发的xhs写好了，回到家直接就能发了 。",
+          "likes": 49,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "七千云海",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a185d2100000000380363b3",
+      "title": "如果你是素人或新人，可以试试小而美的赛道",
+      "url": "https://www.xiaohongshu.com/explore/6a185d2100000000380363b3?xsec_token=ABvr8TirnYboPwfBrFBKQsT159hlJl0DXWJBDf7wyB60g=",
+      "total_comments": 19,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a1b1f7c000000002a0255df",
+          "content": "家居是真好啊，几百粉都能接到",
+          "likes": 135,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "pipi在家🏠",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a230005000000002a02e422",
+          "content": "姐姐 我家适合吗 感觉网上好看的家太多了 自己的这种不知道走那种路线的 自己也不太会收纳 没有利他的知识点啊",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "鑫鑫爱分享",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a1aef7b00000000350231ce",
+      "title": "后悔没早逼自己当个迷你博主",
+      "url": "https://www.xiaohongshu.com/explore/6a1aef7b00000000350231ce?xsec_token=AB0SW2p0Ca6pGhIOa9OzMMxCozC_gBloNGjLdvUcssWOg=",
+      "total_comments": 14,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a1bf416000000002a03010f",
+          "content": "太有共鸣了，现在对每一个视频都只追求自我的认可，所以数据好坏就不再重要，发出去的那刻就已经完成使命啦",
+          "likes": 202,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "凛冽塑胶",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1af3f9000000002701f0e7",
+          "content": "以前总觉得，好像自媒体红利没了，已经到红海阶段了，普通人想通过自媒体赚钱越来越希望渺茫了，还是别浪费时间做账号了(其实主要是懒和不自信啦)。但是当我裸辞之后开始做自己的账号，开始从之前刷视频的人变成拍视频的人，感觉一切都不一样了。今天分享我自己感受到的，当一个迷你博主的隐形好处！我们一起试试，开始当一个迷你博主吧",
+          "likes": 86,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "杨小七",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        }
+      ]
+    }
+  ]
+}

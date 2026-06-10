@@ -1,0 +1,859 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "AI 儿童绘本",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 500,
+    "require_fans": false,
+    "fan_source": "auto"
+  },
+  "scanned_notes": 40,
+  "pre_filter_pass": 40,
+  "unique_authors": 39,
+  "fetched_fans": 0,
+  "viral_count": 40,
+  "elapsed_sec": 3.5,
+  "results": [
+    {
+      "note_id": "666c0258000000001c0207a2",
+      "xsec_token": "ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "title": "用AI做儿童绘本🔥涨粉8W",
+      "url": "https://www.xiaohongshu.com/explore/666c0258000000001c0207a2?xsec_token=ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "publish_time": "2024-06-14",
+      "author": {
+        "user_id": "5c519dad000000001202ca0d",
+        "nickname": "陶陶AI灵感库",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c519dad000000001202ca0d?xsec_token=ABe3_p79ZwhyLm7RsyEnAg9FJuleeLcFPRCSl5Jq3gGQM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 20489,
+        "collects": 24317,
+        "comments": 749,
+        "shares": 3631
+      },
+      "viral_score": 20489.0
+    },
+    {
+      "note_id": "696744f6000000001a02faeb",
+      "xsec_token": "AB2bgLxRPZ83n1aD6X3aWqb8U6BPYZbrW0_UZbwsBeGuk=",
+      "title": "第一集—西兰花先生的理发店（",
+      "url": "https://www.xiaohongshu.com/explore/696744f6000000001a02faeb?xsec_token=AB2bgLxRPZ83n1aD6X3aWqb8U6BPYZbrW0_UZbwsBeGuk=",
+      "publish_time": "05-24",
+      "author": {
+        "user_id": "5817f10e82ec3913611e84ea",
+        "nickname": "小甜橙妹妹的快乐星球",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5817f10e82ec3913611e84ea?xsec_token=ABxAtqCfpOGcS5Va5ZcQTzFlOY9lx4pN1gH5rjZgL0STM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 19705,
+        "collects": 11425,
+        "comments": 398,
+        "shares": 8846
+      },
+      "viral_score": 19705.0
+    },
+    {
+      "note_id": "6730a3ff000000001b02f1cd",
+      "xsec_token": "ABhvbYn5gq_yOHdiyPDLWMkQLKBniR41lumxG0EYkxg7s=",
+      "title": "谁懂啊！AI做儿童绘本真的太香了！保姆教程",
+      "url": "https://www.xiaohongshu.com/explore/6730a3ff000000001b02f1cd?xsec_token=ABhvbYn5gq_yOHdiyPDLWMkQLKBniR41lumxG0EYkxg7s=",
+      "publish_time": "2024-11-27",
+      "author": {
+        "user_id": "65bcf884000000000d01fe54",
+        "nickname": "懒布懒妈",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65bcf884000000000d01fe54?xsec_token=AB2RYuV7Zvv5fjGDZUoes4t47RZZewIHJrG782t5d95LU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 18043,
+        "collects": 20181,
+        "comments": 891,
+        "shares": 3496
+      },
+      "viral_score": 18043.0
+    },
+    {
+      "note_id": "67f65add000000001b0383ac",
+      "xsec_token": "ABBerA4-uuvMBbARIdZL35vHXoLkYmEOM5iL_nbFTdt-g=",
+      "title": "【保姆级教程】🔥用AI生成儿童绘本故事",
+      "url": "https://www.xiaohongshu.com/explore/67f65add000000001b0383ac?xsec_token=ABBerA4-uuvMBbARIdZL35vHXoLkYmEOM5iL_nbFTdt-g=",
+      "publish_time": "2025-05-20",
+      "author": {
+        "user_id": "6631b4270000000003033200",
+        "nickname": "胖子AI实战日记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6631b4270000000003033200?xsec_token=ABYE7urM5AWiof3zfgthPU-jcTmDg96RAS-HJFZdJBuio=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 15093,
+        "collects": 17231,
+        "comments": 318,
+        "shares": 2733
+      },
+      "viral_score": 15093.0
+    },
+    {
+      "note_id": "6a1a9c600000000007012ead",
+      "xsec_token": "AB0SW2p0Ca6pGhIOa9OzMMxKwUzAY1BKbRPp85DBRRbAM=",
+      "title": "对自己好一点",
+      "url": "https://www.xiaohongshu.com/explore/6a1a9c600000000007012ead?xsec_token=AB0SW2p0Ca6pGhIOa9OzMMxKwUzAY1BKbRPp85DBRRbAM=",
+      "publish_time": "05-30",
+      "author": {
+        "user_id": "64299b65000000000f013e75",
+        "nickname": "小皮酱萌娃",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/64299b65000000000f013e75?xsec_token=ABEUTo9W9A4KUIq3ysTTHgp3ynrvf7oqk4Lpg3OUVcIMA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 7284,
+        "collects": 1229,
+        "comments": 586,
+        "shares": 454
+      },
+      "viral_score": 7284.0
+    },
+    {
+      "note_id": "67d29528000000001d024cf9",
+      "xsec_token": "AB1ic81AkZrGIaSllWEf_wrFOU5D87_hkp2GdUzThpkKs=",
+      "title": "不花钱教你用AI制作儿童绘本，非常简单实用",
+      "url": "https://www.xiaohongshu.com/explore/67d29528000000001d024cf9?xsec_token=AB1ic81AkZrGIaSllWEf_wrFOU5D87_hkp2GdUzThpkKs=",
+      "publish_time": "2025-03-13",
+      "author": {
+        "user_id": "652e8eb3000000002a03784e",
+        "nickname": "糖妈学AI",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/652e8eb3000000002a03784e?xsec_token=ABCLHLm4_SGV5opvvPuTQwiNiPfBsdJ8HP4XkZTiE3q_g=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6988,
+        "collects": 7798,
+        "comments": 259,
+        "shares": 1883
+      },
+      "viral_score": 6988.0
+    },
+    {
+      "note_id": "6937d8a9000000000d00c57d",
+      "xsec_token": "AB9Mp4wgKUuZUWykJtKekKH_A6K2Igd1gAKVPbLgpzYis=",
+      "title": "用AI将我们的旅行故事做成绘本来纪念吧～",
+      "url": "https://www.xiaohongshu.com/explore/6937d8a9000000000d00c57d?xsec_token=AB9Mp4wgKUuZUWykJtKekKH_A6K2Igd1gAKVPbLgpzYis=",
+      "publish_time": "03-19",
+      "author": {
+        "user_id": "54e70e294fac63791a29eb35",
+        "nickname": "唐西西 kawkao",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/54e70e294fac63791a29eb35?xsec_token=ABgnhi9Y0Om7BcESO25faX3IOx9XUWXNrmN6mQlej44K8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6735,
+        "collects": 10008,
+        "comments": 149,
+        "shares": 1948
+      },
+      "viral_score": 6735.0
+    },
+    {
+      "note_id": "6931338d000000001e02467e",
+      "xsec_token": "AB56PDrAcbpCt81L-wejXuWwLOHNSN-2ZHkP8lvVAv8Ow=",
+      "title": "用AI为孩子做了一本专属绘本！",
+      "url": "https://www.xiaohongshu.com/explore/6931338d000000001e02467e?xsec_token=AB56PDrAcbpCt81L-wejXuWwLOHNSN-2ZHkP8lvVAv8Ow=",
+      "publish_time": "2025-12-04",
+      "author": {
+        "user_id": "67886369000000000801ca2b",
+        "nickname": "有趣的活儿",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67886369000000000801ca2b?xsec_token=ABEIpX-4ZbiH1aOGN6JjTwURJyacNjY-Z0JSXpmovpsyA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6183,
+        "collects": 5727,
+        "comments": 110,
+        "shares": 903
+      },
+      "viral_score": 6183.0
+    },
+    {
+      "note_id": "68e5eb330000000007021fa3",
+      "xsec_token": "ABn30yhSnRgfs4XWc2RF3Nf7SF6dsaPMHvs42Bo9Tyinc=",
+      "title": "AI｜插画 《共生》人与自然插画",
+      "url": "https://www.xiaohongshu.com/explore/68e5eb330000000007021fa3?xsec_token=ABn30yhSnRgfs4XWc2RF3Nf7SF6dsaPMHvs42Bo9Tyinc=",
+      "publish_time": "03-03",
+      "author": {
+        "user_id": "61135cd4000000000101f92e",
+        "nickname": "✨AI插画研究所｜✨",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/61135cd4000000000101f92e?xsec_token=AB9xWeeU-aNJt1ya6iCj4vOZejuI1u5EJoobyqhr8bk50=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5028,
+        "collects": 2834,
+        "comments": 51,
+        "shares": 459
+      },
+      "viral_score": 5028.0
+    },
+    {
+      "note_id": "65f824210000000012023be0",
+      "xsec_token": "ABffbsAipr81DcTNLCwy5YBUR_37JUk7WO4tZ3UltGDUc=",
+      "title": "Al做电影转动画，这太好涨粉啦",
+      "url": "https://www.xiaohongshu.com/explore/65f824210000000012023be0?xsec_token=ABffbsAipr81DcTNLCwy5YBUR_37JUk7WO4tZ3UltGDUc=",
+      "publish_time": "2024-04-18",
+      "author": {
+        "user_id": "637b3a37000000001f01a5b5",
+        "nickname": "AI画画的牛掰掰",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/637b3a37000000001f01a5b5?xsec_token=ABQ7sEHqdi9Kn-pAJDKEdYKZ3UQdzD5vylFM8aO-iF99M=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4856,
+        "collects": 6386,
+        "comments": 100,
+        "shares": 891
+      },
+      "viral_score": 4856.0
+    },
+    {
+      "note_id": "6672f15b000000001c02ad12",
+      "xsec_token": "ABlSCe4P1sSJ3XK0sIczNGyTSRcakrQlXqRxnQ-QmQMFU=",
+      "title": "4️⃣故事的最后…",
+      "url": "https://www.xiaohongshu.com/explore/6672f15b000000001c02ad12?xsec_token=ABlSCe4P1sSJ3XK0sIczNGyTSRcakrQlXqRxnQ-QmQMFU=",
+      "publish_time": "2024-09-13",
+      "author": {
+        "user_id": "5c571089000000001a0236a8",
+        "nickname": "白白南",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c571089000000001a0236a8?xsec_token=AB_irmthBieE6QgvxkoSQ4AfGS-RqpAvW4IDjGmnhXyfE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4000,
+        "collects": 667,
+        "comments": 36,
+        "shares": 84
+      },
+      "viral_score": 4000.0
+    },
+    {
+      "note_id": "687a2e65000000001c0369b3",
+      "xsec_token": "AB9LiC--zA_GREQa6w7Z4tnr6S5yEJomzZS_aJMkmm8eI=",
+      "title": "即梦3.1在绘本这个赛道几乎没有对手",
+      "url": "https://www.xiaohongshu.com/explore/687a2e65000000001c0369b3?xsec_token=AB9LiC--zA_GREQa6w7Z4tnr6S5yEJomzZS_aJMkmm8eI=",
+      "publish_time": "2025-07-18",
+      "author": {
+        "user_id": "5dc437510000000001001e76",
+        "nickname": "AI设计师KK",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5dc437510000000001001e76?xsec_token=ABOXDC9euAuE7-8gf1xPycka808HD7rf_Am9yaXbg2rbk=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3847,
+        "collects": 2162,
+        "comments": 65,
+        "shares": 557
+      },
+      "viral_score": 3847.0
+    },
+    {
+      "note_id": "6744102b0000000007027ac7",
+      "xsec_token": "AB3EbwD0LMCe-TTNN5DDpRXltY65brTguLgrWtA-UiKpA=",
+      "title": "在家🏘︎自己打印🖨︎绘本",
+      "url": "https://www.xiaohongshu.com/explore/6744102b0000000007027ac7?xsec_token=AB3EbwD0LMCe-TTNN5DDpRXltY65brTguLgrWtA-UiKpA=",
+      "publish_time": "2025-06-17",
+      "author": {
+        "user_id": "5c52d9d1000000001001c45d",
+        "nickname": "yumi",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c52d9d1000000001001c45d?xsec_token=AB6COKM0WfOnuccVo-jH4d7r-MiAbKSWQJR-DiKzpINLQ=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3315,
+        "collects": 5094,
+        "comments": 385,
+        "shares": 400
+      },
+      "viral_score": 3315.0
+    },
+    {
+      "note_id": "66f29349000000001a022521",
+      "xsec_token": "AB-7dn_1dOCbHqpIgc4IXZgswAM9B2IPJMDZYqKBDnI2E=",
+      "title": "🔥1分钟用AI做儿童绘本｜保姆级教程✅",
+      "url": "https://www.xiaohongshu.com/explore/66f29349000000001a022521?xsec_token=AB-7dn_1dOCbHqpIgc4IXZgswAM9B2IPJMDZYqKBDnI2E=",
+      "publish_time": "2025-04-10",
+      "author": {
+        "user_id": "66d19784000000001d031845",
+        "nickname": "KK带你玩转ai",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/66d19784000000001d031845?xsec_token=ABK_kkcpzjS0Bu5Pi7otugm1khrp2AxYewsf-N2OVYPQE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3201,
+        "collects": 3876,
+        "comments": 233,
+        "shares": 709
+      },
+      "viral_score": 3201.0
+    },
+    {
+      "note_id": "67bc873d000000000d017582",
+      "xsec_token": "ABLPUP_6jHHKpOc5oLYBSUxuwt2dUTXa3ClqFPwc9hdcg=",
+      "title": "deepseek，一分钟生成你想要的任何视频😱",
+      "url": "https://www.xiaohongshu.com/explore/67bc873d000000000d017582?xsec_token=ABLPUP_6jHHKpOc5oLYBSUxuwt2dUTXa3ClqFPwc9hdcg=",
+      "publish_time": "2025-02-25",
+      "author": {
+        "user_id": "677b6ac7000000001403277e",
+        "nickname": "AI教育",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/677b6ac7000000001403277e?xsec_token=ABm1rVXDL5OXOlX786hibZ0EhP6eIg-ECypS0l1iYfeN4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3074,
+        "collects": 3511,
+        "comments": 51,
+        "shares": 416
+      },
+      "viral_score": 3074.0
+    },
+    {
+      "note_id": "68dbcc33000000000503252e",
+      "xsec_token": "AB_jQ-X393k-4nw__s9JEFVMiX_k20oouhoCT_LBdC0mU=",
+      "title": "用AI为孩子做了一本专属绘本！附AI生图指令",
+      "url": "https://www.xiaohongshu.com/explore/68dbcc33000000000503252e?xsec_token=AB_jQ-X393k-4nw__s9JEFVMiX_k20oouhoCT_LBdC0mU=",
+      "publish_time": "2025-10-05",
+      "author": {
+        "user_id": "66542a9c000000000700742f",
+        "nickname": "土豆炒马铃薯",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/66542a9c000000000700742f?xsec_token=ABs2v8nEDA6P4ZCMYZnWs5qqVXQBh6wEK8IKZubSaf6sw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2806,
+        "collects": 1977,
+        "comments": 48,
+        "shares": 364
+      },
+      "viral_score": 2806.0
+    },
+    {
+      "note_id": "6984b0e1000000000b008c81",
+      "xsec_token": "ABUxs1Sm5YEaswcfBY-J0SanMtF3pjQlhvMfP5jFuOQew=",
+      "title": "谷歌的 gemini 真的好好用啊牛马泪目🥲",
+      "url": "https://www.xiaohongshu.com/explore/6984b0e1000000000b008c81?xsec_token=ABUxs1Sm5YEaswcfBY-J0SanMtF3pjQlhvMfP5jFuOQew=",
+      "publish_time": "03-23",
+      "author": {
+        "user_id": "62398ae4000000001000dd46",
+        "nickname": "停不下来学AI",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/62398ae4000000001000dd46?xsec_token=ABtsX2wD8tJB5zciQzjKRRHAqIW-nFQw6NYB1qVGRYljA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2745,
+        "collects": 2183,
+        "comments": 65,
+        "shares": 245
+      },
+      "viral_score": 2745.0
+    },
+    {
+      "note_id": "69732c3f000000002203ae22",
+      "xsec_token": "AB0KsCnj0W0_1-b9Zy6EkenjyreaWLevT_z7VK-Y-LoH4=",
+      "title": "好羡慕上世纪八九十年代出生的中国儿童",
+      "url": "https://www.xiaohongshu.com/explore/69732c3f000000002203ae22?xsec_token=AB0KsCnj0W0_1-b9Zy6EkenjyreaWLevT_z7VK-Y-LoH4=",
+      "publish_time": "02-06",
+      "author": {
+        "user_id": "64094a1c000000001400f683",
+        "nickname": "长江少年儿童出版社",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/64094a1c000000001400f683?xsec_token=AB1kIM8QWff9ikEJbDEc3yQvbzscO6gayk0ZUfC1udL80=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2466,
+        "collects": 1198,
+        "comments": 99,
+        "shares": 142
+      },
+      "viral_score": 2466.0
+    },
+    {
+      "note_id": "67b04d3b0000000017038558",
+      "xsec_token": "ABkcvwsBxMvef-QpR0B0kfVinAYlKlfQfqBtDd-IsJ6T4=",
+      "title": "越基础越考究——衣橱里最舍不得扔掉的半袖",
+      "url": "https://www.xiaohongshu.com/explore/67b04d3b0000000017038558?xsec_token=ABkcvwsBxMvef-QpR0B0kfVinAYlKlfQfqBtDd-IsJ6T4=",
+      "publish_time": "2025-04-22",
+      "author": {
+        "user_id": "5e09ee0b0000000001009644",
+        "nickname": "美丽局局长",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5e09ee0b0000000001009644?xsec_token=ABUGCJwJM5hfKHVi-8Y4aQfHBDNnEDwC6gDrU7nn0UTtg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2258,
+        "collects": 1224,
+        "comments": 132,
+        "shares": 168
+      },
+      "viral_score": 2258.0
+    },
+    {
+      "note_id": "657201810000000038015a4e",
+      "xsec_token": "ABFTqSSUv_23neiZ7LxYUR-ZMZ30W5Vu4JDmeBo5CH_VU=",
+      "title": "AI绘本故事制作📚手把手教你如何赚💰",
+      "url": "https://www.xiaohongshu.com/explore/657201810000000038015a4e?xsec_token=ABFTqSSUv_23neiZ7LxYUR-ZMZ30W5Vu4JDmeBo5CH_VU=",
+      "publish_time": "2024-03-23",
+      "author": {
+        "user_id": "5f0437450000000001007fdd",
+        "nickname": "双胞胎叮当妈妈",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5f0437450000000001007fdd?xsec_token=AB3xlr42jWJkClbcaE8VKBQVLYffjG1jgUH4byIf6ciOA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2116,
+        "collects": 3560,
+        "comments": 63,
+        "shares": 907
+      },
+      "viral_score": 2116.0
+    },
+    {
+      "note_id": "66f271cc000000001902e2d4",
+      "xsec_token": "AB-7dn_1dOCbHqpIgc4IXZgqEidBWolPesY9wZVNuf1x0=",
+      "title": "AI一键批量做高质量有声绘本｜人物风格统一",
+      "url": "https://www.xiaohongshu.com/explore/66f271cc000000001902e2d4?xsec_token=AB-7dn_1dOCbHqpIgc4IXZgqEidBWolPesY9wZVNuf1x0=",
+      "publish_time": "2024-09-27",
+      "author": {
+        "user_id": "637b3a37000000001f01a5b5",
+        "nickname": "AI画画的牛掰掰",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/637b3a37000000001f01a5b5?xsec_token=ABQ7sEHqdi9Kn-pAJDKEdYKZ3UQdzD5vylFM8aO-iF99M=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1776,
+        "collects": 2776,
+        "comments": 91,
+        "shares": 450
+      },
+      "viral_score": 1776.0
+    },
+    {
+      "note_id": "68b80c24000000001c00ae7c",
+      "xsec_token": "ABtctxE5vgKGf4KnZWAQNGEEQuR29NQ4N537d3r9846lc=",
+      "title": "请疯狂去做AI写小说！流水式搞💰好上头",
+      "url": "https://www.xiaohongshu.com/explore/68b80c24000000001c00ae7c?xsec_token=ABtctxE5vgKGf4KnZWAQNGEEQuR29NQ4N537d3r9846lc=",
+      "publish_time": "01-19",
+      "author": {
+        "user_id": "6708b5a3000000001d03111d",
+        "nickname": "喜播AI写作",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6708b5a3000000001d03111d?xsec_token=ABbg96xJv75_Jou7QfV3z42valmE6r_oKrRQWTvYouzRk=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1666,
+        "collects": 1864,
+        "comments": 172,
+        "shares": 136
+      },
+      "viral_score": 1666.0
+    },
+    {
+      "note_id": "6899d4f80000000023021d32",
+      "xsec_token": "ABweoW04AFVxxOGto0bBpuRMNBkJv00xHtB-1TFaMtIJY=",
+      "title": "儿童绘本用AI怎么制作？",
+      "url": "https://www.xiaohongshu.com/explore/6899d4f80000000023021d32?xsec_token=ABweoW04AFVxxOGto0bBpuRMNBkJv00xHtB-1TFaMtIJY=",
+      "publish_time": "2025-08-11",
+      "author": {
+        "user_id": "676bf90c0000000018015c6e",
+        "nickname": "布先生AI实战日记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/676bf90c0000000018015c6e?xsec_token=ABn8Ju2dx_e2OZ5riIubu3DAgB2eYcSbBr7rXNp-IHPeM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1485,
+        "collects": 1739,
+        "comments": 47,
+        "shares": 277
+      },
+      "viral_score": 1485.0
+    },
+    {
+      "note_id": "6a22a30e0000000021019bda",
+      "xsec_token": "ABOe5PX2rupeHXsD0DzRjT5YBjH04up8Ml6gHwz_rWxcQ=",
+      "title": "学校还有这么牛的毕设…",
+      "url": "https://www.xiaohongshu.com/explore/6a22a30e0000000021019bda?xsec_token=ABOe5PX2rupeHXsD0DzRjT5YBjH04up8Ml6gHwz_rWxcQ=",
+      "publish_time": "1天前",
+      "author": {
+        "user_id": "5ecfaf7400000000010064d2",
+        "nickname": "花少栗、",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5ecfaf7400000000010064d2?xsec_token=ABOpZqk9-DVTwIOGHuvy6EFlkHoFTQV8MQWnVzMy5w2iM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1424,
+        "collects": 44,
+        "comments": 62,
+        "shares": 72
+      },
+      "viral_score": 1424.0
+    },
+    {
+      "note_id": "69a69edd000000002202fb17",
+      "xsec_token": "ABFuV02Rkl5t_jD_L9labudSq-Hq8UMphEkk8fOCKR8n8=",
+      "title": "今天过节，但节日绘本忘了买？赶紧用ai做一个",
+      "url": "https://www.xiaohongshu.com/explore/69a69edd000000002202fb17?xsec_token=ABFuV02Rkl5t_jD_L9labudSq-Hq8UMphEkk8fOCKR8n8=",
+      "publish_time": "03-03",
+      "author": {
+        "user_id": "5b041d1be8ac2b268b0a563f",
+        "nickname": "Erin是松果妈妈",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b041d1be8ac2b268b0a563f?xsec_token=ABXuuIHKSqL4hlRIbz7nv3gv_8t50dGuHuS6k9en-3Yoo=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1396,
+        "collects": 1789,
+        "comments": 42,
+        "shares": 261
+      },
+      "viral_score": 1396.0
+    },
+    {
+      "note_id": "68c812d1000000001d02e95a",
+      "xsec_token": "ABC59SZbpZayfE8J1477iP2t2fnI95lruZFqzbCimVeQU=",
+      "title": "英语绘本",
+      "url": "https://www.xiaohongshu.com/explore/68c812d1000000001d02e95a?xsec_token=ABC59SZbpZayfE8J1477iP2t2fnI95lruZFqzbCimVeQU=",
+      "publish_time": "2025-09-18",
+      "author": {
+        "user_id": "6448a640000000002a0097cb",
+        "nickname": "小武玩AI",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6448a640000000002a0097cb?xsec_token=ABBUL2Oh4RY0CxitHDqp3tLcx2t-63XMVNgEfNrlVVJyo=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1393,
+        "collects": 1814,
+        "comments": 54,
+        "shares": 424
+      },
+      "viral_score": 1393.0
+    },
+    {
+      "note_id": "686e06ee0000000010012770",
+      "xsec_token": "ABR5khVsWXsTmtmyAS8H-03YmHtmv7ckZJ9-LeoeM-Tts=",
+      "title": "【保姆级教程】🔥用AI生成高质量儿童绘本",
+      "url": "https://www.xiaohongshu.com/explore/686e06ee0000000010012770?xsec_token=ABR5khVsWXsTmtmyAS8H-03YmHtmv7ckZJ9-LeoeM-Tts=",
+      "publish_time": "2025-08-07",
+      "author": {
+        "user_id": "6213c7480000000010008004",
+        "nickname": "麦爸不慌张",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6213c7480000000010008004?xsec_token=ABH1rqhxNZkRirsvn1qYt0litcs0Acm_l0QzCQx3gk5EY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1374,
+        "collects": 1052,
+        "comments": 33,
+        "shares": 159
+      },
+      "viral_score": 1374.0
+    },
+    {
+      "note_id": "67b2b2e7000000001800ae11",
+      "xsec_token": "ABIb0jo5pCawrbNjAp91oEVniKgvPAEQ-xu44_WfVF8-A=",
+      "title": "用Ai做儿童绘本太香了，涨粉飞快🔥",
+      "url": "https://www.xiaohongshu.com/explore/67b2b2e7000000001800ae11?xsec_token=ABIb0jo5pCawrbNjAp91oEVniKgvPAEQ-xu44_WfVF8-A=",
+      "publish_time": "2025-02-17",
+      "author": {
+        "user_id": "5fc9895b000000000100afb8",
+        "nickname": "Ai编号89757",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5fc9895b000000000100afb8?xsec_token=ABpBRHWl1tDJ0V6jYGjsOVXchWq9Te8Hm-bdYkiYBG_44=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1193,
+        "collects": 1111,
+        "comments": 35,
+        "shares": 199
+      },
+      "viral_score": 1193.0
+    },
+    {
+      "note_id": "681acb4200000000210085b1",
+      "xsec_token": "ABXLpTsTszfPkLuq310tzG6QBt2KrwNz_kNQEY_rBv27c=",
+      "title": "deepseek+剪映做绘本故事 绝了！！",
+      "url": "https://www.xiaohongshu.com/explore/681acb4200000000210085b1?xsec_token=ABXLpTsTszfPkLuq310tzG6QBt2KrwNz_kNQEY_rBv27c=",
+      "publish_time": "2025-05-29",
+      "author": {
+        "user_id": "67cbd8e9000000000a03f079",
+        "nickname": "财财小狗🐶",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67cbd8e9000000000a03f079?xsec_token=ABV_BNwGYcSW0mQh4T9Q05utY8MvM7VVx9khWGhIGLXUw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1122,
+        "collects": 1102,
+        "comments": 2570,
+        "shares": 219
+      },
+      "viral_score": 1122.0
+    },
+    {
+      "note_id": "66d14674000000001d019726",
+      "xsec_token": "ABK_kkcpzjS0Bu5Pi7otugm7zuhbaQNV4LpXdqiDYrQUs=",
+      "title": "用AI做副业，真的超好赚！",
+      "url": "https://www.xiaohongshu.com/explore/66d14674000000001d019726?xsec_token=ABK_kkcpzjS0Bu5Pi7otugm7zuhbaQNV4LpXdqiDYrQUs=",
+      "publish_time": "2024-08-31",
+      "author": {
+        "user_id": "5d0caf5e0000000016023baf",
+        "nickname": "汤姆喵喵",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5d0caf5e0000000016023baf?xsec_token=AB0Ipz5VR30SgYW0-kzkMNzJcv2jfLK1Lf0MNYqqGgZBk=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 984,
+        "collects": 1233,
+        "comments": 26,
+        "shares": 161
+      },
+      "viral_score": 984.0
+    },
+    {
+      "note_id": "69e589a4000000001e00e162",
+      "xsec_token": "AByN9lztwn9tEk6LawWpmU5jhEgnGGjoECFx-wYdjdS7g=",
+      "title": "还在卷漫剧？AI 绘本故事才是蓝海赛道！",
+      "url": "https://www.xiaohongshu.com/explore/69e589a4000000001e00e162?xsec_token=AByN9lztwn9tEk6LawWpmU5jhEgnGGjoECFx-wYdjdS7g=",
+      "publish_time": "04-21",
+      "author": {
+        "user_id": "5f3a1c66000000000101dfbf",
+        "nickname": "噗噗AI指南",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5f3a1c66000000000101dfbf?xsec_token=ABBEakp3geYZiDQT_MQLaf_ytedOh18SY3eFBW7TJLlCU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 982,
+        "collects": 915,
+        "comments": 33,
+        "shares": 92
+      },
+      "viral_score": 982.0
+    },
+    {
+      "note_id": "6916f679000000001b021070",
+      "xsec_token": "ABs-ZPo_8fVA10md-hRUd-7dfk1lqpmuZdgSwgoXinyAc=",
+      "title": "无痛当妈！我的AI电子猫咪太萌啦！",
+      "url": "https://www.xiaohongshu.com/explore/6916f679000000001b021070?xsec_token=ABs-ZPo_8fVA10md-hRUd-7dfk1lqpmuZdgSwgoXinyAc=",
+      "publish_time": "2025-11-14",
+      "author": {
+        "user_id": "6843e7b3000000001e01741a",
+        "nickname": "Walulu",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6843e7b3000000001e01741a?xsec_token=ABaUNq5QkujGEFrfKBuawtPM9i4eDHzjTTyg4zSUg-f8I=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 971,
+        "collects": 695,
+        "comments": 51,
+        "shares": 113
+      },
+      "viral_score": 971.0
+    },
+    {
+      "note_id": "691c0ee0000000001e0071ae",
+      "xsec_token": "ABZcY2Mdn62aQK-UU4miIbQpA0LeZ16pvZEfBpoGg6b2E=",
+      "title": "第一批觉醒的家长，已经让孩子主动驾驭AI了",
+      "url": "https://www.xiaohongshu.com/explore/691c0ee0000000001e0071ae?xsec_token=ABZcY2Mdn62aQK-UU4miIbQpA0LeZ16pvZEfBpoGg6b2E=",
+      "publish_time": "2025-12-24",
+      "author": {
+        "user_id": "5fab7e51000000000101f1d6",
+        "nickname": "课堂内外",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5fab7e51000000000101f1d6?xsec_token=ABK368h04jc5YSM6BHaSOoFhHEPP-hmtuiswZxM5SaPts=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 959,
+        "collects": 599,
+        "comments": 38,
+        "shares": 109
+      },
+      "viral_score": 959.0
+    },
+    {
+      "note_id": "68d10ed9000000001302ba95",
+      "xsec_token": "ABbIqXL7-C9tYRgBcD4wKxHlQ6ivP0DOsc4BE-qa-2Vmg=",
+      "title": "即梦4.0批量一次性生成绘本，真的太香了‼️",
+      "url": "https://www.xiaohongshu.com/explore/68d10ed9000000001302ba95?xsec_token=ABbIqXL7-C9tYRgBcD4wKxHlQ6ivP0DOsc4BE-qa-2Vmg=",
+      "publish_time": "2025-09-23",
+      "author": {
+        "user_id": "63662a26000000001f019b1b",
+        "nickname": "宽宽AI设计",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/63662a26000000001f019b1b?xsec_token=AB8xU-O4X3ze9iGHoonpin0Xzo41bWlAbWHNyFm3CgSt8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 899,
+        "collects": 648,
+        "comments": 36,
+        "shares": 100
+      },
+      "viral_score": 899.0
+    },
+    {
+      "note_id": "690d6c08000000000302ec71",
+      "xsec_token": "ABdFM1jiZR4CVBApbF9-QEJx3q_upj8b8w2xpgc3v0HC0=",
+      "title": "十分钟教你用AI制作儿童绘本【附教程】",
+      "url": "https://www.xiaohongshu.com/explore/690d6c08000000000302ec71?xsec_token=ABdFM1jiZR4CVBApbF9-QEJx3q_upj8b8w2xpgc3v0HC0=",
+      "publish_time": "2025-11-07",
+      "author": {
+        "user_id": "5bf2d843808f4d0001ca358f",
+        "nickname": "设计师轻微",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5bf2d843808f4d0001ca358f?xsec_token=ABhD79d3OqrXerIerCDS_Oibf0DbJ1QiSgFl7GgZrcZvc=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 871,
+        "collects": 756,
+        "comments": 16,
+        "shares": 141
+      },
+      "viral_score": 871.0
+    },
+    {
+      "note_id": "65f18ce50000000012022275",
+      "xsec_token": "ABUcIUtiaE7RGQaykDu9t88gLExi23gbqHx5AzCbH6rGw=",
+      "title": "完全使用AI工具做一册儿童绘本",
+      "url": "https://www.xiaohongshu.com/explore/65f18ce50000000012022275?xsec_token=ABUcIUtiaE7RGQaykDu9t88gLExi23gbqHx5AzCbH6rGw=",
+      "publish_time": "2024-03-13",
+      "author": {
+        "user_id": "5881b8ad6a6a69336d37d17f",
+        "nickname": "Leon AI调教师",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5881b8ad6a6a69336d37d17f?xsec_token=ABda8gt3qCj8iT42PGclegeXv3HlcoLwSGBZ0VlFuXE90=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 817,
+        "collects": 747,
+        "comments": 24,
+        "shares": 102
+      },
+      "viral_score": 817.0
+    },
+    {
+      "note_id": "692f8093000000001e02cce5",
+      "xsec_token": "ABXl3oiwx2MH1UTuNa-AfWYv8a2FO2bkhwi2RIBdhx99Q=",
+      "title": "一网打尽，五上期末字词标点十大专项练习",
+      "url": "https://www.xiaohongshu.com/explore/692f8093000000001e02cce5?xsec_token=ABXl3oiwx2MH1UTuNa-AfWYv8a2FO2bkhwi2RIBdhx99Q=",
+      "publish_time": "2025-12-29",
+      "author": {
+        "user_id": "607453dd000000000100097b",
+        "nickname": "白得分",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/607453dd000000000100097b?xsec_token=ABS5lP5AsgaBGdhMnrynjCkCd7d2qU44lwSkW53y-2B8c=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 752,
+        "collects": 830,
+        "comments": 35,
+        "shares": 92
+      },
+      "viral_score": 752.0
+    },
+    {
+      "note_id": "69fd13700000000023017302",
+      "xsec_token": "ABQHT3qlZEfqy2AdCMQDGMyVQulp5bKltlVn6KK52-X8U=",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/69fd13700000000023017302?xsec_token=ABQHT3qlZEfqy2AdCMQDGMyVQulp5bKltlVn6KK52-X8U=",
+      "publish_time": "05-08",
+      "author": {
+        "user_id": "68821747000000001d020871",
+        "nickname": "大胖胖和小嘟嘟搞笑日常",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/68821747000000001d020871?xsec_token=ABb1kq5gtY-Ye3o0HrKC6i-njIFb7VwbGt_ICRYLtIaLs=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 716,
+        "collects": 176,
+        "comments": 24,
+        "shares": 214
+      },
+      "viral_score": 716.0
+    },
+    {
+      "note_id": "68e3c4730000000005012ab0",
+      "xsec_token": "AB3zhi-YUcg53utd0rKAY26bSkFGx_JVArydmAQP7_miM=",
+      "title": "宝妈们快冲！0元创作宝宝最爱的的恐龙绘本",
+      "url": "https://www.xiaohongshu.com/explore/68e3c4730000000005012ab0?xsec_token=AB3zhi-YUcg53utd0rKAY26bSkFGx_JVArydmAQP7_miM=",
+      "publish_time": "2025-10-13",
+      "author": {
+        "user_id": "5b1e6ca2e8ac2b38d016577f",
+        "nickname": "珂珂和玹玹",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b1e6ca2e8ac2b38d016577f?xsec_token=ABhEGBxo3YzRLgdJVoRs8YWXk9gXX9jBuLorZOP5dnhLw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 712,
+        "collects": 297,
+        "comments": 146,
+        "shares": 8
+      },
+      "viral_score": 712.0
+    },
+    {
+      "note_id": "6a24076d0000000015026a31",
+      "xsec_token": "ABEvmseEWHbG54pRUF0O1xtwbwsKtdxj56jfuIP2NbCXc=",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/6a24076d0000000015026a31?xsec_token=ABEvmseEWHbG54pRUF0O1xtwbwsKtdxj56jfuIP2NbCXc=",
+      "publish_time": "3天前",
+      "author": {
+        "user_id": "6438a03e000000000d01b65f",
+        "nickname": "辰辰动漫社",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6438a03e000000000d01b65f?xsec_token=ABTeTWCqgrvsNDh-vhcv_1xuzuW18pWIK2AKf2FeM0br4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 685,
+        "collects": 163,
+        "comments": 6,
+        "shares": 3
+      },
+      "viral_score": 685.0
+    }
+  ]
+}

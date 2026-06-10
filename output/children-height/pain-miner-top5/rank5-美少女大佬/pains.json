@@ -1,0 +1,61 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "request",
+      "suggestion",
+      "pain",
+      "criticism",
+      "question"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 18,
+    "total_kept_pain": 2,
+    "elapsed_sec": 23.2
+  },
+  "per_note": [
+    {
+      "note_id": "68784940000000000d0264bf",
+      "title": "新出炉!!!2026身高体重表，你家宝贝达标吗",
+      "url": "https://www.xiaohongshu.com/explore/68784940000000000d0264bf?xsec_token=ABxcUlYi5G6LK0JCU3XzyF1pY027CH1Pqc-h6rvuDHrOg=",
+      "total_comments": 18,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-689a7c7c000000002a00a600",
+          "content": "有没有种可能，就是小时候不太长，到十五六直接长很多的！",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "亦心婷",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6885c41100000000060072e1",
+          "content": "孩子的发育和骨龄测定、生长激素激发试验、甲状腺功能五项、微量元素检测等太多因素都有关系",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "美少女大佬",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

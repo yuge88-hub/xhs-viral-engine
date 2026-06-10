@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "68416d0f00000000210193d0",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606100907/446744eb3abbcca438ffe6fde4f478c5/spectrum/1040g34o31ibhblqdnm105pdocgf3khu60tlukhg!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\ai-knowledge-base\\skill-1.5-top5\\rank5-知柿AI\\68416d0f00000000210193d0-cover.png",
+  "rules": {
+    "file_size_kb": 59.6,
+    "width": 1080,
+    "height": 1443,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(242,244,245)",
+    "is_landscape": false,
+    "dominant_color_hex": "#f2f4f5"
+  },
+  "llm_visual": {}
+}

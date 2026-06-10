@@ -1,0 +1,88 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "criticism",
+      "request",
+      "question",
+      "pain",
+      "suggestion"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 16,
+    "total_kept_pain": 4,
+    "elapsed_sec": 19.3
+  },
+  "per_note": [
+    {
+      "note_id": "6a1e8193000000002103daf6",
+      "title": "「这几个词一出现,就暴露你在用 AI」",
+      "url": "https://www.xiaohongshu.com/explore/6a1e8193000000002103daf6?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "total_comments": 16,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-6a2216a90000000027016828",
+          "content": "有没有可能，在这个世界上没有ai的时候，我就经常用其中一些句式……[呃R]",
+          "likes": 631,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "薇甜加冰Livia（好想回国版）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a2222a1000000002803e2e3",
+          "content": "有道理，AI学习了我们，难道我们还得放弃自己？",
+          "likes": 240,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Alex带你看世界",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-6a222601000000002701c735",
+          "content": "赋能不是常用词嘛。还有综上所述、抓手，这都挺常用啊。",
+          "likes": 29,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "糖🍬",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a2808d9000000002702078b",
+          "content": "有了ai我都不能说人话了",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

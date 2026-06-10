@@ -1,0 +1,39 @@
+{
+  "skill": "skill-1.5-benchmark-check",
+  "version": "0.1.0",
+  "note_id": "696744f6000000001a02faeb",
+  "target_audience": "",
+  "target_action": "",
+  "scores": {
+    "素人": {
+      "score": 0.5,
+      "reason": "粉丝数未抓到, 无法判断",
+      "fans": 0,
+      "likes": 20000
+    },
+    "结构": {
+      "score": 0.0,
+      "reason": "❌ 拆解不全: 4 问 0/4, 6 维 0/6",
+      "q_filled": 0,
+      "d_filled": 0
+    },
+    "人群": {
+      "score": 0.5,
+      "reason": "未指定目标人群, 跳过对比",
+      "note_audience": ""
+    },
+    "目标": {
+      "score": 0.5,
+      "reason": "未指定目标动作, 跳过对比",
+      "note_cta": ""
+    }
+  },
+  "weights": {
+    "素人": 0.3,
+    "结构": 0.2,
+    "人群": 0.25,
+    "目标": 0.25
+  },
+  "total_score": 0.4,
+  "recommendation": "❌ 不建议对标"
+}

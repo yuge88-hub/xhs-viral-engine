@@ -1,0 +1,18 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "AI 副业",
+  "filter": {
+    "max_followers": 100000,
+    "min_likes": 5000,
+    "require_fans": true,
+    "fan_source": "drissionpage"
+  },
+  "scanned_notes": 20,
+  "pre_filter_pass": 7,
+  "unique_authors": 7,
+  "fetched_fans": 0,
+  "viral_count": 0,
+  "elapsed_sec": 92.4,
+  "results": []
+}

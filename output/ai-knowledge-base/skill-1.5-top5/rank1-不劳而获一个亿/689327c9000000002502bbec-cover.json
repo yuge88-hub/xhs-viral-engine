@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "689327c9000000002502bbec",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606100904/be431053cddfe06cb4f68df72589e8c0/notes_pre_post/1040g3k831kr6j7rmk8b05o0el8b09b8l7ga5130!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\ai-knowledge-base\\skill-1.5-top5\\rank1-不劳而获一个亿\\689327c9000000002502bbec-cover.png",
+  "rules": {
+    "file_size_kb": 147.7,
+    "width": 1080,
+    "height": 1443,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(255,255,255)",
+    "is_landscape": false,
+    "dominant_color_hex": "#ffffff"
+  },
+  "llm_visual": {}
+}

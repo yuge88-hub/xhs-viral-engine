@@ -1,0 +1,609 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 19,
+  "filters": {
+    "min_likes": 3,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "suggestion",
+      "criticism",
+      "question",
+      "pain",
+      "request"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 320,
+    "total_kept_pain": 32,
+    "elapsed_sec": 423.3
+  },
+  "per_note": [
+    {
+      "note_id": "666c0258000000001c0207a2",
+      "title": "用AI做儿童绘本🔥涨粉8W",
+      "url": "https://www.xiaohongshu.com/explore/666c0258000000001c0207a2?xsec_token=ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "total_comments": 19,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-667cc449000000001303dda3",
+          "content": "怎么做，求带",
+          "likes": 40,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "欢欢小丸子",
+          "ip_location": "重庆",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        },
+        {
+          "id": "comment-67aeee16000000001c005822",
+          "content": "稍微人物多难一点的画面根本画不好而且前后基本没有连贯性，比如前一张说兔子姐妹住在一个什么样的家里，后面一张图那个家就完全变样了，第二张图加了一个小猪，结果它直接给了我一个猪和兔子的混合体也不怪奇域，chatgpt也是这样。目前还没有找到真正能做好绘本的AI工具",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "夏末的月光",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "66f8fa58000000001902e7f6",
+      "title": "如何远程賺外国人的钱",
+      "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+      "total_comments": 13,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-689d8aca00000000270067bd",
+          "content": "不会外语，感觉没法做",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "教道德与法治的林雪",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a168b8a000000003501caf4",
+      "title": "一口气学会ai漫剧制作全流程，小白必看！",
+      "url": "https://www.xiaohongshu.com/explore/6a168b8a000000003501caf4?xsec_token=AB92xhYVydQAHjeIKy8h5KiexRXghx7Se6EqJYZkQN2vQ=",
+      "total_comments": 20,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "671f297d000000001600c2d3",
+      "title": "教程来了！价格500的Ai单子是怎样做的？",
+      "url": "https://www.xiaohongshu.com/explore/671f297d000000001600c2d3?xsec_token=ABrck6hN80Ex67yzC7TQfnshUuH76ysWf7kCZt3ag7X4A=",
+      "total_comments": 19,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-671f2f91000000001702552f",
+          "content": "不是你想象的那么简单",
+          "likes": 770,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "火光AI",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-671f6f69000000001b020355",
+          "content": "不觉得ai会让设计死，毕竟这东西也是要设计思维才能做出来的，还有各种细节要其他软件去调整，其实换个角度ai是好东西，它节省了很多繁琐重复的工作。",
+          "likes": 224,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "江春日暮云",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-671f97f2000000001b021d9a",
+          "content": "哈哈哈是有可能，之前大学舍友画画可快了，她两天应该可以画完这个完成度的插画，不过纯手绘插画收费可能会高一些。",
+          "likes": 42,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "祁悠",
+          "ip_location": "湖南",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-674fe767000000000700255d",
+          "content": "是的，其实ai没那么简单",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "火光AI",
+          "ip_location": "浙江",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a0fe1c3000000003701f732",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/6a0fe1c3000000003701f732?xsec_token=AB4JPLRtOPxuRSpWKaGwh71y2Bo3gnpu7RkA3wB4Gxbcs=",
+      "total_comments": 10,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6826954f000000002300e26c",
+      "title": "小说挣美元的第122天（粉丝暴涨！）",
+      "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "total_comments": 18,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69256421000000001d01ec20",
+          "content": "博主想问问没有小说基础从哪开始哇，直接先写中文小说国内平台发布，然后翻译同步发布到国外可以吗",
+          "likes": 31,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小弥子",
+          "ip_location": "中国香港",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-682b536b000000000900d6a3",
+          "content": "国人能写h文吗？",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Charlesnth",
+          "ip_location": "云南",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68478d330000000021009029",
+      "title": "地铁上如何用1r赚到1000r？",
+      "url": "https://www.xiaohongshu.com/explore/68478d330000000021009029?xsec_token=ABBurcsS23rNn1eYmnjFu69QvSwKOzeq5dVgmmcNQhrQ4=",
+      "total_comments": 16,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-68510fda000000001102df2d",
+          "content": "ai啊，谁问你，就把他的问题发给ai，刚好又能出一期视频or图文",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "王大钱.",
+          "ip_location": "上海",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68510ab20000000020024f98",
+          "content": "可是自己没会，有人问回答不上来怎么半，不会的话都不敢发，很心虚",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "只鱼",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "67583465000000000103f17a",
+      "title": "用Ai写公众号，写了1个月，收入4位数",
+      "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "total_comments": 17,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-696dddd4000000000601d074",
+          "content": "公众号有多少自然流？写了一个月，还是没人看，当爱好还行，想赚钱难",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "云间禅房😇疗愈所",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a01ad2d000000003703695c",
+      "title": "AI搞钱做副业，听说能轻松月入过万？",
+      "url": "https://www.xiaohongshu.com/explore/6a01ad2d000000003703695c?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxG7uKukLtD8MyKLZBiGbDqU=",
+      "total_comments": 17,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "686cf63a000000001203c617",
+      "title": "AI时代创业门槛真的大大的降低了",
+      "url": "https://www.xiaohongshu.com/explore/686cf63a000000001203c617?xsec_token=ABks7U9Oyv2KfsPWSBb8pHlNYhpnY3Y-K-yxDq2OzI8y0=",
+      "total_comments": 18,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-686d3d43000000000c015f07",
+          "content": "做出来的前端确实可以，好看，后端就是假的数据。我还要自己再写",
+          "likes": 66,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小鱼知识",
+          "ip_location": "美国",
+          "create_time": 0,
+          "categories": [
+            "criticism"
+          ]
+        },
+        {
+          "id": "comment-686df20f000000000c024308",
+          "content": "赚钱的不会摆明面上",
+          "likes": 26,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "BUGTOYS",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-686d17310000000004016b94",
+          "content": "普通员工还能跟着财务自由？",
+          "likes": 25,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "我看谁在蛐蛐我",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69e6265a0000000014013807",
+          "content": "Base44这个案例确实很有代表性。但我想提一个不同的角度：Shlomo的成功不只是因为AI降低了技术门槛，更关键的是他对产品增长的理解——用分享换积分、LinkedIn直播创业过程。这些都是growth hacking的经典套路，只是他用AI把执行成本降到了最低。这说明AI时代的创业者需要两种能力：懂增长 + 会用AI杠杆。技术门槛确实低了，但营销和增长的门槛并没有降低。很多人只看到了前半句，忽略了后半句。",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "LaylaAI",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69793c6a0000000032000428",
+          "content": "这个案例确实牛，三个月不写代码就能做到月入18万💡 关键是他那套AI协作的思路很值得学习，现在单打独斗也有机会了",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯6A242098",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "praise"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "679218e600000000180060dd",
+      "title": "2025年去做课，知识付费长期主义！",
+      "url": "https://www.xiaohongshu.com/explore/679218e600000000180060dd?xsec_token=ABTaIUVR3zMQP5kRLxxJGlps_h-e42M4maEBilDZh6NF4=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-67b5652f0000000019000d42",
+          "content": "技艺类的建议研究目标人群，然后再课程中重点研究带来什么样的情绪价值。找到核心输出点。至于拍摄剪辑都不是事",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "普通人成长计划",
+          "ip_location": "重庆",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-682c4b94000000001c01c129",
+          "content": "哪个平台是免费的？可以上传一个小时以上的课程",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "瑜伽叶小叶Fern",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6725f290000000001a035869",
+      "title": "ai真有用吗⁉",
+      "url": "https://www.xiaohongshu.com/explore/6725f290000000001a035869?xsec_token=ABUl9UntMKfgGLH9x20iU5kKSWoyuqPj-78rG8a5wW2pE=",
+      "total_comments": 15,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-673c752d000000001b036a8b",
+          "content": "求带靠谱兼职",
+          "likes": 12,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "星星",
+          "ip_location": "浙江",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        },
+        {
+          "id": "comment-6819301a0000000004019e6f",
+          "content": "不会还有人不知道吵小说是啥吧",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "可心",
+          "ip_location": "陕西",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-672a5e87000000001b002a45",
+          "content": "又是一个割韭菜的。",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "扉扉的早餐",
+          "ip_location": "海南",
+          "create_time": 0,
+          "categories": [
+            "criticism"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a2034d80000000008033137",
+      "title": "五个副业我全踩了，亏了快四千...",
+      "url": "https://www.xiaohongshu.com/explore/6a2034d80000000008033137?xsec_token=ABZiZFwFEtqunq8jbeNaj3osAzVW5Plpa--pxp5tmSidc=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-6a214d3e000000002702264c",
+          "content": "切记，真能赚钱的不会和你说的",
+          "likes": 535,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "去码头整点椰子",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a2168820000000028031c86",
+          "content": "摆摊也有，5月初在省植物园卖过蓝莓，太热太累一上午就放弃了。",
+          "likes": 95,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a214dfd000000002902d426",
+          "content": "但是真的想学点技能技术的该怎么学呢",
+          "likes": 20,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "叫我毛线阿姨",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a224b91000000002803ebd7",
+          "content": "驾校倒闭实惨，但是模拟费和会员那些是可以省的呀！",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "钱都蓝进我兜",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a24c28b000000002900cb9a",
+          "content": "我tk陪跑花了7880，做了一个月没做了，咸鱼300元下单了专业退费，他拿退费的百分之20，所有事情他来处理，不知道能不能退回来",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "向日的葵☀",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6814514d0000000022025e3e",
+      "title": "“搞副业”还是得用野路子（一）",
+      "url": "https://www.xiaohongshu.com/explore/6814514d0000000022025e3e?xsec_token=ABPiK0cASjxnCALPYNcfZPnooZ54OjvnHPZ-CH4dG6O14=",
+      "total_comments": 13,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "647ef1810000000027002221",
+      "title": "首次AI完成接单 20分钟含泪赚3K",
+      "url": "https://www.xiaohongshu.com/explore/647ef1810000000027002221?xsec_token=ABlGO9XRemByJ_ncgCa7t7_wsSd3woatLXsoKrFPm3o24=",
+      "total_comments": 19,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69b0094b000000000902157c",
+      "title": "想赚100万，每天重复 4 小时",
+      "url": "https://www.xiaohongshu.com/explore/69b0094b000000000902157c?xsec_token=ABJZx1EcgUg6RapWiltpexKZd6pBEVqeay4SsyT7ZwCI0=",
+      "total_comments": 12,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "670885db000000001b0217c7",
+      "title": "大胆尝试，敢于折腾，不要怕犯错",
+      "url": "https://www.xiaohongshu.com/explore/670885db000000001b0217c7?xsec_token=ABbg96xJv75_Jou7QfV3z42lBglWTzXJx_XjdipGprtlA=",
+      "total_comments": 19,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69e356b20000000023011809",
+      "title": "一个人做AI小程序，现在可能是最好的时候",
+      "url": "https://www.xiaohongshu.com/explore/69e356b20000000023011809?xsec_token=AB72qfhUHMCy6nkj2YeeEXMB7C2LwpKUv0ZE92m9P0nTo=",
+      "total_comments": 17,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69e644a7000000001401e036",
+          "content": "正在做一个类似boss直聘的小程序，面向独立老师和学生，解决双减后老师找学生困难，学生找老师困难的问题",
+          "likes": 20,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Elizabeth",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69e3e7b8000000001401b801",
+          "content": "个人认为过备案太难了吧，内容生成类卡的更严，这是怎么破的",
+          "likes": 14,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯67A10735",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a0159710000000006031273",
+      "title": "做了一个月ai短剧，最终放弃了",
+      "url": "https://www.xiaohongshu.com/explore/6a0159710000000006031273?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxFCrnyPT1ik5Z8XbImmCLPs=",
+      "total_comments": 18,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-6a03a02d000000002702e4eb",
+          "content": "我摸出点规律，一个人，如果你不需要他的脸出现，你就必须明确说明“XX背对镜头”，然后提示词里绝对不能出现长相描写。如果要生成一个人从门走出去的内容，就必须把他在房间里的动线写出来，比如说“绕过床，从房间另一边的门走出去”，敢不写，它就直接从画面里生成一个门。还有就是写一个人在门外关门你得写“观众只能看见门缓缓关闭”，一旦写了“手拧门把手”，那人物的手就能穿墙…",
+          "likes": 159,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "谨行为贤",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1bcfd6000000002a0250a0",
+          "content": "外行学这个基本上就是先花一波钱学习，再花一波钱充值会员，然后花时间做几集，没收益然后放弃。最后发现还是卖教程的赚到了",
+          "likes": 60,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "芝士甜甜嘎",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-6a03fe6f0000000028039737",
+          "content": "哈哈哈难怪很多漫剧看的时候词剧情不连贯 台词也对不上 哈哈哈哈 评论都在说AI是傻子",
+          "likes": 24,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "薄荷糖momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 9,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "pain",
+      "criticism",
+      "request",
+      "question",
+      "suggestion"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 135,
+    "total_kept_pain": 24,
+    "elapsed_sec": 183.4
+  },
+  "per_note": [
+    {
+      "note_id": "689327c9000000002502bbec",
+      "title": "才知道不同的AI竟然有不同的分工",
+      "url": "https://www.xiaohongshu.com/explore/689327c9000000002502bbec?xsec_token=AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "total_comments": 19,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-69bd87da000000002b0345cc",
+          "content": "刚出来那时是真的强，带给我的震撼不亚于gpt刚出的时候",
+          "likes": 93,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯69BDFDB7",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-699ee0c0000000001101a097",
+          "content": "DeepSeek难用的要命……",
+          "likes": 39,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Gigi",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a10133600000000280342d1",
+          "content": "基本都会用百花齐放了属于，现在都是想到哪个用哪个",
+          "likes": 11,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "印第安老斑鸠",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-697ca0170000000015012e06",
+          "content": "我元宝不能上榜？",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Ash",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a1e8193000000002103daf6",
+      "title": "「这几个词一出现,就暴露你在用 AI」",
+      "url": "https://www.xiaohongshu.com/explore/6a1e8193000000002103daf6?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "total_comments": 15,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-6a2216a90000000027016828",
+          "content": "有没有可能，在这个世界上没有ai的时候，我就经常用其中一些句式……[呃R]",
+          "likes": 623,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "薇甜加冰Livia（好想回国版）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a2222a1000000002803e2e3",
+          "content": "有道理，AI学习了我们，难道我们还得放弃自己？",
+          "likes": 235,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Alex带你看世界",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-6a1f75c3000000002803f26e",
+          "content": "赋能 抓手 这些词在公文中太常见了",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "🐱一颗啵珠",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a2808d9000000002702078b",
+          "content": "有了ai我都不能说人话了",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "696b4ad3000000000a03272f",
+      "title": "Obsidian官方推出知识库Skills，AI真香！",
+      "url": "https://www.xiaohongshu.com/explore/696b4ad3000000000a03272f?xsec_token=ABN0pV4TSBBJyVuDAjh-DilxrQEZdcOAa0phS1VYWK32I=",
+      "total_comments": 20,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "691b36e8000000000703931c",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/691b36e8000000000703931c?xsec_token=ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-692aca3e00000000160229c0",
+          "content": "邪修一点，用cursor，虽然是写代码的，但是你可以吧你的文章转为markdown格式放进文件夹里当codebase让cursor读，然后让它教你写，还能体验多种模型风格",
+          "likes": 43,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "幻想实干家",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-691d69fe000000000601b980",
+          "content": "ima记不住太多东西，只能当搜索用",
+          "likes": 7,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "蝎子大王🥕",
+          "ip_location": "黑龙江",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6926b275000000001601f340",
+          "content": "用现成的ai不好吗？我看我爱人实验室用的那个商用科研ai就没有瞎编论文的现象",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "胖狐狸",
+          "ip_location": "山西",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-693ddbdc000000001600c329",
+          "content": "能分享一下博主的帖子嘛",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "P&T",
+          "ip_location": "安徽",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68416d0f00000000210193d0",
+      "title": "练完这400+页Coze，你的扣子就很牛了",
+      "url": "https://www.xiaohongshu.com/explore/68416d0f00000000210193d0?xsec_token=ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-685282c0000000000a0378b6",
+          "content": "滴滴，在哪学",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "飞翔",
+          "ip_location": "上海",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68be7538000000000b01523d",
+          "content": "coze是智能体搭建平台，可以搭建，也提供发布渠道，不会搭建智能体也可以在平台上使用别人发布的智能体",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "知柿AI",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69118eb90000000039007396",
+          "content": "你可以不发布，或者发布之后给智能体设置一个参数密码，输入密码才能访问",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "知柿AI",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-68be49b80000000030016757",
+          "content": "想问不搭建智能体就不能用扣子吗？",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不爱可口",
+          "ip_location": "甘肃",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "680a104c000000001c0327ed",
+      "title": "打造在线知识库！用DeepSeek实现人生管理",
+      "url": "https://www.xiaohongshu.com/explore/680a104c000000001c0327ed?xsec_token=AB77vXD0InrebfpLxfllI9YWjlg10GOZSgIu-mqxEgchI=",
+      "total_comments": 3,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6a18fbc0000000003601ff68",
+      "title": "我把小红书 60 万曝光的方法，做成了 Skill",
+      "url": "https://www.xiaohongshu.com/explore/6a18fbc0000000003601ff68?xsec_token=ABvr8TirnYboPwfBrFBKQsT4TrI1GWP23hlz5AwP4sM1I=",
+      "total_comments": 18,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-6a1f76d7000000002a026e33",
+          "content": "没事 能帮到大家就好 事情总要有人去做",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "子圭时安",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a182675000000003501cad4",
+      "title": "信贷报告不用手写——我的5层AI流水线",
+      "url": "https://www.xiaohongshu.com/explore/6a182675000000003501cad4?xsec_token=ABvr8TirnYboPwfBrFBKQsT3RSS4mD4ld_h-UXLehg0b0=",
+      "total_comments": 17,
+      "kept_comments": 7,
+      "top_pains": [
+        {
+          "id": "comment-6a1a64490000000027022912",
+          "content": "银行不以公对公方式建本地大模型就很离谱 一天到晚乱花钱搞些不好用的破东西 正儿八经能减轻员工负担的不搞",
+          "likes": 22,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "换个名字重新做人",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a19721e000000002701fa22",
+          "content": "我觉得大概率会泄露的，行里正常都是禁止把数据放ai的，因为泄露了可能就是进去了，谁敢赌",
+          "likes": 17,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "ge3g",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1a314a000000002901252d",
+          "content": "虽然搭载的本地大模型，但是它本质上还是把你通过你的api达到了AI的云端上去分析，一定程度上还是会造成程序泄露的，最好是采集让AI采集公开的一些信息来写，这样就不会有这个问题",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "金融农民工（装修中）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a194710000000002a007973",
+          "content": "信息安全能保证么？财务数据如果公有云分析，会不会有泄漏风险？",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "233",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1af40400000000270207f2",
+          "content": "我也在做类似的东西，能看到同好真的很开心，一起学习交流。我在财报分析里还加入了财务造假预警的规则，从过往上市公司典型造假案例中提炼出skills，通过三表勾稽关系、科目与业务数据对应情况来分析是否存在科目入账瑕疵和造假可能。经营分析和财务分析的部分我感觉只是慢工出细活，用经验和工程量堆起来就行，但是你的第一层，也就是信息来源这块我都觉得有一些棘手，因为deepseek现在多模态视觉还没出来，我用python+pymupdf识别正常pdf文本，影像件用paddleocr识别，但是年报中是有复杂表格的，三年财报有上千页，质量差的影像件，没有好的gpu，光依靠cpu，我不太敢信十几分钟能收集好信息",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "青柠不酸",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-6a1a39b7000000002702e28d",
+          "content": "那样所有银行的“金融创新”就不存在了",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "老王_",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a18faa300000000280383e6",
+          "content": "完全没ai技能的能用么能自己搭出来么",
+          "likes": 1,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小舒是条🐟",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a0a7fa80000000037036e82",
+      "title": "Claude Code 40个高阶Skill，效率直接起飞！",
+      "url": "https://www.xiaohongshu.com/explore/6a0a7fa80000000037036e82?xsec_token=ABJlD9iSzMY9c7nsG-SpZBeNvE7lTtrYvnYZIKC_OLRqc=",
+      "total_comments": 3,
+      "kept_comments": 0,
+      "top_pains": []
+    }
+  ]
+}

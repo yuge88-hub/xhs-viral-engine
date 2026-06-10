@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "note_id": "68416d0f00000000210193d0",
+      "xsec_token": "ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "title": "练完这400+页Coze，你的扣子就很牛了",
+      "url": "https://www.xiaohongshu.com/explore/68416d0f00000000210193d0?xsec_token=ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "author": {
+        "user_id": "65b8641e000000000e0247c6",
+        "nickname": "知柿AI",
+        "fans": 1930,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65b8641e000000000e0247c6?xsec_token=ABIc61BhUJv0QJcJyP0Y1fHqLZFJh0ZbZEmN1reSKWP4g=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1606,
+        "collects": 1802,
+        "comments": 64,
+        "shares": 374
+      }
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "AI 副业",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 500,
+    "require_fans": false,
+    "fan_source": "auto"
+  },
+  "scanned_notes": 19,
+  "pre_filter_pass": 16,
+  "unique_authors": 16,
+  "fetched_fans": 0,
+  "viral_count": 16,
+  "elapsed_sec": 2.3,
+  "results": [
+    {
+      "note_id": "666c0258000000001c0207a2",
+      "xsec_token": "ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "title": "用AI做儿童绘本🔥涨粉8W",
+      "url": "https://www.xiaohongshu.com/explore/666c0258000000001c0207a2?xsec_token=ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "publish_time": "2024-06-14",
+      "author": {
+        "user_id": "5c519dad000000001202ca0d",
+        "nickname": "陶陶AI灵感库",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c519dad000000001202ca0d?xsec_token=ABe3_p79ZwhyLm7RsyEnAg9FJuleeLcFPRCSl5Jq3gGQM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 20482,
+        "collects": 24314,
+        "comments": 749,
+        "shares": 3630
+      },
+      "viral_score": 20482.0
+    },
+    {
+      "note_id": "67e3ebfd0000000009039f66",
+      "xsec_token": "AB42ZQCnNGVYQUC1dG7VcmNfg5qbKDf0H31iYcc51SQug=",
+      "title": "如何用1R赚到10000R❓手把手教你",
+      "url": "https://www.xiaohongshu.com/explore/67e3ebfd0000000009039f66?xsec_token=AB42ZQCnNGVYQUC1dG7VcmNfg5qbKDf0H31iYcc51SQug=",
+      "publish_time": "2025-03-26",
+      "author": {
+        "user_id": "67553d44000000001c018234",
+        "nickname": "王三水的赚钱日记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67553d44000000001c018234?xsec_token=ABSJovYMDJtkjrqdFn35i9lJe8HZROWFNqB8odWEpq5Tg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 15749,
+        "collects": 14357,
+        "comments": 268,
+        "shares": 1590
+      },
+      "viral_score": 15749.0
+    },
+    {
+      "note_id": "6a168b8a000000003501caf4",
+      "xsec_token": "AB92xhYVydQAHjeIKy8h5KiexRXghx7Se6EqJYZkQN2vQ=",
+      "title": "一口气学会ai漫剧制作全流程，小白必看！",
+      "url": "https://www.xiaohongshu.com/explore/6a168b8a000000003501caf4?xsec_token=AB92xhYVydQAHjeIKy8h5KiexRXghx7Se6EqJYZkQN2vQ=",
+      "publish_time": "05-29",
+      "author": {
+        "user_id": "68b6ba33000000001802a7bc",
+        "nickname": "糕冷晓墨Ai日记",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/68b6ba33000000001802a7bc?xsec_token=ABMgEBDDJB37ICU2WuUuKXxVdNO6necTF5xKh99DBkX5g=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 14267,
+        "collects": 12701,
+        "comments": 6072,
+        "shares": 2012
+      },
+      "viral_score": 14267.0
+    },
+    {
+      "note_id": "6672ca23000000001d01b816",
+      "xsec_token": "ABlSCe4P1sSJ3XK0sIczNGyRJkO8tnALEpPm7HTmDm3m4=",
+      "title": "下班后死磕这8个网站，就算失业也不怕！！",
+      "url": "https://www.xiaohongshu.com/explore/6672ca23000000001d01b816?xsec_token=ABlSCe4P1sSJ3XK0sIczNGyRJkO8tnALEpPm7HTmDm3m4=",
+      "publish_time": "2024-07-15",
+      "author": {
+        "user_id": "6147c37a000000001f03fc27",
+        "nickname": "一起涨薪到退休",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6147c37a000000001f03fc27?xsec_token=ABzhUSTT2950Kp5hrZQivPCWUqD2PXAc-EpX54exDROs8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 12457,
+        "collects": 21707,
+        "comments": 197,
+        "shares": 1453
+      },
+      "viral_score": 12457.0
+    },
+    {
+      "note_id": "671f297d000000001600c2d3",
+      "xsec_token": "ABrck6hN80Ex67yzC7TQfnshUuH76ysWf7kCZt3ag7X4A=",
+      "title": "教程来了！价格500的Ai单子是怎样做的？",
+      "url": "https://www.xiaohongshu.com/explore/671f297d000000001600c2d3?xsec_token=ABrck6hN80Ex67yzC7TQfnshUuH76ysWf7kCZt3ag7X4A=",
+      "publish_time": "2025-01-20",
+      "author": {
+        "user_id": "5b15230b4eacab5c4f62e289",
+        "nickname": "火光AI",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b15230b4eacab5c4f62e289?xsec_token=AB9YXiWAI6fEWKOvNAj7698dHeaP4A6Jo4FyGXbnXk-FE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 7716,
+        "collects": 6494,
+        "comments": 254,
+        "shares": 1159
+      },
+      "viral_score": 7716.0
+    },
+    {
+      "note_id": "69df6c4d000000001f007357",
+      "xsec_token": "AB8MFJ5hPw1OfdbxwLmqbcM3GKQxI9bmNwqRak3-qFOL0=",
+      "title": "怎么找到自己擅长且有人愿意付费的事情？",
+      "url": "https://www.xiaohongshu.com/explore/69df6c4d000000001f007357?xsec_token=AB8MFJ5hPw1OfdbxwLmqbcM3GKQxI9bmNwqRak3-qFOL0=",
+      "publish_time": "04-15",
+      "author": {
+        "user_id": "695384c2000000000301299a",
+        "nickname": "邱同学",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/695384c2000000000301299a?xsec_token=AB2R1N_LnQHkiR_wwWDmW-gHQC7XD-xKrqsMMr9lkumaE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6908,
+        "collects": 6663,
+        "comments": 1456,
+        "shares": 978
+      },
+      "viral_score": 6908.0
+    },
+    {
+      "note_id": "6826954f000000002300e26c",
+      "xsec_token": "AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "title": "小说挣美元的第122天（粉丝暴涨！）",
+      "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "publish_time": "2025-10-15",
+      "author": {
+        "user_id": "606a90a700000000010077cd",
+        "nickname": "周公何在",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6596,
+        "collects": 6780,
+        "comments": 110,
+        "shares": 627
+      },
+      "viral_score": 6596.0
+    },
+    {
+      "note_id": "69f4c2df000000002301d719",
+      "xsec_token": "ABxFkD4_ZC5Z6h-Awx6pF5ahSvD9R-1A2DJwkrIQsMi8I=",
+      "title": "AI卖袜子，电商纯干货案例",
+      "url": "https://www.xiaohongshu.com/explore/69f4c2df000000002301d719?xsec_token=ABxFkD4_ZC5Z6h-Awx6pF5ahSvD9R-1A2DJwkrIQsMi8I=",
+      "publish_time": "05-21",
+      "author": {
+        "user_id": "68f8a228000000003700b12f",
+        "nickname": "L酱同学",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/68f8a228000000003700b12f?xsec_token=AB23KkXcMJlfp6YDVb3OIMjv5xXLfceWw3d-3G4ERiXX0=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5784,
+        "collects": 9902,
+        "comments": 78,
+        "shares": 1994
+      },
+      "viral_score": 5784.0
+    },
+    {
+      "note_id": "68478d330000000021009029",
+      "xsec_token": "ABBurcsS23rNn1eYmnjFu69QvSwKOzeq5dVgmmcNQhrQ4=",
+      "title": "地铁上如何用1r赚到1000r？",
+      "url": "https://www.xiaohongshu.com/explore/68478d330000000021009029?xsec_token=ABBurcsS23rNn1eYmnjFu69QvSwKOzeq5dVgmmcNQhrQ4=",
+      "publish_time": "2025-06-25",
+      "author": {
+        "user_id": "6810b5a60000000007001e9a",
+        "nickname": "王大钱.",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6810b5a60000000007001e9a?xsec_token=ABU2xK890fVBlqYEe8B_cuKJ4XvSLspyKGEITDgn2hJ80=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5572,
+        "collects": 5134,
+        "comments": 158,
+        "shares": 971
+      },
+      "viral_score": 5572.0
+    },
+    {
+      "note_id": "67583465000000000103f17a",
+      "xsec_token": "AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "title": "用Ai写公众号，写了1个月，收入4位数",
+      "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "publish_time": "2024-12-14",
+      "author": {
+        "user_id": "65eacb270000000005008c7d",
+        "nickname": "坎叔",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5459,
+        "collects": 6854,
+        "comments": 168,
+        "shares": 866
+      },
+      "viral_score": 5459.0
+    },
+    {
+      "note_id": "6a01ad2d000000003703695c",
+      "xsec_token": "ABiVT_vZmIzVpJDFuSDAiNxG7uKukLtD8MyKLZBiGbDqU=",
+      "title": "AI搞钱做副业，听说能轻松月入过万？",
+      "url": "https://www.xiaohongshu.com/explore/6a01ad2d000000003703695c?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxG7uKukLtD8MyKLZBiGbDqU=",
+      "publish_time": "05-11",
+      "author": {
+        "user_id": "646789f30000000029013f6a",
+        "nickname": "杨羚蔚蔚宝",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/646789f30000000029013f6a?xsec_token=ABf5BT-mbFnhg9jyHVG7k8ARVm3dONDYJnrS4kS--xFdE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5080,
+        "collects": 4305,
+        "comments": 175,
+        "shares": 594
+      },
+      "viral_score": 5080.0
+    },
+    {
+      "note_id": "69cfa44b0000000023005e96",
+      "xsec_token": "ABZmpgqsfSceBfZz5m1j6Cdkvd9qbhGNsx4BXuukzo62c=",
+      "title": "用 AI 生成漫剧，搞💰新赛道～",
+      "url": "https://www.xiaohongshu.com/explore/69cfa44b0000000023005e96?xsec_token=ABZmpgqsfSceBfZz5m1j6Cdkvd9qbhGNsx4BXuukzo62c=",
+      "publish_time": "04-03",
+      "author": {
+        "user_id": "5fce34500000000001008ae8",
+        "nickname": "量子探险智能写作",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5fce34500000000001008ae8?xsec_token=ABMoHDphWCUyJkSlKNpVaoNnmoPiw6EeA2BdvdnxqHmgQ=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4699,
+        "collects": 2823,
+        "comments": 6161,
+        "shares": 251
+      },
+      "viral_score": 4699.0
+    },
+    {
+      "note_id": "686cf63a000000001203c617",
+      "xsec_token": "ABks7U9Oyv2KfsPWSBb8pHlNYhpnY3Y-K-yxDq2OzI8y0=",
+      "title": "AI时代创业门槛真的大大的降低了",
+      "url": "https://www.xiaohongshu.com/explore/686cf63a000000001203c617?xsec_token=ABks7U9Oyv2KfsPWSBb8pHlNYhpnY3Y-K-yxDq2OzI8y0=",
+      "publish_time": "2025-07-08",
+      "author": {
+        "user_id": "6655a469000000000b032401",
+        "nickname": "大厂观察",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6655a469000000000b032401?xsec_token=ABd3RyPr12wEuWUDNu1_sSjQq8HzibfCG5mUhXg7FNe1U=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4463,
+        "collects": 4637,
+        "comments": 181,
+        "shares": 2832
+      },
+      "viral_score": 4463.0
+    },
+    {
+      "note_id": "6725f290000000001a035869",
+      "xsec_token": "ABUl9UntMKfgGLH9x20iU5kKSWoyuqPj-78rG8a5wW2pE=",
+      "title": "ai真有用吗⁉",
+      "url": "https://www.xiaohongshu.com/explore/6725f290000000001a035869?xsec_token=ABUl9UntMKfgGLH9x20iU5kKSWoyuqPj-78rG8a5wW2pE=",
+      "publish_time": "2025-07-07",
+      "author": {
+        "user_id": "6555cbe20000000008003ff6",
+        "nickname": "敢说实话的TUTU",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6555cbe20000000008003ff6?xsec_token=ABO7mETq6P6k_viNG_lA6FetljnDJqYb3wON8mN78M4IY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3837,
+        "collects": 2163,
+        "comments": 948,
+        "shares": 205
+      },
+      "viral_score": 3837.0
+    },
+    {
+      "note_id": "66e6f956000000001e01a366",
+      "xsec_token": "ABJTsBQpfEA2-HDoLCtKOxpztlMpdUE_SIEtcicr0_W-4=",
+      "title": "34岁偷偷做自媒体月入7w，闷声搞💰太爽了‼️",
+      "url": "https://www.xiaohongshu.com/explore/66e6f956000000001e01a366?xsec_token=ABJTsBQpfEA2-HDoLCtKOxpztlMpdUE_SIEtcicr0_W-4=",
+      "publish_time": "2024-09-16",
+      "author": {
+        "user_id": "62bd6e72000000000e0134c7",
+        "nickname": "包包姐不上班",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/62bd6e72000000000e0134c7?xsec_token=ABODOoSWOcg3IExuGr4PEe4l1-sEtvuPJJ3FG87_Fk7D8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3814,
+        "collects": 5155,
+        "comments": 145,
+        "shares": 871
+      },
+      "viral_score": 3814.0
+    },
+    {
+      "note_id": "6a019aa1000000000702dd51",
+      "xsec_token": "ABiVT_vZmIzVpJDFuSDAiNxIZgAuibjWu4K1z9h_89F78=",
+      "title": "如何用AI来做穿搭视频？完整流程分享",
+      "url": "https://www.xiaohongshu.com/explore/6a019aa1000000000702dd51?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxIZgAuibjWu4K1z9h_89F78=",
+      "publish_time": "05-16",
+      "author": {
+        "user_id": "5e05e86800000000010090bd",
+        "nickname": "啤酒的种草AI",
+        "fans": null,
+        "fan_source": null,
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5e05e86800000000010090bd?xsec_token=ABSOCg-r6U_HQMHwChYZL6PH02mbiWQs0Meqe-GCRZAhA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3655,
+        "collects": 4034,
+        "comments": 766,
+        "shares": 769
+      },
+      "viral_score": 3655.0
+    }
+  ]
+}

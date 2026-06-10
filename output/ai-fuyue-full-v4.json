@@ -1,0 +1,179 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "AI 副业",
+  "filter": {
+    "max_followers": 100000,
+    "min_likes": 5000,
+    "require_fans": true,
+    "fan_source": "drissionpage"
+  },
+  "scanned_notes": 19,
+  "pre_filter_pass": 9,
+  "unique_authors": 9,
+  "fetched_fans": 9,
+  "viral_count": 8,
+  "elapsed_sec": 103.1,
+  "results": [
+    {
+      "note_id": "69f4c2df000000002301d719",
+      "title": "AI卖袜子，电商纯干货案例",
+      "url": "https://www.xiaohongshu.com/explore/69f4c2df000000002301d719?xsec_token=ABxFkD4_ZC5Z6h-Awx6pF5ahSvD9R-1A2DJwkrIQsMi8I=",
+      "publish_time": "05-21",
+      "author": {
+        "user_id": "68f8a228000000003700b12f",
+        "nickname": "L酱同学",
+        "fans": 2568,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/68f8a228000000003700b12f?xsec_token=AB23KkXcMJlfp6YDVb3OIMjv5xXLfceWw3d-3G4ERiXX0=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5784,
+        "collects": 9902,
+        "comments": 78,
+        "shares": 1994
+      },
+      "viral_score": 2.25
+    },
+    {
+      "note_id": "67e3ebfd0000000009039f66",
+      "title": "如何用1R赚到10000R❓手把手教你",
+      "url": "https://www.xiaohongshu.com/explore/67e3ebfd0000000009039f66?xsec_token=AB42ZQCnNGVYQUC1dG7VcmNfg5qbKDf0H31iYcc51SQug=",
+      "publish_time": "2025-03-26",
+      "author": {
+        "user_id": "67553d44000000001c018234",
+        "nickname": "王三水的赚钱日记",
+        "fans": 15000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67553d44000000001c018234?xsec_token=ABSJovYMDJtkjrqdFn35i9lJe8HZROWFNqB8odWEpq5Tg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 15748,
+        "collects": 14357,
+        "comments": 268,
+        "shares": 1590
+      },
+      "viral_score": 1.05
+    },
+    {
+      "note_id": "6a168b8a000000003501caf4",
+      "title": "一口气学会ai漫剧制作全流程，小白必看！",
+      "url": "https://www.xiaohongshu.com/explore/6a168b8a000000003501caf4?xsec_token=AB92xhYVydQAHjeIKy8h5KiexRXghx7Se6EqJYZkQN2vQ=",
+      "publish_time": "05-29",
+      "author": {
+        "user_id": "68b6ba33000000001802a7bc",
+        "nickname": "糕冷晓墨Ai日记",
+        "fans": 18000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/68b6ba33000000001802a7bc?xsec_token=ABMgEBDDJB37ICU2WuUuKXxVdNO6necTF5xKh99DBkX5g=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 14211,
+        "collects": 12655,
+        "comments": 6055,
+        "shares": 2007
+      },
+      "viral_score": 0.79
+    },
+    {
+      "note_id": "67583465000000000103f17a",
+      "title": "用Ai写公众号，写了1个月，收入4位数",
+      "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+      "publish_time": "2024-12-14",
+      "author": {
+        "user_id": "65eacb270000000005008c7d",
+        "nickname": "坎叔",
+        "fans": 8933,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5458,
+        "collects": 6853,
+        "comments": 168,
+        "shares": 866
+      },
+      "viral_score": 0.61
+    },
+    {
+      "note_id": "666c0258000000001c0207a2",
+      "title": "用AI做儿童绘本🔥涨粉8W",
+      "url": "https://www.xiaohongshu.com/explore/666c0258000000001c0207a2?xsec_token=ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+      "publish_time": "2024-06-14",
+      "author": {
+        "user_id": "5c519dad000000001202ca0d",
+        "nickname": "陶陶AI灵感库",
+        "fans": 37000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c519dad000000001202ca0d?xsec_token=ABe3_p79ZwhyLm7RsyEnAg9FJuleeLcFPRCSl5Jq3gGQM=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 20482,
+        "collects": 24314,
+        "comments": 749,
+        "shares": 3630
+      },
+      "viral_score": 0.55
+    },
+    {
+      "note_id": "6826954f000000002300e26c",
+      "title": "小说挣美元的第122天（粉丝暴涨！）",
+      "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+      "publish_time": "2025-10-15",
+      "author": {
+        "user_id": "606a90a700000000010077cd",
+        "nickname": "周公何在",
+        "fans": 15000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 6594,
+        "collects": 6780,
+        "comments": 110,
+        "shares": 627
+      },
+      "viral_score": 0.44
+    },
+    {
+      "note_id": "68478d330000000021009029",
+      "title": "地铁上如何用1r赚到1000r？",
+      "url": "https://www.xiaohongshu.com/explore/68478d330000000021009029?xsec_token=ABBurcsS23rNn1eYmnjFu69QvSwKOzeq5dVgmmcNQhrQ4=",
+      "publish_time": "2025-06-25",
+      "author": {
+        "user_id": "6810b5a60000000007001e9a",
+        "nickname": "王大钱.",
+        "fans": 14000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6810b5a60000000007001e9a?xsec_token=ABU2xK890fVBlqYEe8B_cuKJ4XvSLspyKGEITDgn2hJ80=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5572,
+        "collects": 5134,
+        "comments": 158,
+        "shares": 971
+      },
+      "viral_score": 0.4
+    },
+    {
+      "note_id": "6a01ad2d000000003703695c",
+      "title": "AI搞钱做副业，听说能轻松月入过万？",
+      "url": "https://www.xiaohongshu.com/explore/6a01ad2d000000003703695c?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxG7uKukLtD8MyKLZBiGbDqU=",
+      "publish_time": "05-11",
+      "author": {
+        "user_id": "646789f30000000029013f6a",
+        "nickname": "杨羚蔚蔚宝",
+        "fans": 97000,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/646789f30000000029013f6a?xsec_token=ABf5BT-mbFnhg9jyHVG7k8ARVm3dONDYJnrS4kS--xFdE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 5079,
+        "collects": 4304,
+        "comments": 175,
+        "shares": 594
+      },
+      "viral_score": 0.05
+    }
+  ]
+}

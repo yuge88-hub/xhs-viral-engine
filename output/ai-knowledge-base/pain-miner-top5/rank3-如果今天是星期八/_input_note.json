@@ -1,0 +1,23 @@
+{
+  "results": [
+    {
+      "note_id": "696b4ad3000000000a03272f",
+      "xsec_token": "ABN0pV4TSBBJyVuDAjh-DilxrQEZdcOAa0phS1VYWK32I=",
+      "title": "Obsidian官方推出知识库Skills，AI真香！",
+      "url": "https://www.xiaohongshu.com/explore/696b4ad3000000000a03272f?xsec_token=ABN0pV4TSBBJyVuDAjh-DilxrQEZdcOAa0phS1VYWK32I=",
+      "author": {
+        "user_id": "5ae58165e8ac2b19a366a610",
+        "nickname": "如果今天是星期八🐑",
+        "fans": 238,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5ae58165e8ac2b19a366a610?xsec_token=ABMHXHFQUJNJXRtYgbzudqp1kH3oScP-4_GfytcYYlZxo=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1141,
+        "collects": 1824,
+        "comments": 59,
+        "shares": 300
+      }
+    }
+  ]
+}

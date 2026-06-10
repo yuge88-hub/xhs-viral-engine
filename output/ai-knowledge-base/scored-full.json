@@ -1,0 +1,324 @@
+{
+  "skill": "xhs-trending-scanner + quality_scorer",
+  "version": "0.1.0",
+  "keyword": "AI 知识库",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 1000,
+    "require_fans": true,
+    "fan_source": "auto"
+  },
+  "scanned_notes": 60,
+  "pre_filter_pass": 37,
+  "unique_authors": 35,
+  "fetched_fans": 35,
+  "viral_count": 9,
+  "elapsed_sec": 399.7,
+  "results": [
+    {
+      "note_id": "689327c9000000002502bbec",
+      "xsec_token": "AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "title": "才知道不同的AI竟然有不同的分工",
+      "url": "https://www.xiaohongshu.com/explore/689327c9000000002502bbec?xsec_token=AB1xe2OmopcBegjVvPRus3vZjs5KjpXVieubXUrpy9KZ0=",
+      "publish_time": "2025-08-06",
+      "author": {
+        "user_id": "600eaa16000000000100ad15",
+        "nickname": "不劳而获一个亿",
+        "fans": 457,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/600eaa16000000000100ad15?xsec_token=AByiY_V03RwaKwefmjFKbFk_zsDTs41jvPdskLC7bkOy8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 23755,
+        "collects": 24394,
+        "comments": 439,
+        "shares": 2510
+      },
+      "viral_score": 51.87,
+      "quality": {
+        "score": 67.6,
+        "tier": "🔥 常规爆款",
+        "collect_rate": 1.027,
+        "comment_rate": 0.018,
+        "share_rate": 0.106,
+        "rate_score": 0.802,
+        "volume_score": 0.688,
+        "freshness_score": 0.4,
+        "age_days": 307,
+        "publish_date": "2025-08-06"
+      }
+    },
+    {
+      "note_id": "6a18fbc0000000003601ff68",
+      "xsec_token": "ABvr8TirnYboPwfBrFBKQsT4TrI1GWP23hlz5AwP4sM1I=",
+      "title": "我把小红书 60 万曝光的方法，做成了 Skill",
+      "url": "https://www.xiaohongshu.com/explore/6a18fbc0000000003601ff68?xsec_token=ABvr8TirnYboPwfBrFBKQsT4TrI1GWP23hlz5AwP4sM1I=",
+      "publish_time": "05-29",
+      "author": {
+        "user_id": "5ff14d650000000001006504",
+        "nickname": "子圭时安",
+        "fans": 1780,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5ff14d650000000001006504?xsec_token=ABcVozHcSmHySyHqeoBPBjUy370UTt2oVVxJyBIgQRaT4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1184,
+        "collects": 1890,
+        "comments": 190,
+        "shares": 555
+      },
+      "viral_score": 0.66,
+      "quality": {
+        "score": 61.47,
+        "tier": "🔥 常规爆款",
+        "collect_rate": 1.596,
+        "comment_rate": 0.16,
+        "share_rate": 0.469,
+        "rate_score": 1.0,
+        "volume_score": 0.037,
+        "freshness_score": 1.0,
+        "age_days": 11,
+        "publish_date": "2026-05-29"
+      }
+    },
+    {
+      "note_id": "6a1e8193000000002103daf6",
+      "xsec_token": "ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "title": "「这几个词一出现,就暴露你在用 AI」",
+      "url": "https://www.xiaohongshu.com/explore/6a1e8193000000002103daf6?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vu-ZWYKoprLqXr5SH3x76mM=",
+      "publish_time": "06-02",
+      "author": {
+        "user_id": "685fe8ff000000001d0159cf",
+        "nickname": "慢慢有解",
+        "fans": 99,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/685fe8ff000000001d0159cf?xsec_token=AB2Q8q9gKqr7bvl4IjBC2PEo1N3t2IySi1L_t_ci-tunw=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1566,
+        "collects": 1436,
+        "comments": 696,
+        "shares": 162
+      },
+      "viral_score": 15.66,
+      "quality": {
+        "score": 60.14,
+        "tier": "🔥 常规爆款",
+        "collect_rate": 0.917,
+        "comment_rate": 0.444,
+        "share_rate": 0.103,
+        "rate_score": 0.906,
+        "volume_score": 0.097,
+        "freshness_score": 1.0,
+        "age_days": 7,
+        "publish_date": "2026-06-02"
+      }
+    },
+    {
+      "note_id": "6a182675000000003501cad4",
+      "xsec_token": "ABvr8TirnYboPwfBrFBKQsT3RSS4mD4ld_h-UXLehg0b0=",
+      "title": "信贷报告不用手写——我的5层AI流水线",
+      "url": "https://www.xiaohongshu.com/explore/6a182675000000003501cad4?xsec_token=ABvr8TirnYboPwfBrFBKQsT3RSS4mD4ld_h-UXLehg0b0=",
+      "publish_time": "06-02",
+      "author": {
+        "user_id": "6a1501110000000002001c02",
+        "nickname": "老王_",
+        "fans": 1816,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6a1501110000000002001c02?xsec_token=ABJdTJWkbyNqQzfhcTGesWlbmdrzUYIc4pAezSQZ4fMDc=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1004,
+        "collects": 1163,
+        "comments": 123,
+        "shares": 381
+      },
+      "viral_score": 0.55,
+      "quality": {
+        "score": 60.03,
+        "tier": "🔥 常规爆款",
+        "collect_rate": 1.158,
+        "comment_rate": 0.123,
+        "share_rate": 0.379,
+        "rate_score": 1.0,
+        "volume_score": 0.001,
+        "freshness_score": 1.0,
+        "age_days": 7,
+        "publish_date": "2026-06-02"
+      }
+    },
+    {
+      "note_id": "68416d0f00000000210193d0",
+      "xsec_token": "ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "title": "练完这400+页Coze，你的扣子就很牛了",
+      "url": "https://www.xiaohongshu.com/explore/68416d0f00000000210193d0?xsec_token=ABnmHUFErhs6CilyX1xz5XzJJQD2SqzvWBx41l7VVmHWo=",
+      "publish_time": "04-02",
+      "author": {
+        "user_id": "65b8641e000000000e0247c6",
+        "nickname": "知柿AI",
+        "fans": 1930,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/65b8641e000000000e0247c6?xsec_token=ABIc61BhUJv0QJcJyP0Y1fHqLZFJh0ZbZEmN1reSKWP4g=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1606,
+        "collects": 1802,
+        "comments": 64,
+        "shares": 374
+      },
+      "viral_score": 0.83,
+      "quality": {
+        "score": 58.11,
+        "tier": "⚡ 准爆款",
+        "collect_rate": 1.122,
+        "comment_rate": 0.04,
+        "share_rate": 0.233,
+        "rate_score": 1.0,
+        "volume_score": 0.103,
+        "freshness_score": 0.7,
+        "age_days": 68,
+        "publish_date": "2026-04-02"
+      }
+    },
+    {
+      "note_id": "6a0a7fa80000000037036e82",
+      "xsec_token": "ABJlD9iSzMY9c7nsG-SpZBeNvE7lTtrYvnYZIKC_OLRqc=",
+      "title": "Claude Code 40个高阶Skill，效率直接起飞！",
+      "url": "https://www.xiaohongshu.com/explore/6a0a7fa80000000037036e82?xsec_token=ABJlD9iSzMY9c7nsG-SpZBeNvE7lTtrYvnYZIKC_OLRqc=",
+      "publish_time": "05-18",
+      "author": {
+        "user_id": "622483bf000000001000a86f",
+        "nickname": "何公子®",
+        "fans": 2709,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/622483bf000000001000a86f?xsec_token=ABBAqjV9Nt61hPbRBnbDKbp5X-GtIYxeIgicO8ON3tX0Q=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1018,
+        "collects": 2269,
+        "comments": 3,
+        "shares": 266
+      },
+      "viral_score": 0.38,
+      "quality": {
+        "score": 52.75,
+        "tier": "⚡ 准爆款",
+        "collect_rate": 2.229,
+        "comment_rate": 0.003,
+        "share_rate": 0.261,
+        "rate_score": 0.815,
+        "volume_score": 0.004,
+        "freshness_score": 1.0,
+        "age_days": 22,
+        "publish_date": "2026-05-18"
+      }
+    },
+    {
+      "note_id": "691b36e8000000000703931c",
+      "xsec_token": "ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/691b36e8000000000703931c?xsec_token=ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "publish_time": "2025-11-17",
+      "author": {
+        "user_id": "5b754f254205320001da31ba",
+        "nickname": "粉色的葡萄",
+        "fans": 565,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5b754f254205320001da31ba?xsec_token=ABcy9wBkeVT1fHuy-xQ63NggIZN4wtytSP0mOGy24J3gs=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1352,
+        "collects": 2065,
+        "comments": 131,
+        "shares": 183
+      },
+      "viral_score": 2.39,
+      "quality": {
+        "score": 49.42,
+        "tier": "⚡ 准爆款",
+        "collect_rate": 1.527,
+        "comment_rate": 0.097,
+        "share_rate": 0.135,
+        "rate_score": 0.97,
+        "volume_score": 0.065,
+        "freshness_score": 0.4,
+        "age_days": 204,
+        "publish_date": "2025-11-17"
+      }
+    },
+    {
+      "note_id": "696b4ad3000000000a03272f",
+      "xsec_token": "ABN0pV4TSBBJyVuDAjh-DilxrQEZdcOAa0phS1VYWK32I=",
+      "title": "Obsidian官方推出知识库Skills，AI真香！",
+      "url": "https://www.xiaohongshu.com/explore/696b4ad3000000000a03272f?xsec_token=ABN0pV4TSBBJyVuDAjh-DilxrQEZdcOAa0phS1VYWK32I=",
+      "publish_time": "01-17",
+      "author": {
+        "user_id": "5ae58165e8ac2b19a366a610",
+        "nickname": "如果今天是星期八🐑",
+        "fans": 238,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5ae58165e8ac2b19a366a610?xsec_token=ABMHXHFQUJNJXRtYgbzudqp1kH3oScP-4_GfytcYYlZxo=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1141,
+        "collects": 1824,
+        "comments": 59,
+        "shares": 300
+      },
+      "viral_score": 4.77,
+      "quality": {
+        "score": 49.15,
+        "tier": "⚡ 准爆款",
+        "collect_rate": 1.599,
+        "comment_rate": 0.052,
+        "share_rate": 0.263,
+        "rate_score": 1.0,
+        "volume_score": 0.029,
+        "freshness_score": 0.4,
+        "age_days": 143,
+        "publish_date": "2026-01-17"
+      }
+    },
+    {
+      "note_id": "680a104c000000001c0327ed",
+      "xsec_token": "AB77vXD0InrebfpLxfllI9YWjlg10GOZSgIu-mqxEgchI=",
+      "title": "打造在线知识库！用DeepSeek实现人生管理",
+      "url": "https://www.xiaohongshu.com/explore/680a104c000000001c0327ed?xsec_token=AB77vXD0InrebfpLxfllI9YWjlg10GOZSgIu-mqxEgchI=",
+      "publish_time": "2025-04-24",
+      "author": {
+        "user_id": "67596ace000000001c01810e",
+        "nickname": "思思AI笔记",
+        "fans": 1553,
+        "fan_source": "playwright",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/67596ace000000001c01810e?xsec_token=ABjMhIUT0ncZxR-urGwDgwbetOjR5vyLhSgxSxIKFdisA=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1078,
+        "collects": 1339,
+        "comments": 3,
+        "shares": 375
+      },
+      "viral_score": 0.69,
+      "quality": {
+        "score": 37.25,
+        "tier": "📊 数据平平",
+        "collect_rate": 1.242,
+        "comment_rate": 0.003,
+        "share_rate": 0.348,
+        "rate_score": 0.815,
+        "volume_score": 0.016,
+        "freshness_score": 0.2,
+        "age_days": 411,
+        "publish_date": "2025-04-24"
+      }
+    }
+  ],
+  "quality_summary": {
+    "tier_counts": {
+      "🔥 常规爆款": 4,
+      "⚡ 准爆款": 4,
+      "📊 数据平平": 1
+    },
+    "scoring_formula": "rate×0.4 + volume×0.4 + freshness×0.2"
+  }
+}

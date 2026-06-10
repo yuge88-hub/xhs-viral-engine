@@ -1,0 +1,989 @@
+{
+  "summary": {
+    "n_authors": 84,
+    "n_notes": 87,
+    "total_viral_score": 1431748,
+    "avg_viral_per_author": 17045.0
+  },
+  "ranking": [
+    {
+      "user_id": "6671c9a60000000007006fe1",
+      "nickname": "妞儿",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/6671c9a60000000007006fe1?xsec_token=ABkBk8GkQazhVg4hZTt6XSEyEqnpehqtkAB0pzYdgifxA=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6a1c12560000000008027c39",
+          "xsec_token": "ABYBFaTlF5HDOJDImTLifl0wL6VwR4cJS1A0yBGGAnZmk=",
+          "title": "大学做兼职确实过的很滋润了",
+          "url": "https://www.xiaohongshu.com/explore/6a1c12560000000008027c39?xsec_token=ABYBFaTlF5HDOJDImTLifl0wL6VwR4cJS1A0yBGGAnZmk=",
+          "publish_time": "05-31",
+          "author": {
+            "user_id": "6671c9a60000000007006fe1",
+            "nickname": "妞儿",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/6671c9a60000000007006fe1?xsec_token=ABkBk8GkQazhVg4hZTt6XSEyEqnpehqtkAB0pzYdgifxA=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 154554,
+            "collects": 72355,
+            "comments": 4723,
+            "shares": 6973
+          },
+          "viral_score": 154554.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 154554.0,
+      "total_likes": 154554,
+      "total_collects": 72355,
+      "total_comments": 4723,
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5d45858d0000000012026d8f",
+      "nickname": "无忧四季养生",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5d45858d0000000012026d8f?xsec_token=ABRyoa-cBJzd7tzkeB3bxv23a2rE9aSuJXzlggDNtIFpU=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "67c7c9bd0000000029031b33",
+          "xsec_token": "ABEmeriH4zI49Edjwo6kCES2MNjs6OZNi8TOCUbiio2-g=",
+          "title": "身体各器官最爱的食物❗❗❗",
+          "url": "https://www.xiaohongshu.com/explore/67c7c9bd0000000029031b33?xsec_token=ABEmeriH4zI49Edjwo6kCES2MNjs6OZNi8TOCUbiio2-g=",
+          "publish_time": "2025-05-01",
+          "author": {
+            "user_id": "5d45858d0000000012026d8f",
+            "nickname": "无忧四季养生",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5d45858d0000000012026d8f?xsec_token=ABRyoa-cBJzd7tzkeB3bxv23a2rE9aSuJXzlggDNtIFpU=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 137344,
+            "collects": 109376,
+            "comments": 2487,
+            "shares": 24734
+          },
+          "viral_score": 137344.0,
+          "source_keyword": "营养食疗"
+        }
+      ],
+      "viral_score_total": 137344.0,
+      "total_likes": 137344,
+      "total_collects": 109376,
+      "total_comments": 2487,
+      "keywords": {
+        "营养食疗": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5baf8538631ff60001927607",
+      "nickname": "井柏然",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5baf8538631ff60001927607?xsec_token=ABSdwOM_II4hwEuomSDbTgJYaJlqf-1FoyZyybS48Xpwg=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6770d5520000000013008374",
+          "xsec_token": "ABy-ou5XUWsJMLKTT7z0OXba_thJv781b5voJ2FAgtTNA=",
+          "title": "终于瘦了10斤 🫡",
+          "url": "https://www.xiaohongshu.com/explore/6770d5520000000013008374?xsec_token=ABy-ou5XUWsJMLKTT7z0OXba_thJv781b5voJ2FAgtTNA=",
+          "publish_time": "2025-01-02",
+          "author": {
+            "user_id": "5baf8538631ff60001927607",
+            "nickname": "井柏然",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5baf8538631ff60001927607?xsec_token=ABSdwOM_II4hwEuomSDbTgJYaJlqf-1FoyZyybS48Xpwg=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 62037,
+            "collects": 6986,
+            "comments": 11053,
+            "shares": 7920
+          },
+          "viral_score": 62037.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 62037.0,
+      "total_likes": 62037,
+      "total_collects": 6986,
+      "total_comments": 11053,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5cff6fef0000000011016dca",
+      "nickname": "URINGO七彩叮当",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5cff6fef0000000011016dca?xsec_token=ABt0WiNdRJ4YAWOPxRifB0JVKqH8ZNtr53MRF6KaHVvyU=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6129a38b000000002103bb8d",
+          "xsec_token": "ABXB7K1PXrMZ3JBsvOlK3eUwqiVlJqtgMLJw0ivrzvZco=",
+          "title": "秋季必喝❗️一周不重样养生汤羹，润燥养颜",
+          "url": "https://www.xiaohongshu.com/explore/6129a38b000000002103bb8d?xsec_token=ABXB7K1PXrMZ3JBsvOlK3eUwqiVlJqtgMLJw0ivrzvZco=",
+          "publish_time": "2023-08-14",
+          "author": {
+            "user_id": "5cff6fef0000000011016dca",
+            "nickname": "URINGO七彩叮当",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5cff6fef0000000011016dca?xsec_token=ABt0WiNdRJ4YAWOPxRifB0JVKqH8ZNtr53MRF6KaHVvyU=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 60408,
+            "collects": 60772,
+            "comments": 305,
+            "shares": 8191
+          },
+          "viral_score": 60408.0,
+          "source_keyword": "营养食疗"
+        }
+      ],
+      "viral_score_total": 60408.0,
+      "total_likes": 60408,
+      "total_collects": 60772,
+      "total_comments": 305,
+      "keywords": {
+        "营养食疗": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5a02bccd4eacab14cffb2ff6",
+      "nickname": "卡卡导",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5a02bccd4eacab14cffb2ff6?xsec_token=ABgdkFNGBdFEJf_NhmIobwKjUnL5WqNqgzHCb6Kno8hec=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69de0b050000000021038980",
+          "xsec_token": "AB6W2bjTzEwV9rYLggVdbtNKeEVaBw95rlNvmO5Bgsx1E=",
+          "title": "野路子卖手机壳，年入3000万",
+          "url": "https://www.xiaohongshu.com/explore/69de0b050000000021038980?xsec_token=AB6W2bjTzEwV9rYLggVdbtNKeEVaBw95rlNvmO5Bgsx1E=",
+          "publish_time": "04-19",
+          "author": {
+            "user_id": "5a02bccd4eacab14cffb2ff6",
+            "nickname": "卡卡导",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5a02bccd4eacab14cffb2ff6?xsec_token=ABgdkFNGBdFEJf_NhmIobwKjUnL5WqNqgzHCb6Kno8hec=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 59983,
+            "collects": 46104,
+            "comments": 432,
+            "shares": 9821
+          },
+          "viral_score": 59983.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 59983.0,
+      "total_likes": 59983,
+      "total_collects": 46104,
+      "total_comments": 432,
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5b388a1ce8ac2b22ab8f388f",
+      "nickname": "赵财猫🐱（搞钱版）",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5b388a1ce8ac2b22ab8f388f?xsec_token=ABXP_LNqjADw5tTxtvjdyy1xAyaf2j1SiC3NPFW9CaiHo=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6a16703e0000000035032f51",
+          "xsec_token": "AB92xhYVydQAHjeIKy8h5KiSwya1lOF9eCr9QCKqIbiLs=",
+          "title": "小红书新政策！普通人做自媒体新红利已来！！",
+          "url": "https://www.xiaohongshu.com/explore/6a16703e0000000035032f51?xsec_token=AB92xhYVydQAHjeIKy8h5KiSwya1lOF9eCr9QCKqIbiLs=",
+          "publish_time": "05-30",
+          "author": {
+            "user_id": "5b388a1ce8ac2b22ab8f388f",
+            "nickname": "赵财猫🐱（搞钱版）",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5b388a1ce8ac2b22ab8f388f?xsec_token=ABXP_LNqjADw5tTxtvjdyy1xAyaf2j1SiC3NPFW9CaiHo=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 47273,
+            "collects": 48485,
+            "comments": 951,
+            "shares": 8486
+          },
+          "viral_score": 47273.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 47273.0,
+      "total_likes": 47273,
+      "total_collects": 48485,
+      "total_comments": 951,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5c7be609000000001203fbfb",
+      "nickname": "雪饼减减减",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5c7be609000000001203fbfb?xsec_token=ABWhElk34XI9KwXxdVLa3_wUPXadaxpEQFH-1ijX-5ySE=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "678509d5000000000203e7aa",
+          "xsec_token": "ABUlSleTdqiWfSZUWBx2UReX1k9yMngnAczr2UnQ1JeUY=",
+          "title": "减肥动力来了！瘦了45斤的各个部位对比",
+          "url": "https://www.xiaohongshu.com/explore/678509d5000000000203e7aa?xsec_token=ABUlSleTdqiWfSZUWBx2UReX1k9yMngnAczr2UnQ1JeUY=",
+          "publish_time": "2025-01-13",
+          "author": {
+            "user_id": "5c7be609000000001203fbfb",
+            "nickname": "雪饼减减减",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5c7be609000000001203fbfb?xsec_token=ABWhElk34XI9KwXxdVLa3_wUPXadaxpEQFH-1ijX-5ySE=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 40693,
+            "collects": 5013,
+            "comments": 352,
+            "shares": 655
+          },
+          "viral_score": 40693.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 40693.0,
+      "total_likes": 40693,
+      "total_collects": 5013,
+      "total_comments": 352,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "605e839000000000010028f9",
+      "nickname": "闪闪的人生",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/605e839000000000010028f9?xsec_token=AByvNoXHS_r0-SzgSwYbI7Hve4O4iwUmI67ZC-ikVR3Rc=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "692ce6c0000000000d03d991",
+          "xsec_token": "ABLery0OjCYS4CuhxGJDW7qteL55LyxclkbFtCZ0fvPU8=",
+          "title": "蘑菇的抗癌力！",
+          "url": "https://www.xiaohongshu.com/explore/692ce6c0000000000d03d991?xsec_token=ABLery0OjCYS4CuhxGJDW7qteL55LyxclkbFtCZ0fvPU8=",
+          "publish_time": "2025-12-01",
+          "author": {
+            "user_id": "605e839000000000010028f9",
+            "nickname": "闪闪的人生",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/605e839000000000010028f9?xsec_token=AByvNoXHS_r0-SzgSwYbI7Hve4O4iwUmI67ZC-ikVR3Rc=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 32164,
+            "collects": 15168,
+            "comments": 1998,
+            "shares": 14100
+          },
+          "viral_score": 32164.0,
+          "source_keyword": "营养食疗"
+        }
+      ],
+      "viral_score_total": 32164.0,
+      "total_likes": 32164,
+      "total_collects": 15168,
+      "total_comments": 1998,
+      "keywords": {
+        "营养食疗": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "642055030000000012012cc1",
+      "nickname": "Sylis聊创业",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "66f8fa58000000001902e7f6",
+          "xsec_token": "AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "title": "如何远程賺外国人的钱",
+          "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "publish_time": "2024-09-29",
+          "author": {
+            "user_id": "642055030000000012012cc1",
+            "nickname": "Sylis聊创业",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 16066,
+            "collects": 19808,
+            "comments": 189,
+            "shares": 2727
+          },
+          "viral_score": 16066.0,
+          "source_keyword": "AI 副业"
+        },
+        {
+          "note_id": "66f8fa58000000001902e7f6",
+          "xsec_token": "AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "title": "如何远程賺外国人的钱",
+          "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "publish_time": "2024-09-29",
+          "author": {
+            "user_id": "642055030000000012012cc1",
+            "nickname": "Sylis聊创业",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 16066,
+            "collects": 19808,
+            "comments": 189,
+            "shares": 2727
+          },
+          "viral_score": 16066.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 32132.0,
+      "total_likes": 32132,
+      "total_collects": 39616,
+      "total_comments": 378,
+      "keywords": {
+        "AI 副业": 1,
+        "副业赚钱": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5a5ec5e04eacab7361052828",
+      "nickname": "ImCh9n",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5a5ec5e04eacab7361052828?xsec_token=ABRScX0EzKTH_4DNFVdcmBXYU2rZ0vTNXoS4v95zz5fYo=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "691980e3000000001b026cfc",
+          "xsec_token": "ABaFjW_isCTnZGRVzO4ksDMMbisDX-xkZp7Pu0IT2hfsU=",
+          "title": "内脏脂肪才是肚子胖的根源❗️懒人减肚子干货",
+          "url": "https://www.xiaohongshu.com/explore/691980e3000000001b026cfc?xsec_token=ABaFjW_isCTnZGRVzO4ksDMMbisDX-xkZp7Pu0IT2hfsU=",
+          "publish_time": "2025-12-04",
+          "author": {
+            "user_id": "5a5ec5e04eacab7361052828",
+            "nickname": "ImCh9n",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5a5ec5e04eacab7361052828?xsec_token=ABRScX0EzKTH_4DNFVdcmBXYU2rZ0vTNXoS4v95zz5fYo=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 31667,
+            "collects": 16171,
+            "comments": 391,
+            "shares": 1396
+          },
+          "viral_score": 31667.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 31667.0,
+      "total_likes": 31667,
+      "total_collects": 16171,
+      "total_comments": 391,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5feeed76000000000100ab66",
+      "nickname": "白舒楠_",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5feeed76000000000100ab66?xsec_token=AB9s2EfInnh25hjqfTeMWWN6SL21QlVyXK1_vEEB2m_jc=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69b65823000000001b0222dc",
+          "xsec_token": "ABTSuYe9XmJ4ZzLAKA14VzwXDmRkdscKaYjSjG3_YrCt4=",
+          "title": "快抄作业！自媒体第一步：万赞封面",
+          "url": "https://www.xiaohongshu.com/explore/69b65823000000001b0222dc?xsec_token=ABTSuYe9XmJ4ZzLAKA14VzwXDmRkdscKaYjSjG3_YrCt4=",
+          "publish_time": "03-15",
+          "author": {
+            "user_id": "5feeed76000000000100ab66",
+            "nickname": "白舒楠_",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5feeed76000000000100ab66?xsec_token=AB9s2EfInnh25hjqfTeMWWN6SL21QlVyXK1_vEEB2m_jc=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 31477,
+            "collects": 19438,
+            "comments": 408,
+            "shares": 1842
+          },
+          "viral_score": 31477.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 31477.0,
+      "total_likes": 31477,
+      "total_collects": 19438,
+      "total_comments": 408,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "607d4b230000000001001655",
+      "nickname": "苏丽珍",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/607d4b230000000001001655?xsec_token=AB-8LzWofe8nAVwYYSygjLJJeMDmEKRVguDzRIuyjFIjM=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69a79502000000002801eac3",
+          "xsec_token": "ABykZ5Faf5H6uKkXPYkWXmo8cGsIRoeXfYu2RBPP-cU_Q=",
+          "title": "再见了，苏丽珍的朋友们",
+          "url": "https://www.xiaohongshu.com/explore/69a79502000000002801eac3?xsec_token=ABykZ5Faf5H6uKkXPYkWXmo8cGsIRoeXfYu2RBPP-cU_Q=",
+          "publish_time": "03-04",
+          "author": {
+            "user_id": "607d4b230000000001001655",
+            "nickname": "苏丽珍",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/607d4b230000000001001655?xsec_token=AB-8LzWofe8nAVwYYSygjLJJeMDmEKRVguDzRIuyjFIjM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 28646,
+            "collects": 4824,
+            "comments": 625,
+            "shares": 649
+          },
+          "viral_score": 28646.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 28646.0,
+      "total_likes": 28646,
+      "total_collects": 4824,
+      "total_comments": 625,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "606c3c690000000001009178",
+      "nickname": "王加加",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/606c3c690000000001009178?xsec_token=AB5EvX6jxn8y9EZpamsfu5MD9DTJwIEBDLyDnbjqSKX2E=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6973a744000000000c03481a",
+          "xsec_token": "AB0KsCnj0W0_1-b9Zy6EkensiwUeBXT3xkozJV-Ox8fZE=",
+          "title": "2026所有人都有机会做自媒体",
+          "url": "https://www.xiaohongshu.com/explore/6973a744000000000c03481a?xsec_token=AB0KsCnj0W0_1-b9Zy6EkensiwUeBXT3xkozJV-Ox8fZE=",
+          "publish_time": "01-28",
+          "author": {
+            "user_id": "606c3c690000000001009178",
+            "nickname": "王加加",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/606c3c690000000001009178?xsec_token=AB5EvX6jxn8y9EZpamsfu5MD9DTJwIEBDLyDnbjqSKX2E=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 26622,
+            "collects": 21205,
+            "comments": 1199,
+            "shares": 1329
+          },
+          "viral_score": 26622.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 26622.0,
+      "total_likes": 26622,
+      "total_collects": 21205,
+      "total_comments": 1199,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5bdfe835d94c9b0001825413",
+      "nickname": "22顶呱呱的哇",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5bdfe835d94c9b0001825413?xsec_token=ABFR4xhEr2rHwQvwgrsLrf_uyn87SJd7S3KAFyXSEDpHY=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6854d506000000001703325d",
+          "xsec_token": "ABC3XIL3MJv7vbq5awgmZIFK2IMmy82XLarsP-Wx4hU6U=",
+          "title": "纯素人自媒体爆款sop大公开🔥（广告6w/条）",
+          "url": "https://www.xiaohongshu.com/explore/6854d506000000001703325d?xsec_token=ABC3XIL3MJv7vbq5awgmZIFK2IMmy82XLarsP-Wx4hU6U=",
+          "publish_time": "2025-06-20",
+          "author": {
+            "user_id": "5bdfe835d94c9b0001825413",
+            "nickname": "22顶呱呱的哇",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5bdfe835d94c9b0001825413?xsec_token=ABFR4xhEr2rHwQvwgrsLrf_uyn87SJd7S3KAFyXSEDpHY=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 23682,
+            "collects": 21811,
+            "comments": 204,
+            "shares": 2929
+          },
+          "viral_score": 23682.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 23682.0,
+      "total_likes": 23682,
+      "total_collects": 21811,
+      "total_comments": 204,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5a570a67e8ac2b4317d79523",
+      "nickname": "丁一晨",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5a570a67e8ac2b4317d79523?xsec_token=ABqmUEfu2q_IS6LsQ5c7Vr0C9Yp2H4DFaXMmwnxXkSvjs=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69a6257c0000000022030254",
+          "xsec_token": "ABFuV02Rkl5t_jD_L9labudb7X_do-iNf9Yz2BDRzE0aA=",
+          "title": "年后减肥｜同样120斤｜感受体脂率的变化",
+          "url": "https://www.xiaohongshu.com/explore/69a6257c0000000022030254?xsec_token=ABFuV02Rkl5t_jD_L9labudb7X_do-iNf9Yz2BDRzE0aA=",
+          "publish_time": "03-03",
+          "author": {
+            "user_id": "5a570a67e8ac2b4317d79523",
+            "nickname": "丁一晨",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5a570a67e8ac2b4317d79523?xsec_token=ABqmUEfu2q_IS6LsQ5c7Vr0C9Yp2H4DFaXMmwnxXkSvjs=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 22102,
+            "collects": 4113,
+            "comments": 1451,
+            "shares": 1469
+          },
+          "viral_score": 22102.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 22102.0,
+      "total_likes": 22102,
+      "total_collects": 4113,
+      "total_comments": 1451,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5eaaee6c0000000001004fdf",
+      "nickname": "辰亦儒",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5eaaee6c0000000001004fdf?xsec_token=ABb2yPmIj9O1GRs4W4PfFWNsW1MiF_aFTnxeAiH4pc7cg=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6885e115000000002400ccca",
+          "xsec_token": "ABG7hKMRLQwCPV0NK1taQD2V8EbMup6GUb90FpL6EZX1U=",
+          "title": "44岁男艺人掉秤饮食公式｜月⬇️10斤不是梦",
+          "url": "https://www.xiaohongshu.com/explore/6885e115000000002400ccca?xsec_token=ABG7hKMRLQwCPV0NK1taQD2V8EbMup6GUb90FpL6EZX1U=",
+          "publish_time": "2025-07-27",
+          "author": {
+            "user_id": "5eaaee6c0000000001004fdf",
+            "nickname": "辰亦儒",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5eaaee6c0000000001004fdf?xsec_token=ABb2yPmIj9O1GRs4W4PfFWNsW1MiF_aFTnxeAiH4pc7cg=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 21760,
+            "collects": 12990,
+            "comments": 1252,
+            "shares": 4745
+          },
+          "viral_score": 21760.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 21760.0,
+      "total_likes": 21760,
+      "total_collects": 12990,
+      "total_comments": 1252,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5cfca1ed0000000016015a99",
+      "nickname": "，倪 一童！？",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5cfca1ed0000000016015a99?xsec_token=AByVRCXP38SFVNVCf3BJJxgyTFIovDvEtxR4wpagXlusE=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69f474c70000000022028680",
+          "xsec_token": "ABxFkD4_ZC5Z6h-Awx6pF5apaP2zR6ztHxsw9l16euLlw=",
+          "title": "有人会拒绝自己的人生变得更好吗？",
+          "url": "https://www.xiaohongshu.com/explore/69f474c70000000022028680?xsec_token=ABxFkD4_ZC5Z6h-Awx6pF5apaP2zR6ztHxsw9l16euLlw=",
+          "publish_time": "05-11",
+          "author": {
+            "user_id": "5cfca1ed0000000016015a99",
+            "nickname": "，倪 一童！？",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5cfca1ed0000000016015a99?xsec_token=AByVRCXP38SFVNVCf3BJJxgyTFIovDvEtxR4wpagXlusE=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 21713,
+            "collects": 1426,
+            "comments": 4820,
+            "shares": 28330
+          },
+          "viral_score": 21713.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 21713.0,
+      "total_likes": 21713,
+      "total_collects": 1426,
+      "total_comments": 4820,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "65b7aefb000000000d01cedb",
+      "nickname": "小奥仔",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/65b7aefb000000000d01cedb?xsec_token=ABkzzWulc2l03KbNZWV3vZ21lRLPPbjjOuVznA4HmS-i4=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "68862920000000002400f49f",
+          "xsec_token": "ABGj9EgG8yJ-Mg4WQmcFrjYNYouzercxCboB5tC6Cpf18=",
+          "title": "新人博主必备的入门工具🧰暑假做自媒体必",
+          "url": "https://www.xiaohongshu.com/explore/68862920000000002400f49f?xsec_token=ABGj9EgG8yJ-Mg4WQmcFrjYNYouzercxCboB5tC6Cpf18=",
+          "publish_time": "02-19",
+          "author": {
+            "user_id": "65b7aefb000000000d01cedb",
+            "nickname": "小奥仔",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/65b7aefb000000000d01cedb?xsec_token=ABkzzWulc2l03KbNZWV3vZ21lRLPPbjjOuVznA4HmS-i4=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 21558,
+            "collects": 38549,
+            "comments": 104,
+            "shares": 5420
+          },
+          "viral_score": 21558.0,
+          "source_keyword": "自媒体"
+        }
+      ],
+      "viral_score_total": 21558.0,
+      "total_likes": 21558,
+      "total_collects": 38549,
+      "total_comments": 104,
+      "keywords": {
+        "自媒体": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5c519dad000000001202ca0d",
+      "nickname": "陶陶AI灵感库",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5c519dad000000001202ca0d?xsec_token=ABe3_p79ZwhyLm7RsyEnAg9FJuleeLcFPRCSl5Jq3gGQM=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "666c0258000000001c0207a2",
+          "xsec_token": "ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+          "title": "用AI做儿童绘本🔥涨粉8W",
+          "url": "https://www.xiaohongshu.com/explore/666c0258000000001c0207a2?xsec_token=ABmsNJnNxN-2NfCfXI_mnrzTiuFXKmmJKbpLzIcUo3Xh4=",
+          "publish_time": "2024-06-14",
+          "author": {
+            "user_id": "5c519dad000000001202ca0d",
+            "nickname": "陶陶AI灵感库",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5c519dad000000001202ca0d?xsec_token=ABe3_p79ZwhyLm7RsyEnAg9FJuleeLcFPRCSl5Jq3gGQM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 20483,
+            "collects": 24314,
+            "comments": 749,
+            "shares": 3630
+          },
+          "viral_score": 20483.0,
+          "source_keyword": "AI 副业"
+        }
+      ],
+      "viral_score_total": 20483.0,
+      "total_likes": 20483,
+      "total_collects": 24314,
+      "total_comments": 749,
+      "keywords": {
+        "AI 副业": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "5eeb8b5500000000010073c3",
+      "nickname": "嘴馋大毛毛（已瘦45斤）",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5eeb8b5500000000010073c3?xsec_token=ABEC3RAaCIL_uOiFC4qBEFliGUxIcGFI2S1ZArX3L1i6g=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "66a0b3c1000000000600c444",
+          "xsec_token": "AB0FBwLPbKyQLEj1_HnqqzNWnY1LwPcO8a1lp-bZ3CPhs=",
+          "title": "130➡️90｜瘦了40斤换了种人生！附饮食➕运动",
+          "url": "https://www.xiaohongshu.com/explore/66a0b3c1000000000600c444?xsec_token=AB0FBwLPbKyQLEj1_HnqqzNWnY1LwPcO8a1lp-bZ3CPhs=",
+          "publish_time": "2024-07-24",
+          "author": {
+            "user_id": "5eeb8b5500000000010073c3",
+            "nickname": "嘴馋大毛毛（已瘦45斤）",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5eeb8b5500000000010073c3?xsec_token=ABEC3RAaCIL_uOiFC4qBEFliGUxIcGFI2S1ZArX3L1i6g=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 19437,
+            "collects": 17387,
+            "comments": 277,
+            "shares": 1104
+          },
+          "viral_score": 19437.0,
+          "source_keyword": "减肥"
+        }
+      ],
+      "viral_score_total": 19437.0,
+      "total_likes": 19437,
+      "total_collects": 17387,
+      "total_comments": 277,
+      "keywords": {
+        "减肥": 1
+      },
+      "tags": {}
+    }
+  ],
+  "burst_distribution": {
+    "1_爆款": 81,
+    "2_3_爆款": 3,
+    "4+_爆款": 0
+  },
+  "cross_keyword": [
+    {
+      "user_id": "642055030000000012012cc1",
+      "nickname": "Sylis聊创业",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "66f8fa58000000001902e7f6",
+          "xsec_token": "AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "title": "如何远程賺外国人的钱",
+          "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "publish_time": "2024-09-29",
+          "author": {
+            "user_id": "642055030000000012012cc1",
+            "nickname": "Sylis聊创业",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 16066,
+            "collects": 19808,
+            "comments": 189,
+            "shares": 2727
+          },
+          "viral_score": 16066.0,
+          "source_keyword": "AI 副业"
+        },
+        {
+          "note_id": "66f8fa58000000001902e7f6",
+          "xsec_token": "AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "title": "如何远程賺外国人的钱",
+          "url": "https://www.xiaohongshu.com/explore/66f8fa58000000001902e7f6?xsec_token=AB3Gyt5P11eg_WV8k593sqeZDkBMkFdrcED88mPN7bs3w=",
+          "publish_time": "2024-09-29",
+          "author": {
+            "user_id": "642055030000000012012cc1",
+            "nickname": "Sylis聊创业",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/642055030000000012012cc1?xsec_token=ABeuqcbK76WB8MXpTxuHmHBFB7Ie0-Yg4oc9Toa4MlkKM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 16066,
+            "collects": 19808,
+            "comments": 189,
+            "shares": 2727
+          },
+          "viral_score": 16066.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 32132.0,
+      "total_likes": 32132,
+      "total_collects": 39616,
+      "total_comments": 378,
+      "keywords": {
+        "AI 副业": 1,
+        "副业赚钱": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "606a90a700000000010077cd",
+      "nickname": "周公何在",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6826954f000000002300e26c",
+          "xsec_token": "AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+          "title": "小说挣美元的第122天（粉丝暴涨！）",
+          "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+          "publish_time": "2025-10-15",
+          "author": {
+            "user_id": "606a90a700000000010077cd",
+            "nickname": "周公何在",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 6597,
+            "collects": 6781,
+            "comments": 110,
+            "shares": 627
+          },
+          "viral_score": 6597.0,
+          "source_keyword": "AI 副业"
+        },
+        {
+          "note_id": "6826954f000000002300e26c",
+          "xsec_token": "AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+          "title": "小说挣美元的第122天（粉丝暴涨！）",
+          "url": "https://www.xiaohongshu.com/explore/6826954f000000002300e26c?xsec_token=AB3EJ4uJmrOPrzzd2pRGy02gdt3AKudnfrh0iSbjv77jI=",
+          "publish_time": "2025-10-15",
+          "author": {
+            "user_id": "606a90a700000000010077cd",
+            "nickname": "周公何在",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/606a90a700000000010077cd?xsec_token=AByj1zDmO7Fyua2RsbzBYkyB6OXnRKu0zHA1yyvYKjEOU=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 6597,
+            "collects": 6781,
+            "comments": 110,
+            "shares": 627
+          },
+          "viral_score": 6597.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 13194.0,
+      "total_likes": 13194,
+      "total_collects": 13562,
+      "total_comments": 220,
+      "keywords": {
+        "AI 副业": 1,
+        "副业赚钱": 1
+      },
+      "tags": {}
+    },
+    {
+      "user_id": "65eacb270000000005008c7d",
+      "nickname": "坎叔",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "67583465000000000103f17a",
+          "xsec_token": "AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+          "title": "用Ai写公众号，写了1个月，收入4位数",
+          "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+          "publish_time": "2024-12-14",
+          "author": {
+            "user_id": "65eacb270000000005008c7d",
+            "nickname": "坎叔",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 5460,
+            "collects": 6854,
+            "comments": 168,
+            "shares": 866
+          },
+          "viral_score": 5460.0,
+          "source_keyword": "AI 副业"
+        },
+        {
+          "note_id": "67583465000000000103f17a",
+          "xsec_token": "AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+          "title": "用Ai写公众号，写了1个月，收入4位数",
+          "url": "https://www.xiaohongshu.com/explore/67583465000000000103f17a?xsec_token=AB5SmSpqC9tLBRrx8gUjA52h3hOGdDjJOiuUAqfcioZqI=",
+          "publish_time": "2024-12-14",
+          "author": {
+            "user_id": "65eacb270000000005008c7d",
+            "nickname": "坎叔",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/65eacb270000000005008c7d?xsec_token=ABwDD0tAokjlSWHEgvrBCctyMOBkAJu_2ytefIlOO2si4=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 5460,
+            "collects": 6854,
+            "comments": 168,
+            "shares": 866
+          },
+          "viral_score": 5460.0,
+          "source_keyword": "副业赚钱"
+        }
+      ],
+      "viral_score_total": 10920.0,
+      "total_likes": 10920,
+      "total_collects": 13708,
+      "total_comments": 336,
+      "keywords": {
+        "AI 副业": 1,
+        "副业赚钱": 1
+      },
+      "tags": {}
+    }
+  ],
+  "head_tail": {
+    "top10pct_accounts": 8,
+    "top10pct_viral_share": 41.5,
+    "rest_accounts": 76,
+    "rest_viral_share": 58.5
+  }
+}

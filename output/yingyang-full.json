@@ -1,0 +1,18 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "营养食疗",
+  "filter": {
+    "max_followers": 5000,
+    "min_likes": 1000,
+    "require_fans": true,
+    "fan_source": "drissionpage"
+  },
+  "scanned_notes": 20,
+  "pre_filter_pass": 20,
+  "unique_authors": 20,
+  "fetched_fans": 0,
+  "viral_count": 0,
+  "elapsed_sec": 419.7,
+  "results": []
+}

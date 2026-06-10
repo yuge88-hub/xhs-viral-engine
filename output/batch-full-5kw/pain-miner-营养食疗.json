@@ -1,0 +1,590 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 20,
+  "filters": {
+    "min_likes": 3,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "request",
+      "question",
+      "pain",
+      "criticism",
+      "suggestion"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 320,
+    "total_kept_pain": 30,
+    "elapsed_sec": 439.8
+  },
+  "per_note": [
+    {
+      "note_id": "67c7c9bd0000000029031b33",
+      "title": "身体各器官最爱的食物❗❗❗",
+      "url": "https://www.xiaohongshu.com/explore/67c7c9bd0000000029031b33?xsec_token=ABEmeriH4zI49Edjwo6kCES2MNjs6OZNi8TOCUbiio2-g=",
+      "total_comments": 16,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6129a38b000000002103bb8d",
+      "title": "秋季必喝❗️一周不重样养生汤羹，润燥养颜",
+      "url": "https://www.xiaohongshu.com/explore/6129a38b000000002103bb8d?xsec_token=ABXB7K1PXrMZ3JBsvOlK3eUwqiVlJqtgMLJw0ivrzvZco=",
+      "total_comments": 20,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "692ce6c0000000000d03d991",
+      "title": "蘑菇的抗癌力！",
+      "url": "https://www.xiaohongshu.com/explore/692ce6c0000000000d03d991?xsec_token=ABLery0OjCYS4CuhxGJDW7qteL55LyxclkbFtCZ0fvPU8=",
+      "total_comments": 18,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-692ff325000000001702e952",
+          "content": "抖音天天看黏菌吃菇类 黏菌非常讨厌吃香菇 根本不敢靠近的那种..",
+          "likes": 2984,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "-荔枝楠美术",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "67f0c103000000001d038b92",
+      "title": "20个民间小偏方",
+      "url": "https://www.xiaohongshu.com/explore/67f0c103000000001d038b92?xsec_token=ABpJ726j0EsGaIhnMy0vffMJth3ih6wllXeMAWCicAaRw=",
+      "total_comments": 19,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-67f17f87000000001e03c9d4",
+          "content": "好想知道治癣的偏方，脖子后面两年了一直下不去。一个月犯一次，挠完出水，第二天起干皮。烦死了，到底是啥也不知道，抹药当时好，次月又犯",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo1+",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-67fe62de000000001e016877",
+          "content": "打呼噜那个谁试试？",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "好几个字符",
+          "ip_location": "内蒙古",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "685922340000000023004e56",
+      "title": "27岁少女感，漂亮的尽头是抗糖和抗衰",
+      "url": "https://www.xiaohongshu.com/explore/685922340000000023004e56?xsec_token=AB56A6bVTcM-bJNXrarPhHw6S6XwyLRNTZ6Wha1Y9lOU8=",
+      "total_comments": 12,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-685a5dd8000000000c014845",
+          "content": "如果你能做我女朋友，就算再給我100萬我也願意",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "掌管古希臘711茶葉蛋的神",
+          "ip_location": "新加坡",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-685c80e2000000000c015f82",
+          "content": "是的，我虽然也是健身爱好者，也知道控糖的确能比常人年轻，但是我一直都是遵循的少吃，而不是不吃",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "慢热而已",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6735c7d0000000001b02d334",
+      "title": "这就是养脾胃的结果（黄皮吐血总结）",
+      "url": "https://www.xiaohongshu.com/explore/6735c7d0000000001b02d334?xsec_token=ABIRYWt19JbnXR-yTW4G-FTsV-sKio3BjGah-HW-oHCbk=",
+      "total_comments": 16,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6739ab8a000000003c01a008",
+      "title": "医院食谱",
+      "url": "https://www.xiaohongshu.com/explore/6739ab8a000000003c01a008?xsec_token=ABK4dFXu5fQOsTLCE7EYNdtv8IUQAkyVMEQmiEvoUdMDo=",
+      "total_comments": 16,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6745e048000000001b023e71",
+          "content": "不能吃鸡蛋和牛奶怎么补充蛋白质呢",
+          "likes": 19,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "伱給嘚緈輻",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6747d8480000000002007e68",
+          "content": "这个是给很大基数，就是那种BMI超27吃的吧，热量2200大卡，对于体重正常成年女性基础代谢来说是超的，评论区90多斤100出头斤的就不要学了",
+          "likes": 11,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "吻影",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "696b7af4000000002202362c",
+      "title": "身体的炎症全部消失22个tips",
+      "url": "https://www.xiaohongshu.com/explore/696b7af4000000002202362c?xsec_token=ABN0pV4TSBBJyVuDAjh-Dil1m0sEfkNssh5Mp2XEBGRj8=",
+      "total_comments": 15,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-69820c21000000000800f504",
+          "content": "不是所有人都要多喝水，要适量喝，如果脾胃虚弱，运化水的能力不行，水喝多了就会不舒服。",
+          "likes": 70,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "爱喝橙汁的小鱼",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-699dbd6d0000000004001937",
+          "content": "是的 这要因人而异，我就是只能渴了才喝，不渴不渴，不然代谢不了整个人肿的难受，",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "✨ISTJ课代表✨",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-696c623d0000000008030271",
+          "content": "不会呀，早上的紫外线最弱，而且冬天都裹的严严实实的，一般都是晒背，背对阳光，怕晒黑可以再戴个披巾",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "于雪Xx(学习版）",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-696b7ea00000000018038267",
+          "content": "15和17会不会有点冲突",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "开心得了",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69209b08000000001902401c",
+      "title": "秋冬营养膳食",
+      "url": "https://www.xiaohongshu.com/explore/69209b08000000001902401c?xsec_token=ABbNZjDwayxdc39Yr8ERDHeTdNiNP6oPjHE2rgJdQVwSw=",
+      "total_comments": 11,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6682a7610000000005007f48",
+      "title": "🌟晚上睡不着？是身体在求救了❗️❗️",
+      "url": "https://www.xiaohongshu.com/explore/6682a7610000000005007f48?xsec_token=ABLoOjzRFhtgdaeIzgT_ygQWgqjAOLdoJloYZoPIq-5R4=",
+      "total_comments": 15,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69e19b17000000001a032bbc",
+      "title": "41岁，空腹挨饿+排淤补血5年，成功活成少女",
+      "url": "https://www.xiaohongshu.com/explore/69e19b17000000001a032bbc?xsec_token=ABI-qkPJlAan1b11_K3vDVoqag0cg4TmJn9xGpRTuQ27Y=",
+      "total_comments": 16,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-69e1e5e7000000001401ac04",
+          "content": "马上也给自己来了一张。第一张十年前。我是个挨不了一点饿的人。77年的，49岁，啥都不补，不爱运动，能躺绝不坐，饿了就吃，不拒绝大鱼大肉。12点后睡觉。",
+          "likes": 26,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "时光",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a190a75000000002a030cd2",
+          "content": "人就是因为在乎太多，讲究太多，所以容易早死，容易生病，想怎么吃怎么吃，怎么开心怎么吃，怎么舒服怎么来，才是长寿之道，开心第一，睡眠第一，心情好了，什么病都没有了多巴胺能杀死一切病毒抑菌",
+          "likes": 7,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "K。",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a00822a000000002702fe14",
+          "content": "能这样穿搭出去 勇气可嘉",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯5FF18F0A",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69b37389000000000c009444",
+      "title": "45岁，每天两顿饭，坚持7年香港太太习惯",
+      "url": "https://www.xiaohongshu.com/explore/69b37389000000000c009444?xsec_token=AB7PmUJETVsNDrxV96fFjz_hZd7bdkXa2R9XQxVhkF6PM=",
+      "total_comments": 17,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69b578cc00000000150022ad",
+          "content": "是不是没孩子没家庭。不然很难做到这些，好花时间的",
+          "likes": 49,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "勤劳的小蜜蜂",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69b6c17e0000000018023f21",
+          "content": "我手指尖是瘪的，指甲也有竖纹，网上好多说缺铁。你推荐那个可以吃吗？平时吃的复合维生素，但是居然还是缺铁",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "轻舟已过万重山",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a1eae88000000003502a82f",
+      "title": "夏日五行蔬菜能量汤🥣五色食补养五脏🌈",
+      "url": "https://www.xiaohongshu.com/explore/6a1eae88000000003502a82f?xsec_token=ABgtjlUmJaqoqV_g2CIAI4Vh_17_ndkCkTxdiQ2yt3R0Y=",
+      "total_comments": 17,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "68db1737000000001301b5b1",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/68db1737000000001301b5b1?xsec_token=AB_jQ-X393k-4nw__s9JEFVKsb8lsumv7ZHZIk5EbpW2A=",
+      "total_comments": 16,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-697caaff000000000b037329",
+          "content": "好多宝子问五红汤适合什么时候喝，来分享下我的个人饮用经验～我是月经量少，经期结束后第7天开始喝的，初期少量喝、每周两次就够啦～湿热体质的姐妹不建议喝哦，大家喝前一定要结合自己的身体情况来，身体不舒服的话记得及时问医生哈～",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "阿年食光",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-6932cc89000000001702dac2",
+          "content": "宝子好～ 五红汤建议例假彻底干净后再喝！先暂停观察，一般会慢慢恢复～ 体质不同反应有差异，不适的话及时咨询专业人士哦💕",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "阿年食光",
+          "ip_location": "辽宁",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        },
+        {
+          "id": "comment-68e250ec00000000330205d0",
+          "content": "可以的！给宝宝喝需要调整一下用量 如果孩子是手脚冰凉、虚寒体质，可以少量喝一点：每次半碗就好，每周1-2次，不要多喝，避免上火，记得红糖减量，别太甜了 喝之前一定要确保孩子对花生、红枣这些食材都不过敏才行！ 湿热体质，便秘、感冒、口臭，就不要喝啦 每个孩子体质都不同，最稳妥的办法还是咨询一下专业的营养师或医生，他们会给出最适合您家宝贝的建议！❤️",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "阿年食光",
+          "ip_location": "辽宁",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6912d7f50000000005039bb3",
+      "title": "学中医的爷爷让我这个季节要多喝这些营养汤",
+      "url": "https://www.xiaohongshu.com/explore/6912d7f50000000005039bb3?xsec_token=ABmwRbwGXriEm1HFhYv8-NYr6EcrgHU6cW67vQIfU75_s=",
+      "total_comments": 12,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69226f71000000001e00f323",
+      "title": "39岁看起来像20岁，这10种超级食物不能不吃",
+      "url": "https://www.xiaohongshu.com/explore/69226f71000000001e00f323?xsec_token=ABomj1VujF6yHrVnoEEkH0GE0mWBXZp8HWS6WK-sap6cA=",
+      "total_comments": 20,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "68207cd0000000000303e4e0",
+      "title": "我发现🔍身体没有炎症的人都有一个饮食特点",
+      "url": "https://www.xiaohongshu.com/explore/68207cd0000000000303e4e0?xsec_token=AB7Hc1VHzFJ464lmvHhx1Da-u3JZCoVZ6Hyqt_4W3EWYA=",
+      "total_comments": 19,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-683cc18c0000000009015311",
+          "content": "发酵食物是非常好的抗炎食物，建议明天吃。现代最前沿研究发现，没有添加糖、和其他非天然的食物添加剂的发酵食物，可以帮助维持健康的肠道益生箘。可以抗炎，抵抗慢性疾病，维持大脑健康。尤其对粗粮消化不好的好，需要先建立健康的肠胃菌群，帮助消化高纤维的食物。",
+          "likes": 39,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Stella",
+          "ip_location": "美国",
+          "create_time": 0,
+          "categories": [
+            "suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68f2117f0000000005033d43",
+      "title": "✅ 特殊期一周高蛋白食谱，直接抄作业！",
+      "url": "https://www.xiaohongshu.com/explore/68f2117f0000000005033d43?xsec_token=ABuKOxMHKUBwFsuwL46CmWfGsJv1K6a1jEDSnOZY8uLks=",
+      "total_comments": 14,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-68f5ed800000000030025148",
+          "content": "存能在哪里能入手啊",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "不发脾气只发财💰",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69440e57000000001502f960",
+          "content": "医生都交代不能吃红枣",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小红薯_6623",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-694a90b7000000001601f07d",
+          "content": "所以 这个食谱 不对；这些我都不能吃",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Wed",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6925b91c000000000d00f3b0",
+      "title": "术后补营养不踩坑！8种食物促愈合~",
+      "url": "https://www.xiaohongshu.com/explore/6925b91c000000000d00f3b0?xsec_token=ABVT3_rt-kIdhf_Geo5I_WjpZkrVNk--VrnYEkXYIrz5Q=",
+      "total_comments": 15,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-6937e74f000000001d026a0d",
+          "content": "为什么我家人医生说不能吃鸡肉，鸡蛋",
+          "likes": 13,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小鱼冻干",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6937e906000000001600c64f",
+          "content": "一般情况是能吃的，不过如果是消化道手术或者刚术后感染的情况就需要注意，正常在恢复中期吃是没问题的，每个人情况不一样，具体还是遵医嘱比较好",
+          "likes": 11,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "煜坤本草食记",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69b12741000000003200164e",
+          "content": "牛奶、鸡蛋、鱼、肉、大豆、海鲜等都有异型蛋白，“异型蛋白”本身不直接导致炎症加剧。关键在于是否过敏或食物不新鲜。只要对虾不过敏、保证新鲜全熟，虾的优质蛋白和锌反而能促进康复，不会加重炎症。",
+          "likes": 9,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "金秀聊肿瘤营养",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6950d6bf000000000f00d7c8",
+          "content": "海鲜那种鱼算吧，河鱼河虾不会",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "橘福",
+          "ip_location": "福建",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-698998090000000018023cf8",
+          "content": "虾不是也不能吃吗，海鲜类的，异型蛋白可能会加重炎症",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "点点西瓜芒果汁",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a1fd308000000000803d251",
+      "title": "🍳可以连吃一个月的减脂早餐🥑🥔🥚",
+      "url": "https://www.xiaohongshu.com/explore/6a1fd308000000000803d251?xsec_token=ABeM0KBDl5cLOlfvJXJ-Xc1xTvsvNDS-DQGvZuzVypaNU=",
+      "total_comments": 16,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6a201abb000000002702e1b1",
+          "content": "好可爱呀肩膀那只猫猫",
+          "likes": 146,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "蓝色降落伞",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a20753f000000002901a7dc",
+          "content": "是啊，这个做法我去年还是前年就看到小红书博主分享过了，只不过人家刚开始做的是年糕镲片。想想也是啊，如果是外国人，怎么可能在最后会放上一把香葱",
+          "likes": 54,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "滴滴",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

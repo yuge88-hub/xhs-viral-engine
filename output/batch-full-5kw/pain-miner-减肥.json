@@ -1,0 +1,767 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 20,
+  "filters": {
+    "min_likes": 3,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "pain",
+      "suggestion",
+      "criticism",
+      "question",
+      "request"
+    ],
+    "top_per_note": 5
+  },
+  "stats": {
+    "total_comments": 360,
+    "total_kept_pain": 43,
+    "elapsed_sec": 429.4
+  },
+  "per_note": [
+    {
+      "note_id": "6770d5520000000013008374",
+      "title": "终于瘦了10斤 🫡",
+      "url": "https://www.xiaohongshu.com/explore/6770d5520000000013008374?xsec_token=ABy-ou5XUWsJMLKTT7z0OXba_thJv781b5voJ2FAgtTNA=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6770d6cc000000000e00ffa1",
+          "content": "哥 肚子上的肉真的难瘦",
+          "likes": 628,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "J-",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-685a7505000000001101a4c6",
+          "content": "都是脂肪，脂肪不会局部消耗，所以多训练就OK了，建议轻断食",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "燕麦超紧致",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "suggestion"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "678509d5000000000203e7aa",
+      "title": "减肥动力来了！瘦了45斤的各个部位对比",
+      "url": "https://www.xiaohongshu.com/explore/678509d5000000000203e7aa?xsec_token=ABUlSleTdqiWfSZUWBx2UReX1k9yMngnAczr2UnQ1JeUY=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-67a816fa0000000018036b23",
+          "content": "我感觉之前的身材就很好了，减完肥也太瘦了人只剩下皮包骨了中国的女生到底什么时候才能不身材焦虑",
+          "likes": 18,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "风轻云淡",
+          "ip_location": "内蒙古",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-67a8514f0000000016023212",
+          "content": "怎么什么都往身材焦虑上扯如果这一切都是人家喜欢的目标身材，那又有什么呢明显看得出来博主很喜欢减完肥的身材啊，为什么又要说是身材焦虑呢，不要把你自己的思想强加在人家身上",
+          "likes": 12,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "丢丢",
+          "ip_location": "重庆",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-67859f2d000000001b03eac2",
+          "content": "因为我是梨型，就是下半身很难瘦",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "雪饼减减减",
+          "ip_location": "重庆",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-678ba5ec000000001b03081e",
+          "content": "朋友们，我是一名18岁的加拿大女孩，你能帮我减肥吗？我的身高是171，体重是174磅",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Megs",
+          "ip_location": "加拿大",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6793d36d000000000a019e43",
+          "content": "我的手从小就肉肉的，瘦了手能瘦吗",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "今天又把钱造哪儿了？",
+          "ip_location": "四川",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "691980e3000000001b026cfc",
+      "title": "内脏脂肪才是肚子胖的根源❗️懒人减肚子干货",
+      "url": "https://www.xiaohongshu.com/explore/691980e3000000001b026cfc?xsec_token=ABaFjW_isCTnZGRVzO4ksDMMbisDX-xkZp7Pu0IT2hfsU=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-6919d1c9000000003300c3ee",
+          "content": "想起来了！像北斗神拳中的那个，尤利娅！",
+          "likes": 1336,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "SuperStar",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-691a0df20000000037026358",
+          "content": "我的问题是肚子吗，我的问题是没有那么大的胸",
+          "likes": 6,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "幼稚鬼日常",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69a6257c0000000022030254",
+      "title": "年后减肥｜同样120斤｜感受体脂率的变化",
+      "url": "https://www.xiaohongshu.com/explore/69a6257c0000000022030254?xsec_token=ABFuV02Rkl5t_jD_L9labudb7X_do-iNf9Yz2BDRzE0aA=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-69a6371a00000000040007ef",
+          "content": "我一开始也很疑惑 回来我发现可能是吃得太干净会粑粑困难，直接喝油会帮助排便",
+          "likes": 364,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "暴走小龙虾",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69a62fc80000000006008023",
+          "content": "是这样，我发现自信是天生的，后天很难练出来。我练了这么多年了。我觉得不舒服，不如释放我们的真诚。你说呢。但是要加必杀技，否则被人拿捏。",
+          "likes": 57,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "丁一晨",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69a62fe90000000019001772",
+          "content": "我有点崩溃，这几天吃的很干净就是不怎么掉昨天早上就是半个贝果夹一片火腿，自己做的拿铁。中午200克牛肉➕水煮西兰花花菜➕一小块紫薯和芋头。晚上练胸肩 30分钟爬坡，速度4.5，坡度15。晚上150克无糖脱脂希腊酸奶和一点点蓝莓 一点点麦片。今天掉0.1KG最近每天几乎都这么吃 我不懂我的问题出现在哪里…",
+          "likes": 13,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "🥕Bunny🐰",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69a62ec60000000006033b42",
+          "content": "最小的那款，42，我戴大一点的特别硌",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "丁一晨",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6885e115000000002400ccca",
+      "title": "44岁男艺人掉秤饮食公式｜月⬇️10斤不是梦",
+      "url": "https://www.xiaohongshu.com/explore/6885e115000000002400ccca?xsec_token=ABG7hKMRLQwCPV0NK1taQD2V8EbMup6GUb90FpL6EZX1U=",
+      "total_comments": 17,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-6885fdfc0000000002006fb0",
+          "content": "早餐吃不了那么多吃一个鸡蛋一杯牛奶就饱得不得了了",
+          "likes": 159,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Inhua",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69f474c70000000022028680",
+      "title": "有人会拒绝自己的人生变得更好吗？",
+      "url": "https://www.xiaohongshu.com/explore/69f474c70000000022028680?xsec_token=ABxFkD4_ZC5Z6h-Awx6pF5apaP2zR6ztHxsw9l16euLlw=",
+      "total_comments": 20,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69f56919000000002803f848",
+          "content": "哥姐，能传授一下减肥经验吗 你是咋瘦下来的",
+          "likes": 182,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "亞亞拿铁",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69f4b52b00000000270141e4",
+          "content": "假发很美有链接吗？姐妹",
+          "likes": 12,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "66a0b3c1000000000600c444",
+      "title": "130➡️90｜瘦了40斤换了种人生！附饮食➕运动",
+      "url": "https://www.xiaohongshu.com/explore/66a0b3c1000000000600c444?xsec_token=AB0FBwLPbKyQLEj1_HnqqzNWnY1LwPcO8a1lp-bZ3CPhs=",
+      "total_comments": 19,
+      "kept_comments": 1,
+      "top_pains": [
+        {
+          "id": "comment-68161491000000001301110c",
+          "content": "救命，我原来90现在110多，好崩溃",
+          "likes": 10,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "超想吃烤地瓜",
+          "ip_location": "北京",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6933ae8c000000001e013529",
+      "title": "挑战140斤瘦到100斤 已⬇️6斤",
+      "url": "https://www.xiaohongshu.com/explore/6933ae8c000000001e013529?xsec_token=ABGrQlJCzqw8KGQvj4qkEgvIXEUGI6mOsfNKEQIF6Or0E=",
+      "total_comments": 15,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6a0d9ed60000000038036931",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/6a0d9ed60000000038036931?xsec_token=ABhQlgzRAa7yyIwbHkfQ8DFqA5gnocFYs12u01XoW-D1Q=",
+      "total_comments": 17,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-6a0db11a0000000028034e01",
+          "content": "？跳舞那一段我竟然觉得没有那么胖[呃R]",
+          "likes": 1994,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "zero",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a0db1db000000002b029442",
+          "content": "感觉真的瘦了很多，脸也看得出来瘦了，开头和结尾黄色衣服的那个片段不知道是不是以前的",
+          "likes": 1198,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "momo",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a20268d000000002702e267",
+          "content": "捷风大早晨能吃俩猪蹄也是人才[回招呼]",
+          "likes": 42,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "陈九九",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a23cf67000000002803f99b",
+          "content": "我也留意到了，和博主的差别可能就50步到100步",
+          "likes": 10,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "晶晶",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a1bb91b0000000029012961",
+          "content": "你说那捷风是不是也是个胖的？",
+          "likes": 10,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "邪恶绿裤子",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "699da4a6000000001a033228",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/699da4a6000000001a033228?xsec_token=ABRrisq-iCYv_xGqH0-yHUBLlyKRkT4b1hIPoXMqYmmw0=",
+      "total_comments": 18,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69bbc24d0000000021013fe1",
+      "title": "165 45健身+内调，超绝腰臀比是我应得的！",
+      "url": "https://www.xiaohongshu.com/explore/69bbc24d0000000021013fe1?xsec_token=AB58oJ1reepTx2URHLETFOvjLRuj7i7GjjxLMCMsdNUgQ=",
+      "total_comments": 12,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69bd14a70000000018020dae",
+          "content": "茯苓膏在哪买啊想知道",
+          "likes": 15,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Jayme Ingram",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69bd14be000000000d03c9a9",
+          "content": "茯苓膏真的好使吗，我是肚子大脸肥能有用吗…",
+          "likes": 13,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "未央",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question",
+            "praise"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68501a640000000020028497",
+      "title": "挑战140斤瘦到90斤",
+      "url": "https://www.xiaohongshu.com/explore/68501a640000000020028497?xsec_token=ABzpPPQq91xWofEO-9UBI2DAdUp062wQA1mAmAgF34-Qk=",
+      "total_comments": 15,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "6936e3e4000000001b0336cd",
+      "title": "这减肥能行么？",
+      "url": "https://www.xiaohongshu.com/explore/6936e3e4000000001b0336cd?xsec_token=ABxQIPregAgBjqK5l4y-AHixeUauPGkbABSrHFsI4DdOQ=",
+      "total_comments": 18,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69ce1b94000000001a02f05a",
+      "title": "174/47一天K炎塑形吃什么｜减脂➕增肌两不误",
+      "url": "https://www.xiaohongshu.com/explore/69ce1b94000000001a02f05a?xsec_token=AB3wT55EizjMZfLeX1VQH3OtYLax3NGdQApdUX40e06DI=",
+      "total_comments": 19,
+      "kept_comments": 2,
+      "top_pains": [
+        {
+          "id": "comment-69e4c8e7000000001401a025",
+          "content": "可能就是因为吸肚子所以看着别扭吧",
+          "likes": 8,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "任毛球的姐姐",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69e89b250000000014019023",
+          "content": "首先体重很轻 肌肉量也够 肚子不用吸都有这个效果 而且 有些人正常也会腹部发力 并不会完全放松腹部 不是刻意 是自然的收紧腹部",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "酷酷的yo.",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "68612abb0000000017030589",
+      "title": "关于我一个月瘦了30斤的实话（二）",
+      "url": "https://www.xiaohongshu.com/explore/68612abb0000000017030589?xsec_token=ABfuEqoRouukQGe5R_taY5weZb5NYER9gsCdiOU0Ix2pE=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-68620198000000001102f3e9",
+          "content": "液断5天 第六天就开始头晕 凌晨惊醒。。。暴饮暴食了一天又开始难受",
+          "likes": 32,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "爱吃火锅的小宝",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6861aece000000000c016d11",
+          "content": "我是头三天饿完就去吃了放纵餐接着又开始纯靠饿能坚持多少天就坚持，再吃一顿放纵餐，坚持饿几天之后再吃放纵餐。我发现适合我减肥的方法只有饿，最开始单纯运动控制不住猪欲。只要第一周过了就很好坚持。",
+          "likes": 17,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "张映月Missmiss",
+          "ip_location": "河南",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-686a839b00000000130365f4",
+          "content": "有没有减肥搭子?我拉群，目前13人，互相监督的来，我骂人可厉害了",
+          "likes": 5,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "风铃🎐",
+          "ip_location": "江西",
+          "create_time": 0,
+          "categories": [
+            "request",
+            "praise"
+          ]
+        },
+        {
+          "id": "comment-686a890400000000200246ab",
+          "content": "不是纯饿 一天吃一顿沙县鸡腿饭（10点左右 六七分饱停筷）其他时间什么都不吃 能骗过代谢吗",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "465",
+          "ip_location": "江苏",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69ac64c80000000022038fb7",
+      "title": "这要怎么减肥（求骂醒我版）",
+      "url": "https://www.xiaohongshu.com/explore/69ac64c80000000022038fb7?xsec_token=ABEgJ30yk8X167gdgzS2tFXwlKlt1z5Qq8nqxfOocwfGU=",
+      "total_comments": 20,
+      "kept_comments": 9,
+      "top_pains": [
+        {
+          "id": "comment-69acaa3c000000000d034a04",
+          "content": "饿，然后兜里不要放钱，卡里不要放钱，微信里不要放钱，因为有钱就开吃，你如果能控制住吃也不会胖成这样。买个水杯，饿了就喝水。你那个大基数一天能掉两斤，肚子咕咕叫实在受，实在饿的腿抽抽了，头晕你就吃点小面包和水果。",
+          "likes": 333,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "甜心",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain",
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69ad264b0000000015017478",
+          "content": "这个姐妹说的对 先看身体激素分泌水平 我儿子也是一年胖四十斤 我先去医院 数据都正常 那就是单纯馋",
+          "likes": 97,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "byrd520veronica",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69acab860000000002034cdf",
+          "content": "我不是纸上谈兵，我之前一百七，去年收到120，然后过年这一个月我天天给自己吃的撑，因为闲着不吃撑就一直感觉无聊，又不拉屎，又吃到了一百四。我这两天出来上班，上了三天今天早上量体重，134斤了解每天中午吃一顿，不要去卖吃的地方，手机里不要有钱，家里不要囤零食，因为一下就能吃完。",
+          "likes": 95,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "甜心",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69acb83e000000001101b53d",
+          "content": "只要能忍着不吃，甚至不用出去走",
+          "likes": 50,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小蛮的碎碎念",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-69ad031e000000000202af1f",
+          "content": "这种体重不吃零食，三餐一餐一碗饭加上菜，不用动都能瘦",
+          "likes": 38,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "藕煌附体",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a0869b8000000003701d13f",
+      "title": "三个月瘦52斤教程来啦❗️",
+      "url": "https://www.xiaohongshu.com/explore/6a0869b8000000003701d13f?xsec_token=ABFKQ5jqvj-X_yk8FIHt4MoywcRg9prv6zYSHaFeP5h4Y=",
+      "total_comments": 18,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-6a0c242800000000280340fb",
+          "content": "能瘦下去的地方就是肉，并且没有局部减脂，瘦了的话肯定哪都会瘦的",
+          "likes": 52,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "加大码",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a08766d000000002803d9a0",
+          "content": "吃的没问题，你会不会动太多了？多吃多动少吃少动",
+          "likes": 43,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "加大码",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a0d1066000000002803cc00",
+          "content": "主播我想问一下 早餐只吃两个鸡蛋午餐吃的少然后过午不食 难道不会有便秘的困惑吗",
+          "likes": 4,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Z.",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "69c2007e0000000023013242",
+      "title": "年后➖10斤🔥运动+饮食双攻略｜懒人✂️肥神器",
+      "url": "https://www.xiaohongshu.com/explore/69c2007e0000000023013242?xsec_token=ABB17xJfvVsVmNaovCqvnTiQHlMR-etfCRG0hq2k80Yvo=",
+      "total_comments": 16,
+      "kept_comments": 0,
+      "top_pains": []
+    },
+    {
+      "note_id": "69ffdca9000000003601ffaa",
+      "title": "生活化减肥历时六年终于完成",
+      "url": "https://www.xiaohongshu.com/explore/69ffdca9000000003601ffaa?xsec_token=ABPKF0T-zGJ757zqESjFaLCREWv9uXNaBlUuWF30UEGnU=",
+      "total_comments": 20,
+      "kept_comments": 5,
+      "top_pains": [
+        {
+          "id": "comment-6a01c601000000002803ab4c",
+          "content": "好像是说有些胖子减肥成功之后性格会变得没有以前那么“善良”，是因为胖与性格有关系，胖的人会想通过性格好获得大家的认可和喜欢。大概是这样的意思🤔",
+          "likes": 1691,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "特别特别好",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a00665a0000000028031572",
+          "content": "趁还年轻，不能困在一堆脂肪里。",
+          "likes": 1138,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Ki45 Toryu",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a020b0d000000002a004a3b",
+          "content": "那不mean的瘦子真的很善良了",
+          "likes": 541,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "mōmô",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6a00681f0000000028030703",
+          "content": "不会，因为我有解压阀，就是靠喝无糖气泡水、无糖可乐、无糖乌龙茶来抑制猪瘾。而且我每周专门抽一天不吃主食，吃了一堆高蛋白零食（比如牛肉干），或者高蛋白放纵餐（比如新疆羊肉串）。",
+          "likes": 284,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Ki45 Toryu",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-6a006766000000002a006ad9",
+          "content": "请教下博主长期这样吃会不会出现抑郁情绪或者影响日常工作？之前试过没坚持下来",
+          "likes": 32,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "老吴",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        }
+      ]
+    },
+    {
+      "note_id": "6a00856400000000350329cb",
+      "title": "给大家分享一个超绝的懒人减肥方法",
+      "url": "https://www.xiaohongshu.com/explore/6a00856400000000350329cb?xsec_token=ABmURCEjgEmzAQpurH9wn5YEX2nbRIKcHOspKfnlUckXM=",
+      "total_comments": 16,
+      "kept_comments": 0,
+      "top_pains": []
+    }
+  ]
+}

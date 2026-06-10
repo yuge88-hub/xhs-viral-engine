@@ -1,0 +1,86 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "suggestion",
+      "question",
+      "criticism",
+      "pain",
+      "request"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 20,
+    "total_kept_pain": 4,
+    "elapsed_sec": 17.9
+  },
+  "per_note": [
+    {
+      "note_id": "691b36e8000000000703931c",
+      "title": "",
+      "url": "https://www.xiaohongshu.com/explore/691b36e8000000000703931c?xsec_token=ABXjpbc_WVwjxkZ8FlHpl9WIEw39IVX3A8TALNtaO5u4w=",
+      "total_comments": 20,
+      "kept_comments": 4,
+      "top_pains": [
+        {
+          "id": "comment-692aca3e00000000160229c0",
+          "content": "邪修一点，用cursor，虽然是写代码的，但是你可以吧你的文章转为markdown格式放进文件夹里当codebase让cursor读，然后让它教你写，还能体验多种模型风格",
+          "likes": 43,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "幻想实干家",
+          "ip_location": "广东",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-691d69fe000000000601b980",
+          "content": "ima记不住太多东西，只能当搜索用",
+          "likes": 7,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "蝎子大王🥕",
+          "ip_location": "黑龙江",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-6926b275000000001601f340",
+          "content": "用现成的ai不好吗？我看我爱人实验室用的那个商用科研ai就没有瞎编论文的现象",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "胖狐狸",
+          "ip_location": "山西",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        },
+        {
+          "id": "comment-693ddbdc000000001600c329",
+          "content": "能分享一下博主的帖子嘛",
+          "likes": 3,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "P&T",
+          "ip_location": "安徽",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

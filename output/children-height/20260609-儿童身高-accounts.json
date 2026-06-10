@@ -1,0 +1,962 @@
+{
+  "summary": {
+    "n_authors": 40,
+    "n_notes": 40,
+    "total_viral_score": 134457,
+    "avg_viral_per_author": 3361.0
+  },
+  "ranking": [
+    {
+      "user_id": "64185f9e0000000011023756",
+      "nickname": "阿文阿乐～",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/64185f9e0000000011023756?xsec_token=AB-jwbsDPBtU9i7WGspPbdrh8bJNBZyOJR-Oc0M2se1aE=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6a013ba10000000008033be0",
+          "xsec_token": "ABiVT_vZmIzVpJDFuSDAiNxGi2X7id-msNbk8poiwYeto=",
+          "title": "二年级女儿142了～",
+          "url": "https://www.xiaohongshu.com/explore/6a013ba10000000008033be0?xsec_token=ABiVT_vZmIzVpJDFuSDAiNxGi2X7id-msNbk8poiwYeto=",
+          "publish_time": "05-11",
+          "author": {
+            "user_id": "64185f9e0000000011023756",
+            "nickname": "阿文阿乐～",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/64185f9e0000000011023756?xsec_token=AB-jwbsDPBtU9i7WGspPbdrh8bJNBZyOJR-Oc0M2se1aE=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 26708,
+            "collects": 1274,
+            "comments": 3813,
+            "shares": 2998
+          },
+          "viral_score": 26708.0,
+          "quality": {
+            "score": 69.49,
+            "tier": "🔥 常规爆款",
+            "collect_rate": 0.048,
+            "comment_rate": 0.143,
+            "share_rate": 0.112,
+            "rate_score": 0.524,
+            "volume_score": 0.713,
+            "freshness_score": 1.0,
+            "age_days": 29,
+            "publish_date": "2026-05-11"
+          }
+        }
+      ],
+      "viral_score_total": 26708.0,
+      "total_likes": 26708,
+      "total_collects": 1274,
+      "total_comments": 3813,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5bd019fb819a070001e813d2",
+      "nickname": "米米妈Lily",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5bd019fb819a070001e813d2?xsec_token=AB7YcCnDaHG8HDz64mFmKBT0kgbEv8xohxeuXlXV_Rj2w=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "686b779b000000002400a04f",
+          "xsec_token": "AB8JIUeM5FWlWf4hLvDE58X_xrANdEhBCzpnMsEFLET_8=",
+          "title": "13岁168cm ❗️抓住暑假三伏天成长期！猛猛📈",
+          "url": "https://www.xiaohongshu.com/explore/686b779b000000002400a04f?xsec_token=AB8JIUeM5FWlWf4hLvDE58X_xrANdEhBCzpnMsEFLET_8=",
+          "publish_time": "2025-07-07",
+          "author": {
+            "user_id": "5bd019fb819a070001e813d2",
+            "nickname": "米米妈Lily",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5bd019fb819a070001e813d2?xsec_token=AB7YcCnDaHG8HDz64mFmKBT0kgbEv8xohxeuXlXV_Rj2w=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 14170,
+            "collects": 19782,
+            "comments": 228,
+            "shares": 7703
+          },
+          "viral_score": 14170.0,
+          "quality": {
+            "score": 66.23,
+            "tier": "🔥 常规爆款",
+            "collect_rate": 1.396,
+            "comment_rate": 0.016,
+            "share_rate": 0.544,
+            "rate_score": 0.88,
+            "volume_score": 0.576,
+            "freshness_score": 0.4,
+            "age_days": 337,
+            "publish_date": "2025-07-07"
+          }
+        }
+      ],
+      "viral_score_total": 14170.0,
+      "total_likes": 14170,
+      "total_collects": 19782,
+      "total_comments": 228,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5d15ee840000000010022c8b",
+      "nickname": "七个佩奇妈妈文文",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5d15ee840000000010022c8b?xsec_token=ABirBklE5AKWZWUCqzQmFdy1zjPAIaVLEOXqlHg8BqviY=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6868704b0000000012015152",
+          "xsec_token": "ABecdGj8QLz7B2RD-C3isZSXTDy26YWjKvvNscZ445bew=",
+          "title": "7个孩子妈妈产后到底多久再怀孕下一胎的？",
+          "url": "https://www.xiaohongshu.com/explore/6868704b0000000012015152?xsec_token=ABecdGj8QLz7B2RD-C3isZSXTDy26YWjKvvNscZ445bew=",
+          "publish_time": "2025-07-05",
+          "author": {
+            "user_id": "5d15ee840000000010022c8b",
+            "nickname": "七个佩奇妈妈文文",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5d15ee840000000010022c8b?xsec_token=ABirBklE5AKWZWUCqzQmFdy1zjPAIaVLEOXqlHg8BqviY=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 9562,
+            "collects": 1417,
+            "comments": 581,
+            "shares": 1223
+          },
+          "viral_score": 9562.0,
+          "quality": {
+            "score": 49.85,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.148,
+            "comment_rate": 0.061,
+            "share_rate": 0.128,
+            "rate_score": 0.556,
+            "volume_score": 0.49,
+            "freshness_score": 0.4,
+            "age_days": 339,
+            "publish_date": "2025-07-05"
+          }
+        }
+      ],
+      "viral_score_total": 9562.0,
+      "total_likes": 9562,
+      "total_collects": 1417,
+      "total_comments": 581,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5bcdc9e2729237000161c04a",
+      "nickname": "晨熙妈妈",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5bcdc9e2729237000161c04a?xsec_token=ABWa_rG5sS8upTzt9u84iPpnalcTG6iEP0pS5RVnv10kg=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "64db7747000000000c0366e4",
+          "xsec_token": "ABs4UoSzKrAlUv-sOtuf1-9Yo1syDYgkJ0F_gPXXLWOv4=",
+          "title": "儿童标准身高",
+          "url": "https://www.xiaohongshu.com/explore/64db7747000000000c0366e4?xsec_token=ABs4UoSzKrAlUv-sOtuf1-9Yo1syDYgkJ0F_gPXXLWOv4=",
+          "publish_time": "2023-08-15",
+          "author": {
+            "user_id": "5bcdc9e2729237000161c04a",
+            "nickname": "晨熙妈妈",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5bcdc9e2729237000161c04a?xsec_token=ABWa_rG5sS8upTzt9u84iPpnalcTG6iEP0pS5RVnv10kg=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 8947,
+            "collects": 8436,
+            "comments": 2009,
+            "shares": 1797
+          },
+          "viral_score": 8947.0,
+          "quality": {
+            "score": 63.03,
+            "tier": "🔥 常规爆款",
+            "collect_rate": 0.943,
+            "comment_rate": 0.225,
+            "share_rate": 0.201,
+            "rate_score": 1.0,
+            "volume_score": 0.476,
+            "freshness_score": 0.2,
+            "age_days": 1029,
+            "publish_date": "2023-08-15"
+          }
+        }
+      ],
+      "viral_score_total": 8947.0,
+      "total_likes": 8947,
+      "total_collects": 8436,
+      "total_comments": 2009,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5c9c9d6500000000120256e0",
+      "nickname": "478",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5c9c9d6500000000120256e0?xsec_token=ABRip6SuLDum-18FBMeb2NNGQoqixQiFnLGsz4AiDtcbo=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6a0039ae00000000350251c1",
+          "xsec_token": "ABmURCEjgEmzAQpurH9wn5YNFSL6pNDenzkL94wkv-osk=",
+          "title": "小时候的比例真好啊…",
+          "url": "https://www.xiaohongshu.com/explore/6a0039ae00000000350251c1?xsec_token=ABmURCEjgEmzAQpurH9wn5YNFSL6pNDenzkL94wkv-osk=",
+          "publish_time": "05-11",
+          "author": {
+            "user_id": "5c9c9d6500000000120256e0",
+            "nickname": "478",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5c9c9d6500000000120256e0?xsec_token=ABRip6SuLDum-18FBMeb2NNGQoqixQiFnLGsz4AiDtcbo=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 7757,
+            "collects": 505,
+            "comments": 543,
+            "shares": 101
+          },
+          "viral_score": 7757.0,
+          "quality": {
+            "score": 50.83,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.065,
+            "comment_rate": 0.07,
+            "share_rate": 0.013,
+            "rate_score": 0.326,
+            "volume_score": 0.445,
+            "freshness_score": 1.0,
+            "age_days": 29,
+            "publish_date": "2026-05-11"
+          }
+        }
+      ],
+      "viral_score_total": 7757.0,
+      "total_likes": 7757,
+      "total_collects": 505,
+      "total_comments": 543,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "666db7a20000000007007bb3",
+      "nickname": "大陈小陈的日常",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/666db7a20000000007007bb3?xsec_token=AB8KWcEq5T63Cl3gHGNIl6259i-nWFZvyCzIVk0yvCP4s=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "66dd86b3000000002603eab2",
+          "xsec_token": "AB6ZR3HVN9YsSMzDYEjuPEcZLYievkaz5klRUr7FS8btg=",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/66dd86b3000000002603eab2?xsec_token=AB6ZR3HVN9YsSMzDYEjuPEcZLYievkaz5klRUr7FS8btg=",
+          "publish_time": "2024-09-08",
+          "author": {
+            "user_id": "666db7a20000000007007bb3",
+            "nickname": "大陈小陈的日常",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/666db7a20000000007007bb3?xsec_token=AB8KWcEq5T63Cl3gHGNIl6259i-nWFZvyCzIVk0yvCP4s=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 5961,
+            "collects": 560,
+            "comments": 932,
+            "shares": 496
+          },
+          "viral_score": 5961.0,
+          "quality": {
+            "score": 38.15,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.094,
+            "comment_rate": 0.156,
+            "share_rate": 0.083,
+            "rate_score": 0.466,
+            "volume_score": 0.388,
+            "freshness_score": 0.2,
+            "age_days": 639,
+            "publish_date": "2024-09-08"
+          }
+        }
+      ],
+      "viral_score_total": 5961.0,
+      "total_likes": 5961,
+      "total_collects": 560,
+      "total_comments": 932,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "590c0df86a6a692274eb51c0",
+      "nickname": "长腿希希👫",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/590c0df86a6a692274eb51c0?xsec_token=ABWW_4JElRQ8U7sl1EyPvoNkUVdPcuVLeYZpcfNlCLWUk=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "68a58054000000001d00c3ff",
+          "xsec_token": "ABs76IySY_TbcAZJYidbDTSTpBpu4nWvgPztx4g7VE6eY=",
+          "title": "12岁168，分享3个成长办法",
+          "url": "https://www.xiaohongshu.com/explore/68a58054000000001d00c3ff?xsec_token=ABs76IySY_TbcAZJYidbDTSTpBpu4nWvgPztx4g7VE6eY=",
+          "publish_time": "2025-08-26",
+          "author": {
+            "user_id": "590c0df86a6a692274eb51c0",
+            "nickname": "长腿希希👫",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/590c0df86a6a692274eb51c0?xsec_token=ABWW_4JElRQ8U7sl1EyPvoNkUVdPcuVLeYZpcfNlCLWUk=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 5313,
+            "collects": 4075,
+            "comments": 209,
+            "shares": 1139
+          },
+          "viral_score": 5313.0,
+          "quality": {
+            "score": 54.51,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.767,
+            "comment_rate": 0.039,
+            "share_rate": 0.214,
+            "rate_score": 0.8,
+            "volume_score": 0.363,
+            "freshness_score": 0.4,
+            "age_days": 287,
+            "publish_date": "2025-08-26"
+          }
+        }
+      ],
+      "viral_score_total": 5313.0,
+      "total_likes": 5313,
+      "total_collects": 4075,
+      "total_comments": 209,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5c2c02c30000000005035e87",
+      "nickname": "美食宝妈～vicky",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5c2c02c30000000005035e87?xsec_token=AByC2rpFpknTsMam3tNBZkWEVyLrUbKcrth7LqgObBytE=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "67835d3a000000000b0349a3",
+          "xsec_token": "AB3vh9k-JDh3irqYlb8kBRESVZzOx9am0ercSd2WEe9IU=",
+          "title": "0-7岁儿童身高体重发育表",
+          "url": "https://www.xiaohongshu.com/explore/67835d3a000000000b0349a3?xsec_token=AB3vh9k-JDh3irqYlb8kBRESVZzOx9am0ercSd2WEe9IU=",
+          "publish_time": "2025-01-12",
+          "author": {
+            "user_id": "5c2c02c30000000005035e87",
+            "nickname": "美食宝妈～vicky",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5c2c02c30000000005035e87?xsec_token=AByC2rpFpknTsMam3tNBZkWEVyLrUbKcrth7LqgObBytE=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 4036,
+            "collects": 1100,
+            "comments": 205,
+            "shares": 447
+          },
+          "viral_score": 4036.0,
+          "quality": {
+            "score": 37.0,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.273,
+            "comment_rate": 0.051,
+            "share_rate": 0.111,
+            "rate_score": 0.522,
+            "volume_score": 0.303,
+            "freshness_score": 0.2,
+            "age_days": 513,
+            "publish_date": "2025-01-12"
+          }
+        }
+      ],
+      "viral_score_total": 4036.0,
+      "total_likes": 4036,
+      "total_collects": 1100,
+      "total_comments": 205,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5bf6c6a47e289900013d8426",
+      "nickname": "硕士蔡蔡梓儿🌱",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5bf6c6a47e289900013d8426?xsec_token=AB38tYwSXohMu1zuipJk4_XhIowGgk92jOMxH-BhOvr_o=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69cb93f6000000002301c47f",
+          "xsec_token": "ABAJ0ytSW_n3bzdmNoelkrITXGQAxtFhmDMsQeAbV9ntE=",
+          "title": "2026年最新身高体重对照表来啦~",
+          "url": "https://www.xiaohongshu.com/explore/69cb93f6000000002301c47f?xsec_token=ABAJ0ytSW_n3bzdmNoelkrITXGQAxtFhmDMsQeAbV9ntE=",
+          "publish_time": "04-17",
+          "author": {
+            "user_id": "5bf6c6a47e289900013d8426",
+            "nickname": "硕士蔡蔡梓儿🌱",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5bf6c6a47e289900013d8426?xsec_token=AB38tYwSXohMu1zuipJk4_XhIowGgk92jOMxH-BhOvr_o=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 4012,
+            "collects": 1208,
+            "comments": 444,
+            "shares": 845
+          },
+          "viral_score": 4012.0,
+          "quality": {
+            "score": 50.07,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.301,
+            "comment_rate": 0.111,
+            "share_rate": 0.211,
+            "rate_score": 0.6,
+            "volume_score": 0.302,
+            "freshness_score": 0.7,
+            "age_days": 53,
+            "publish_date": "2026-04-17"
+          }
+        }
+      ],
+      "viral_score_total": 4012.0,
+      "total_likes": 4012,
+      "total_collects": 1208,
+      "total_comments": 444,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5afef32911be10312b1af851",
+      "nickname": "艺涵儿童营养",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5afef32911be10312b1af851?xsec_token=ABEIhNskA7Gzq3tRkqtl-4uF3xiVT2SwofqBvueI8NunA=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "697232500000000022031013",
+          "xsec_token": "ABiIaj-D6RCtx2Wz-ZGoHzLnMWW4Fpj2-3u4tGyjY0wPk=",
+          "title": "这7种天然食物，让孩子突破遗传身高！",
+          "url": "https://www.xiaohongshu.com/explore/697232500000000022031013?xsec_token=ABiIaj-D6RCtx2Wz-ZGoHzLnMWW4Fpj2-3u4tGyjY0wPk=",
+          "publish_time": "01-22",
+          "author": {
+            "user_id": "5afef32911be10312b1af851",
+            "nickname": "艺涵儿童营养",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5afef32911be10312b1af851?xsec_token=ABEIhNskA7Gzq3tRkqtl-4uF3xiVT2SwofqBvueI8NunA=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 3415,
+            "collects": 6031,
+            "comments": 35,
+            "shares": 5530
+          },
+          "viral_score": 3415.0,
+          "quality": {
+            "score": 52.67,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 1.766,
+            "comment_rate": 0.01,
+            "share_rate": 1.619,
+            "rate_score": 0.85,
+            "volume_score": 0.267,
+            "freshness_score": 0.4,
+            "age_days": 138,
+            "publish_date": "2026-01-22"
+          }
+        }
+      ],
+      "viral_score_total": 3415.0,
+      "total_likes": 3415,
+      "total_collects": 6031,
+      "total_comments": 35,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5bab4ee89aa94f0001900ecb",
+      "nickname": "清宝嘛嘛",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5bab4ee89aa94f0001900ecb?xsec_token=ABMCipE9km2khWolFtuIC8Z84At6IX7lSrm0C9egp1jVg=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "687b26a8000000001203077e",
+          "xsec_token": "ABW2yVplIQUPMRB-PmNwxUoroXI8rySZvkRe0HPi7xA1E=",
+          "title": "🔥抓住三伏天：30天长高黄金期，别让孩子错过",
+          "url": "https://www.xiaohongshu.com/explore/687b26a8000000001203077e?xsec_token=ABW2yVplIQUPMRB-PmNwxUoroXI8rySZvkRe0HPi7xA1E=",
+          "publish_time": "2025-07-19",
+          "author": {
+            "user_id": "5bab4ee89aa94f0001900ecb",
+            "nickname": "清宝嘛嘛",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5bab4ee89aa94f0001900ecb?xsec_token=ABMCipE9km2khWolFtuIC8Z84At6IX7lSrm0C9egp1jVg=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2845,
+            "collects": 4170,
+            "comments": 43,
+            "shares": 1817
+          },
+          "viral_score": 2845.0,
+          "quality": {
+            "score": 52.08,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 1.466,
+            "comment_rate": 0.015,
+            "share_rate": 0.639,
+            "rate_score": 0.875,
+            "volume_score": 0.227,
+            "freshness_score": 0.4,
+            "age_days": 325,
+            "publish_date": "2025-07-19"
+          }
+        }
+      ],
+      "viral_score_total": 2845.0,
+      "total_likes": 2845,
+      "total_collects": 4170,
+      "total_comments": 43,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "60c0ee710000000001009ab6",
+      "nickname": "是芯芯呀",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/60c0ee710000000001009ab6?xsec_token=ABXCjVtQBBN8djqeL0hbfsLz0aqVOm0c8myESvdX-UKW0=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "694a561e000000001e0304e2",
+          "xsec_token": "ABnqr_xga1u7xLOebGETuIpl09EpX8SBAfXbKZro-30hU=",
+          "title": "8️⃣岁的她，真的像五六年级学生吗？",
+          "url": "https://www.xiaohongshu.com/explore/694a561e000000001e0304e2?xsec_token=ABnqr_xga1u7xLOebGETuIpl09EpX8SBAfXbKZro-30hU=",
+          "publish_time": "2025-12-23",
+          "author": {
+            "user_id": "60c0ee710000000001009ab6",
+            "nickname": "是芯芯呀",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/60c0ee710000000001009ab6?xsec_token=ABXCjVtQBBN8djqeL0hbfsLz0aqVOm0c8myESvdX-UKW0=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2827,
+            "collects": 1695,
+            "comments": 158,
+            "shares": 40
+          },
+          "viral_score": 2827.0,
+          "quality": {
+            "score": 38.15,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.6,
+            "comment_rate": 0.056,
+            "share_rate": 0.014,
+            "rate_score": 0.528,
+            "volume_score": 0.226,
+            "freshness_score": 0.4,
+            "age_days": 168,
+            "publish_date": "2025-12-23"
+          }
+        }
+      ],
+      "viral_score_total": 2827.0,
+      "total_likes": 2827,
+      "total_collects": 1695,
+      "total_comments": 158,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5b3c2e284eacab361154934d",
+      "nickname": "晨视频",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5b3c2e284eacab361154934d?xsec_token=AB27GzdB5ApmkeURTx-i6LqA_YAGFTn0gVePa0DFDGqoM=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "68654113000000001202d970",
+          "xsec_token": "ABlyhg4CzOkq7LouxOuJ0i1jTcBaTuu20wY5w3LVtxRWE=",
+          "title": "",
+          "url": "https://www.xiaohongshu.com/explore/68654113000000001202d970?xsec_token=ABlyhg4CzOkq7LouxOuJ0i1jTcBaTuu20wY5w3LVtxRWE=",
+          "publish_time": "2025-07-02",
+          "author": {
+            "user_id": "5b3c2e284eacab361154934d",
+            "nickname": "晨视频",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5b3c2e284eacab361154934d?xsec_token=AB27GzdB5ApmkeURTx-i6LqA_YAGFTn0gVePa0DFDGqoM=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2365,
+            "collects": 175,
+            "comments": 317,
+            "shares": 88
+          },
+          "viral_score": 2365.0,
+          "quality": {
+            "score": 30.44,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.074,
+            "comment_rate": 0.134,
+            "share_rate": 0.037,
+            "rate_score": 0.374,
+            "volume_score": 0.187,
+            "freshness_score": 0.4,
+            "age_days": 342,
+            "publish_date": "2025-07-02"
+          }
+        }
+      ],
+      "viral_score_total": 2365.0,
+      "total_likes": 2365,
+      "total_collects": 175,
+      "total_comments": 317,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "662788880000000007007700",
+      "nickname": "风铃",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/662788880000000007007700?xsec_token=ABiOcmHrW13L8BJLMDKFBzGWYfDMJj68z2n8Cg9x_q5g8=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "67372240000000001b02ddcd",
+          "xsec_token": "ABkFni-puzevmIi-yZ1T-XLcaTeHREpH-k3wsxnasb5kk=",
+          "title": "去了儿童医院测骨龄后才知道…",
+          "url": "https://www.xiaohongshu.com/explore/67372240000000001b02ddcd?xsec_token=ABkFni-puzevmIi-yZ1T-XLcaTeHREpH-k3wsxnasb5kk=",
+          "publish_time": "2024-11-16",
+          "author": {
+            "user_id": "662788880000000007007700",
+            "nickname": "风铃",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/662788880000000007007700?xsec_token=ABiOcmHrW13L8BJLMDKFBzGWYfDMJj68z2n8Cg9x_q5g8=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2331,
+            "collects": 822,
+            "comments": 304,
+            "shares": 58
+          },
+          "viral_score": 2331.0,
+          "quality": {
+            "score": 25.35,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.353,
+            "comment_rate": 0.13,
+            "share_rate": 0.025,
+            "rate_score": 0.35,
+            "volume_score": 0.184,
+            "freshness_score": 0.2,
+            "age_days": 570,
+            "publish_date": "2024-11-16"
+          }
+        }
+      ],
+      "viral_score_total": 2331.0,
+      "total_likes": 2331,
+      "total_collects": 822,
+      "total_comments": 304,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "60c9a4c9000000000100b2ac",
+      "nickname": "尹烨",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/60c9a4c9000000000100b2ac?xsec_token=ABHfnATpEmL7EZwLLc9FtZwGuevaPNPwCllI9fi689U0k=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "689efbac000000001d006d00",
+          "xsec_token": "ABNwmb23MbJGlfuOa3i0H2PdK7hVRGzs5rO-N3YTccmnk=",
+          "title": "日本人身高为何停在171厘米？",
+          "url": "https://www.xiaohongshu.com/explore/689efbac000000001d006d00?xsec_token=ABNwmb23MbJGlfuOa3i0H2PdK7hVRGzs5rO-N3YTccmnk=",
+          "publish_time": "2025-08-17",
+          "author": {
+            "user_id": "60c9a4c9000000000100b2ac",
+            "nickname": "尹烨",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/60c9a4c9000000000100b2ac?xsec_token=ABHfnATpEmL7EZwLLc9FtZwGuevaPNPwCllI9fi689U0k=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2320,
+            "collects": 660,
+            "comments": 505,
+            "shares": 380
+          },
+          "viral_score": 2320.0,
+          "quality": {
+            "score": 39.31,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.284,
+            "comment_rate": 0.218,
+            "share_rate": 0.164,
+            "rate_score": 0.6,
+            "volume_score": 0.183,
+            "freshness_score": 0.4,
+            "age_days": 296,
+            "publish_date": "2025-08-17"
+          }
+        }
+      ],
+      "viral_score_total": 2320.0,
+      "total_likes": 2320,
+      "total_collects": 660,
+      "total_comments": 505,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "6443b5b4000000001400e23f",
+      "nickname": "营养包项目服务小曾",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/6443b5b4000000001400e23f?xsec_token=AB7Ewm12C3j3ALK7DOtGP9nIGtiBMfMbES9aag1LpL51c=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "653e33090000000025008c89",
+          "xsec_token": "AB0rB9n3EwLCVjAUoTKoijE_Q5Ro1MYEH_diFhtT-6wiU=",
+          "title": "妇保院拍的身高对照表，宝妈们可以参考一下",
+          "url": "https://www.xiaohongshu.com/explore/653e33090000000025008c89?xsec_token=AB0rB9n3EwLCVjAUoTKoijE_Q5Ro1MYEH_diFhtT-6wiU=",
+          "publish_time": "2023-10-29",
+          "author": {
+            "user_id": "6443b5b4000000001400e23f",
+            "nickname": "营养包项目服务小曾",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/6443b5b4000000001400e23f?xsec_token=AB7Ewm12C3j3ALK7DOtGP9nIGtiBMfMbES9aag1LpL51c=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2108,
+            "collects": 610,
+            "comments": 465,
+            "shares": 62
+          },
+          "viral_score": 2108.0,
+          "quality": {
+            "score": 24.8,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.289,
+            "comment_rate": 0.221,
+            "share_rate": 0.029,
+            "rate_score": 0.358,
+            "volume_score": 0.162,
+            "freshness_score": 0.2,
+            "age_days": 954,
+            "publish_date": "2023-10-29"
+          }
+        }
+      ],
+      "viral_score_total": 2108.0,
+      "total_likes": 2108,
+      "total_collects": 610,
+      "total_comments": 465,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5f1a30950000000001002b26",
+      "nickname": "语妈陪娃成长",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5f1a30950000000001002b26?xsec_token=ABwA321sxWXwQjGEhP9P5V0nPw0_IeV1AsShUcnjt8VRc=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "69ccf14b00000000220246a0",
+          "xsec_token": "ABl0l8-I2cGX5AqmNpF3S5X-4KCiuiJwE6Ci4YD9pC44E=",
+          "title": "2026儿童身高体重表，你家孩子达标了吗？",
+          "url": "https://www.xiaohongshu.com/explore/69ccf14b00000000220246a0?xsec_token=ABl0l8-I2cGX5AqmNpF3S5X-4KCiuiJwE6Ci4YD9pC44E=",
+          "publish_time": "05-29",
+          "author": {
+            "user_id": "5f1a30950000000001002b26",
+            "nickname": "语妈陪娃成长",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5f1a30950000000001002b26?xsec_token=ABwA321sxWXwQjGEhP9P5V0nPw0_IeV1AsShUcnjt8VRc=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 2098,
+            "collects": 920,
+            "comments": 573,
+            "shares": 839
+          },
+          "viral_score": 2098.0,
+          "quality": {
+            "score": 58.44,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.439,
+            "comment_rate": 0.273,
+            "share_rate": 0.4,
+            "rate_score": 0.8,
+            "volume_score": 0.161,
+            "freshness_score": 1.0,
+            "age_days": 11,
+            "publish_date": "2026-05-29"
+          }
+        }
+      ],
+      "viral_score_total": 2098.0,
+      "total_likes": 2098,
+      "total_collects": 920,
+      "total_comments": 573,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5417c59bb4c4d6477d60a6f0",
+      "nickname": "嘻小嘻CC",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5417c59bb4c4d6477d60a6f0?xsec_token=ABqgf7vF_mPENvvb4vr1HV78SLbr94-7FbK4uyz_E2G7M=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "67385ea4000000003c01e50d",
+          "xsec_token": "ABzY1dG-a-rv9svXOIoLIIcQ0apmO_P8JQW528OnFefnE=",
+          "title": "10后小孩姐为了长高有多拼？",
+          "url": "https://www.xiaohongshu.com/explore/67385ea4000000003c01e50d?xsec_token=ABzY1dG-a-rv9svXOIoLIIcQ0apmO_P8JQW528OnFefnE=",
+          "publish_time": "2024-11-17",
+          "author": {
+            "user_id": "5417c59bb4c4d6477d60a6f0",
+            "nickname": "嘻小嘻CC",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5417c59bb4c4d6477d60a6f0?xsec_token=ABqgf7vF_mPENvvb4vr1HV78SLbr94-7FbK4uyz_E2G7M=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 1976,
+            "collects": 527,
+            "comments": 379,
+            "shares": 129
+          },
+          "viral_score": 1976.0,
+          "quality": {
+            "score": 27.12,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.267,
+            "comment_rate": 0.192,
+            "share_rate": 0.065,
+            "rate_score": 0.43,
+            "volume_score": 0.148,
+            "freshness_score": 0.2,
+            "age_days": 569,
+            "publish_date": "2024-11-17"
+          }
+        }
+      ],
+      "viral_score_total": 1976.0,
+      "total_likes": 1976,
+      "total_collects": 527,
+      "total_comments": 379,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "60f6672d0000000001003ca9",
+      "nickname": "粒粒",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/60f6672d0000000001003ca9?xsec_token=ABV91VZN5ndJw_7Ip4oLNiKcn9ZVc33hHnPLryj97SLOI=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "6865cc8300000000120212c2",
+          "xsec_token": "ABlyhg4CzOkq7LouxOuJ0i1vnMFou9faGDnG891SB_Yks=",
+          "title": "锌真的对孩子太重要了！",
+          "url": "https://www.xiaohongshu.com/explore/6865cc8300000000120212c2?xsec_token=ABlyhg4CzOkq7LouxOuJ0i1vnMFou9faGDnG891SB_Yks=",
+          "publish_time": "2025-07-03",
+          "author": {
+            "user_id": "60f6672d0000000001003ca9",
+            "nickname": "粒粒",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/60f6672d0000000001003ca9?xsec_token=ABV91VZN5ndJw_7Ip4oLNiKcn9ZVc33hHnPLryj97SLOI=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 1952,
+            "collects": 1747,
+            "comments": 9,
+            "shares": 696
+          },
+          "viral_score": 1952.0,
+          "quality": {
+            "score": 46.81,
+            "tier": "⚡ 准爆款",
+            "collect_rate": 0.895,
+            "comment_rate": 0.005,
+            "share_rate": 0.357,
+            "rate_score": 0.825,
+            "volume_score": 0.145,
+            "freshness_score": 0.4,
+            "age_days": 341,
+            "publish_date": "2025-07-03"
+          }
+        }
+      ],
+      "viral_score_total": 1952.0,
+      "total_likes": 1952,
+      "total_collects": 1747,
+      "total_comments": 9,
+      "keywords": {},
+      "tags": {}
+    },
+    {
+      "user_id": "5cdb68cf000000001103ab5c",
+      "nickname": "婧～",
+      "profile_url": "https://www.xiaohongshu.com/user/profile/5cdb68cf000000001103ab5c?xsec_token=AB7NGONpapDlNe90MF1AWC3YdA0LCfGyWNStAM8J5IAUc=&xsec_source=pc_search",
+      "fan_source": null,
+      "notes": [
+        {
+          "note_id": "659ff16e00000000120067d7",
+          "xsec_token": "AB_ZNRLXxQm_rwXp8v5qOINZGJQEPO_4l_0cTgdUd249w=",
+          "title": "追高追着追着变矮了",
+          "url": "https://www.xiaohongshu.com/explore/659ff16e00000000120067d7?xsec_token=AB_ZNRLXxQm_rwXp8v5qOINZGJQEPO_4l_0cTgdUd249w=",
+          "publish_time": "2024-01-11",
+          "author": {
+            "user_id": "5cdb68cf000000001103ab5c",
+            "nickname": "婧～",
+            "fans": null,
+            "fan_source": null,
+            "profile_url": "https://www.xiaohongshu.com/user/profile/5cdb68cf000000001103ab5c?xsec_token=AB7NGONpapDlNe90MF1AWC3YdA0LCfGyWNStAM8J5IAUc=&xsec_source=pc_search"
+          },
+          "metrics": {
+            "likes": 1655,
+            "collects": 162,
+            "comments": 433,
+            "shares": 36
+          },
+          "viral_score": 1655.0,
+          "quality": {
+            "score": 22.14,
+            "tier": "📊 数据平平",
+            "collect_rate": 0.098,
+            "comment_rate": 0.262,
+            "share_rate": 0.022,
+            "rate_score": 0.344,
+            "volume_score": 0.109,
+            "freshness_score": 0.2,
+            "age_days": 880,
+            "publish_date": "2024-01-11"
+          }
+        }
+      ],
+      "viral_score_total": 1655.0,
+      "total_likes": 1655,
+      "total_collects": 162,
+      "total_comments": 433,
+      "keywords": {},
+      "tags": {}
+    }
+  ],
+  "burst_distribution": {
+    "1_爆款": 40,
+    "2_3_爆款": 0,
+    "4+_爆款": 0
+  },
+  "cross_keyword": [],
+  "head_tail": {
+    "top10pct_accounts": 4,
+    "top10pct_viral_share": 44.2,
+    "rest_accounts": 36,
+    "rest_viral_share": 55.8
+  }
+}

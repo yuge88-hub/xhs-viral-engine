@@ -1,0 +1,2523 @@
+{
+  "groups": [
+    {
+      "normalized": "她气血好足啊感觉做什么都能成",
+      "sample": "她气血好足啊，感觉做什么都能成",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3396,
+      "max_likes": 3396,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 374.6
+    },
+    {
+      "normalized": "抖音天天看黏菌吃菇类黏菌非常讨厌吃香菇根本不敢靠近的那种",
+      "sample": "抖音天天看黏菌吃菇类 黏菌非常讨厌吃香菇 根本不敢靠近的那种..",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 2984,
+      "max_likes": 2984,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 333.4
+    },
+    {
+      "normalized": "跳舞那一段我竟然觉得没有那么胖[呃r]",
+      "sample": "？跳舞那一段我竟然觉得没有那么胖[呃R]",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1994,
+      "max_likes": 1994,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 234.4
+    },
+    {
+      "normalized": "好像是说有些胖子减肥成功之后性格会变得没有以前那么“善良”是因为胖与性格有关系胖的人会想通过性格好获得大家的认可和喜欢大概是这样的意思🤔",
+      "sample": "好像是说有些胖子减肥成功之后性格会变得没有以前那么“善良”，是因为胖与性格有关系，胖的人会想通过性格好获得大家的认可和喜欢。大概是这样的意思🤔",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1691,
+      "max_likes": 1691,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 204.1
+    },
+    {
+      "normalized": "感觉你们是真能发财我听到机制已经困了",
+      "sample": "感觉你们是真能发财，我听到机制已经困了",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1645,
+      "max_likes": 1645,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 199.5
+    },
+    {
+      "normalized": "想起来了像北斗神拳中的那个尤利娅",
+      "sample": "想起来了！像北斗神拳中的那个，尤利娅！",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1336,
+      "max_likes": 1336,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 168.6
+    },
+    {
+      "normalized": "感觉真的瘦了很多脸也看得出来瘦了开头和结尾黄色衣服的那个片段不知道是不是以前的",
+      "sample": "感觉真的瘦了很多，脸也看得出来瘦了，开头和结尾黄色衣服的那个片段不知道是不是以前的",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1198,
+      "max_likes": 1198,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 154.8
+    },
+    {
+      "normalized": "知道为什么能一个月10万了一个手机壳160左右",
+      "sample": "知道为什么能一个月10万了，一个手机壳160左右",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1189,
+      "max_likes": 1189,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 153.9
+    },
+    {
+      "normalized": "趁还年轻不能困在一堆脂肪里",
+      "sample": "趁还年轻，不能困在一堆脂肪里。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 1138,
+      "max_likes": 1138,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 148.8
+    },
+    {
+      "normalized": "宝宝毒舌有很多优秀的编辑我已经脱离毒舌b站账号很久几近八个多月他们的内容我们也很喜欢所以大家都值得期待希望多多关注～～",
+      "sample": "宝宝 毒舌有很多优秀的编辑 我已经脱离毒舌b站账号很久、几近八个多月。他们的内容我们也很喜欢 所以大家都值得期待 希望多多关注～～",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 906,
+      "max_likes": 906,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 125.6
+    },
+    {
+      "normalized": "不是你想象的那么简单",
+      "sample": "不是你想象的那么简单",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 770,
+      "max_likes": 770,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 112.0
+    },
+    {
+      "normalized": "正好那天看到这一页：网络是由自恋驱动的",
+      "sample": "正好那天看到这一页：网络是由自恋驱动的",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 644,
+      "max_likes": 644,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 99.4
+    },
+    {
+      "normalized": "哥肚子上的肉真的难瘦",
+      "sample": "哥 肚子上的肉真的难瘦",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 628,
+      "max_likes": 628,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 97.8
+    },
+    {
+      "normalized": "我08年的时候开过淘宝卖手工小挂件可惜当初没坚持下来想想好后悔啊回看那时候真是红利期啊",
+      "sample": "我08年的时候开过淘宝卖手工小挂件，可惜当初没坚持下来，想想好后悔啊，回看那时候真是红利期啊",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 562,
+      "max_likes": 562,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 91.2
+    },
+    {
+      "normalized": "那不mean的瘦子真的很善良了",
+      "sample": "那不mean的瘦子真的很善良了",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 541,
+      "max_likes": 541,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 89.1
+    },
+    {
+      "normalized": "切记真能赚钱的不会和你说的",
+      "sample": "切记，真能赚钱的不会和你说的",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 535,
+      "max_likes": 535,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 88.5
+    },
+    {
+      "normalized": "博主想问问没有小说基础从哪开始哇直接先写中文小说国内平台发布然后翻译同步发布到国外可以吗",
+      "sample": "博主想问问没有小说基础从哪开始哇，直接先写中文小说国内平台发布，然后翻译同步发布到国外可以吗",
+      "keywords": {
+        "AI_副业": 1,
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 2
+      },
+      "total_likes": 62,
+      "max_likes": 31,
+      "occurrences": 2,
+      "n_keywords": 2,
+      "n_notes": 1,
+      "value_score": 76.2
+    },
+    {
+      "normalized": "是的那时候真的是风口电商干啥都行我也是差不多那个时候进去的最多的一年能入百万我属于纯做生意那种没爱好没啥想法这两年就不行了没做了不知道干嘛去",
+      "sample": "是的那时候真的是风口，电商干啥都行，我也是差不多那个时候进去的最多的一年能入百万，我属于纯做生意那种没爱好没啥想法这两年就不行了没做了，不知道干嘛去",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 367,
+      "max_likes": 367,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 71.7
+    },
+    {
+      "normalized": "我一开始也很疑惑回来我发现可能是吃得太干净会粑粑困难直接喝油会帮助排便",
+      "sample": "我一开始也很疑惑 回来我发现可能是吃得太干净会粑粑困难，直接喝油会帮助排便",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 364,
+      "max_likes": 364,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 71.4
+    },
+    {
+      "normalized": "不会外语感觉没法做",
+      "sample": "不会外语，感觉没法做",
+      "keywords": {
+        "AI_副业": 1,
+        "副业赚钱": 1
+      },
+      "categories": {
+        "pain": 2
+      },
+      "total_likes": 12,
+      "max_likes": 6,
+      "occurrences": 2,
+      "n_keywords": 2,
+      "n_notes": 1,
+      "value_score": 71.2
+    },
+    {
+      "normalized": "国人能写h文吗",
+      "sample": "国人能写h文吗？",
+      "keywords": {
+        "AI_副业": 1,
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 2
+      },
+      "total_likes": 10,
+      "max_likes": 5,
+      "occurrences": 2,
+      "n_keywords": 2,
+      "n_notes": 1,
+      "value_score": 71.0
+    },
+    {
+      "normalized": "公众号有多少自然流写了一个月还是没人看当爱好还行想赚钱难",
+      "sample": "公众号有多少自然流？写了一个月，还是没人看，当爱好还行，想赚钱难",
+      "keywords": {
+        "AI_副业": 1,
+        "副业赚钱": 1
+      },
+      "categories": {
+        "pain": 2
+      },
+      "total_likes": 10,
+      "max_likes": 5,
+      "occurrences": 2,
+      "n_keywords": 2,
+      "n_notes": 1,
+      "value_score": 71.0
+    },
+    {
+      "normalized": "饿然后兜里不要放钱卡里不要放钱微信里不要放钱因为有钱就开吃你如果能控制住吃也不会胖成这样买个水杯饿了就喝水你那个大基数一天能掉两斤肚子咕咕叫实在受实在饿的腿抽抽了头晕你就吃点小面包和水果",
+      "sample": "饿，然后兜里不要放钱，卡里不要放钱，微信里不要放钱，因为有钱就开吃，你如果能控制住吃也不会胖成这样。买个水杯，饿了就喝水。你那个大基数一天能掉两斤，肚子咕咕叫实在受，实在饿的腿抽抽了，头晕你就吃点小面包和水果。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 333,
+      "max_likes": 333,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 68.3
+    },
+    {
+      "normalized": "那时候我喜欢养蚂蚁看它们看一天",
+      "sample": "那时候我喜欢养蚂蚁，看它们看一天",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 296,
+      "max_likes": 296,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 64.6
+    },
+    {
+      "normalized": "不会因为我有解压阀就是靠喝无糖气泡水无糖可乐无糖乌龙茶来抑制猪瘾而且我每周专门抽一天不吃主食吃了一堆高蛋白零食（比如牛肉干）或者高蛋白放纵餐（比如新疆羊肉串）",
+      "sample": "不会，因为我有解压阀，就是靠喝无糖气泡水、无糖可乐、无糖乌龙茶来抑制猪瘾。而且我每周专门抽一天不吃主食，吃了一堆高蛋白零食（比如牛肉干），或者高蛋白放纵餐（比如新疆羊肉串）。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 284,
+      "max_likes": 284,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 63.4
+    },
+    {
+      "normalized": "露脸在大多数情况下最危险的情况无非就是私信骚扰没那么夸张",
+      "sample": "露脸，在大多数情况下，最危险的情况，无非就是私信骚扰。没那么夸张",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 267,
+      "max_likes": 267,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 61.7
+    },
+    {
+      "normalized": "不觉得ai会让设计死毕竟这东西也是要设计思维才能做出来的还有各种细节要其他软件去调整其实换个角度ai是好东西它节省了很多繁琐重复的工作",
+      "sample": "不觉得ai会让设计死，毕竟这东西也是要设计思维才能做出来的，还有各种细节要其他软件去调整，其实换个角度ai是好东西，它节省了很多繁琐重复的工作。",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 224,
+      "max_likes": 224,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 57.4
+    },
+    {
+      "normalized": "太有共鸣了现在对每一个视频都只追求自我的认可所以数据好坏就不再重要发出去的那刻就已经完成使命啦",
+      "sample": "太有共鸣了，现在对每一个视频都只追求自我的认可，所以数据好坏就不再重要，发出去的那刻就已经完成使命啦",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 202,
+      "max_likes": 202,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 55.2
+    },
+    {
+      "normalized": "我大概三个月前才想着要做自媒体确实感觉自己和周围一些听父母安排按部就班结婚生子的“正常人”不一样我很不喜欢被人使唤很不喜欢和人建立上下级关系很难“找份稳定工作”我创作的主要内容是心理和英语当时主要想用英语内容搞米用心理内容表达和疗愈自己的心理创伤陆续发了一些我被我npd父pua和操控的经历居然得到了广大网友关注和点赞三个多月小众赛道从12粉到现在900＋粉不得不承认在现实中没法表达的少有人理解的东西在这里有人听得懂看得见而且我发现我分享创伤的同时也能帮助到他人帮他们照见自己看到他们自己的创伤我觉得是个双赢又能正循环的事",
+      "sample": "我大概三个月前才想着要做自媒体，确实感觉自己和周围一些听父母安排，按部就班结婚生子的“正常人”不一样。我很不喜欢被人使唤，很不喜欢和人建立上下级关系，很难“找份稳定工作”。我创作的主要内容是心理和英语，当时主要想用英语内容搞米，用心理内容表达和疗愈自己的心理创伤。陆续发了一些我被我NPD父PUA和操控的经历，居然得到了广大网友关注和点赞。三个多月，小众赛道，从12粉到现在900＋粉。不得不承认，在现实中没法表达的、少有人理解的东西，在这里有人听得懂、看得见。而且我发现我分享创伤的同时也能帮助到他人，帮他们照见自己，看到他们自己的创伤。我觉得是个双赢又能正循环的事。",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 191,
+      "max_likes": 191,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 54.1
+    },
+    {
+      "normalized": "哈哈哈哈哈十二点是该睡了能刷到证明你也是发财预备役[坏笑r]",
+      "sample": "哈哈哈哈哈十二点是该睡了，能刷到证明你也是发财预备役[坏笑R]",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 189,
+      "max_likes": 189,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 53.9
+    },
+    {
+      "normalized": "哥姐能传授一下减肥经验吗你是咋瘦下来的",
+      "sample": "哥姐，能传授一下减肥经验吗 你是咋瘦下来的",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 182,
+      "max_likes": 182,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 53.2
+    },
+    {
+      "normalized": "我摸出点规律一个人如果你不需要他的脸出现你就必须明确说明“xx背对镜头”然后提示词里绝对不能出现长相描写如果要生成一个人从门走出去的内容就必须把他在房间里的动线写出来比如说“绕过床从房间另一边的门走出去”敢不写它就直接从画面里生成一个门还有就是写一个人在门外关门你得写“观众只能看见门缓缓关闭”一旦写了“手拧门把手”那人物的手就能穿墙",
+      "sample": "我摸出点规律，一个人，如果你不需要他的脸出现，你就必须明确说明“XX背对镜头”，然后提示词里绝对不能出现长相描写。如果要生成一个人从门走出去的内容，就必须把他在房间里的动线写出来，比如说“绕过床，从房间另一边的门走出去”，敢不写，它就直接从画面里生成一个门。还有就是写一个人在门外关门你得写“观众只能看见门缓缓关闭”，一旦写了“手拧门把手”，那人物的手就能穿墙…",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 159,
+      "max_likes": 159,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 50.9
+    },
+    {
+      "normalized": "早餐吃不了那么多吃一个鸡蛋一杯牛奶就饱得不得了了",
+      "sample": "早餐吃不了那么多吃一个鸡蛋一杯牛奶就饱得不得了了",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 159,
+      "max_likes": 159,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 50.9
+    },
+    {
+      "normalized": "好可爱呀肩膀那只猫猫",
+      "sample": "好可爱呀肩膀那只猫猫",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 146,
+      "max_likes": 146,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 49.6
+    },
+    {
+      "normalized": "俺一直想问一个问题[抽泣r]都说别在网上随便露脸或者发自己的照片但是那些颜值博主和明星网红她们是怎么保护自己隐私的呢做露脸会不会很危险呀（别喷我真不懂疑惑很久了）",
+      "sample": "俺一直想问一个问题[抽泣R]都说别在网上随便露脸或者发自己的照片，但是那些颜值博主和明星网红，她们是怎么保护自己隐私的呢。。做露脸会不会很危险呀（别喷我真不懂，疑惑很久了）",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 139,
+      "max_likes": 139,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 48.9
+    },
+    {
+      "normalized": "家居是真好啊几百粉都能接到",
+      "sample": "家居是真好啊，几百粉都能接到",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 135,
+      "max_likes": 135,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 48.5
+    },
+    {
+      "normalized": "遇到抄袭这种怎么办你有什么爆款人家同链接直接上了",
+      "sample": "遇到抄袭这种怎么办？你有什么爆款人家同链接直接上了",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 120,
+      "max_likes": 120,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 47.0
+    },
+    {
+      "normalized": "这个姐妹说的对先看身体激素分泌水平我儿子也是一年胖四十斤我先去医院数据都正常那就是单纯馋",
+      "sample": "这个姐妹说的对 先看身体激素分泌水平 我儿子也是一年胖四十斤 我先去医院 数据都正常 那就是单纯馋",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 97,
+      "max_likes": 97,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 44.7
+    },
+    {
+      "normalized": "摆摊也有5月初在省植物园卖过蓝莓太热太累一上午就放弃了",
+      "sample": "摆摊也有，5月初在省植物园卖过蓝莓，太热太累一上午就放弃了。",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 95,
+      "max_likes": 95,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 44.5
+    },
+    {
+      "normalized": "我不是纸上谈兵我之前一百七去年收到120然后过年这一个月我天天给自己吃的撑因为闲着不吃撑就一直感觉无聊又不拉屎又吃到了一百四我这两天出来上班上了三天今天早上量体重134斤了解每天中午吃一顿不要去卖吃的地方手机里不要有钱家里不要囤零食因为一下就能吃完",
+      "sample": "我不是纸上谈兵，我之前一百七，去年收到120，然后过年这一个月我天天给自己吃的撑，因为闲着不吃撑就一直感觉无聊，又不拉屎，又吃到了一百四。我这两天出来上班，上了三天今天早上量体重，134斤了解每天中午吃一顿，不要去卖吃的地方，手机里不要有钱，家里不要囤零食，因为一下就能吃完。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 95,
+      "max_likes": 95,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 44.5
+    },
+    {
+      "normalized": "我也能拍超多但是我发现我拍完了懒得剪",
+      "sample": "我也能拍超多，但是我发现我拍完了懒得剪！",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 93,
+      "max_likes": 93,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 44.3
+    },
+    {
+      "normalized": "以前总觉得好像自媒体红利没了已经到红海阶段了普通人想通过自媒体赚钱越来越希望渺茫了还是别浪费时间做账号了(其实主要是懒和不自信啦)但是当我裸辞之后开始做自己的账号开始从之前刷视频的人变成拍视频的人感觉一切都不一样了今天分享我自己感受到的当一个迷你博主的隐形好处我们一起试试开始当一个迷你博主吧",
+      "sample": "以前总觉得，好像自媒体红利没了，已经到红海阶段了，普通人想通过自媒体赚钱越来越希望渺茫了，还是别浪费时间做账号了(其实主要是懒和不自信啦)。但是当我裸辞之后开始做自己的账号，开始从之前刷视频的人变成拍视频的人，感觉一切都不一样了。今天分享我自己感受到的，当一个迷你博主的隐形好处！我们一起试试，开始当一个迷你博主吧",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 86,
+      "max_likes": 86,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 43.6
+    },
+    {
+      "normalized": "告诉大家一个技巧那就是在别人的评论下面回复到处曝光系统就会判定你是活人在我这里回复吧我不嫌烦哈哈哈哈",
+      "sample": "告诉大家一个技巧 那就是在别人的评论下面回复，到处曝光系统就会判定你是活人！在我这里回复吧 我不嫌烦哈哈哈哈",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 81,
+      "max_likes": 81,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 43.1
+    },
+    {
+      "normalized": "不是所有人都要多喝水要适量喝如果脾胃虚弱运化水的能力不行水喝多了就会不舒服",
+      "sample": "不是所有人都要多喝水，要适量喝，如果脾胃虚弱，运化水的能力不行，水喝多了就会不舒服。",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 70,
+      "max_likes": 70,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 42.0
+    },
+    {
+      "normalized": "我玩任何软件刷到任何东西第一反应就是思考这玩意咋盈利然后就去各个平台搜相关平台的创作者政策以及那些做成功的人咋做的开始就更简单了跟着教程学习绝不会码着以后看因为以后就不会看了",
+      "sample": "我玩任何软件刷到任何东西第一反应就是思考这玩意咋盈利，然后就去各个平台搜相关平台的创作者政策以及那些做成功的人咋做的，开始就更简单了，跟着教程学习，绝不会码着以后看，因为以后就不会看了",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1,
+        "praise": 1
+      },
+      "total_likes": 67,
+      "max_likes": 67,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 41.7
+    },
+    {
+      "normalized": "做出来的前端确实可以好看后端就是假的数据我还要自己再写",
+      "sample": "做出来的前端确实可以，好看，后端就是假的数据。我还要自己再写",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "criticism": 1
+      },
+      "total_likes": 66,
+      "max_likes": 66,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 41.6
+    },
+    {
+      "normalized": "姐妹们我不带人的同时提醒下互联网说带你们的基本是骗子大家注意安全",
+      "sample": "姐妹们，我不带人的，同时提醒下互联网说带你们的 基本是骗子 大家注意安全",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "criticism": 1
+      },
+      "total_likes": 61,
+      "max_likes": 61,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 41.1
+    },
+    {
+      "normalized": "外行学这个基本上就是先花一波钱学习再花一波钱充值会员然后花时间做几集没收益然后放弃最后发现还是卖教程的赚到了",
+      "sample": "外行学这个基本上就是先花一波钱学习，再花一波钱充值会员，然后花时间做几集，没收益然后放弃。最后发现还是卖教程的赚到了",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1,
+        "praise": 1
+      },
+      "total_likes": 60,
+      "max_likes": 60,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 41.0
+    },
+    {
+      "normalized": "看到博主是做运营的可不可以看看我的主页呀感觉我的视频流量好差呀我也是新人真的很想做一个穿搭博主就姐姐多多给些建议～",
+      "sample": "看到博主是做运营的，可不可以看看我的主页呀，感觉我的视频流量好差呀，我也是新人，真的很想做一个穿搭博主，就姐姐多多给些建议～",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1,
+        "suggestion": 1
+      },
+      "total_likes": 58,
+      "max_likes": 58,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 40.8
+    },
+    {
+      "normalized": "是这样我发现自信是天生的后天很难练出来我练了这么多年了我觉得不舒服不如释放我们的真诚你说呢但是要加必杀技否则被人拿捏",
+      "sample": "是这样，我发现自信是天生的，后天很难练出来。我练了这么多年了。我觉得不舒服，不如释放我们的真诚。你说呢。但是要加必杀技，否则被人拿捏。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 57,
+      "max_likes": 57,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 40.7
+    },
+    {
+      "normalized": "是啊这个做法我去年还是前年就看到小红书博主分享过了只不过人家刚开始做的是年糕镲片想想也是啊如果是外国人怎么可能在最后会放上一把香葱",
+      "sample": "是啊，这个做法我去年还是前年就看到小红书博主分享过了，只不过人家刚开始做的是年糕镲片。想想也是啊，如果是外国人，怎么可能在最后会放上一把香葱",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 54,
+      "max_likes": 54,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 40.4
+    },
+    {
+      "normalized": "能瘦下去的地方就是肉并且没有局部减脂瘦了的话肯定哪都会瘦的",
+      "sample": "能瘦下去的地方就是肉，并且没有局部减脂，瘦了的话肯定哪都会瘦的",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 52,
+      "max_likes": 52,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 40.2
+    },
+    {
+      "normalized": "只要能忍着不吃甚至不用出去走",
+      "sample": "只要能忍着不吃，甚至不用出去走",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 50,
+      "max_likes": 50,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 40.0
+    },
+    {
+      "normalized": "质量高的视觉中国图虫这些都可以或者500px其实国内这种下载图片的网站都是需要用户上传的这就是卖图片我做的国外的因为光是被下载一次就05美金差不多34块了遇到那种订阅购买的一张图6美金哈哈哈哈哈哈哈对我来说可以了这种被动收入还蛮爽我没有刻意去拍照片很多都是随手拍有时候这种最真实的反而是他们需要的",
+      "sample": "质量高的视觉中国，图虫这些都可以，或者500px，其实国内这种下载图片的网站都是需要用户上传的，这就是卖图片。我做的国外的，因为光是被下载一次就0.5美金，差不多3.4块了，遇到那种订阅购买的，一张图6美金哈哈哈哈哈哈哈对我来说可以了，这种被动收入还蛮爽，我没有刻意去拍照片，很多都是随手拍，有时候这种最真实的反而是他们需要的",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 49,
+      "max_likes": 49,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.9
+    },
+    {
+      "normalized": "真的我发现了我本来想做的但是特别害怕自己的观点不对别人信了又给别人造成不好的影响那就是我的过错了",
+      "sample": "真的我发现了 我本来想做的 但是特别害怕自己的观点不对别人信了又给别人造成不好的影响 那就是我的过错了",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 49,
+      "max_likes": 49,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.9
+    },
+    {
+      "normalized": "wc真不愧是百万粉丝的博主之前认识一个朋友就是跟他出完门坐地铁的路上他就把要发的xhs写好了回到家直接就能发了",
+      "sample": "Wc真不愧是百万粉丝的博主 。 之前认识一个朋友就是跟他出完门，坐地铁的路上他就把要发的xhs写好了，回到家直接就能发了 。",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 49,
+      "max_likes": 49,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.9
+    },
+    {
+      "normalized": "是不是没孩子没家庭不然很难做到这些好花时间的",
+      "sample": "是不是没孩子没家庭。不然很难做到这些，好花时间的",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 49,
+      "max_likes": 49,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.9
+    },
+    {
+      "normalized": "吃的没问题你会不会动太多了多吃多动少吃少动",
+      "sample": "吃的没问题，你会不会动太多了？多吃多动少吃少动",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 43,
+      "max_likes": 43,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.3
+    },
+    {
+      "normalized": "哈哈哈是有可能之前大学舍友画画可快了她两天应该可以画完这个完成度的插画不过纯手绘插画收费可能会高一些",
+      "sample": "哈哈哈是有可能，之前大学舍友画画可快了，她两天应该可以画完这个完成度的插画，不过纯手绘插画收费可能会高一些。",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 42,
+      "max_likes": 42,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.2
+    },
+    {
+      "normalized": "捷风大早晨能吃俩猪蹄也是人才[回招呼]",
+      "sample": "捷风大早晨能吃俩猪蹄也是人才[回招呼]",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 42,
+      "max_likes": 42,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.2
+    },
+    {
+      "normalized": "怎么做求带",
+      "sample": "怎么做，求带",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 40,
+      "max_likes": 40,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 39.0
+    },
+    {
+      "normalized": "你会有新账号吗我也才第一次看到就是告别有新账号希望有人能踢踢我我先轻置玉臀在此静候🍵",
+      "sample": "你会有新账号吗？我也才第一次看到就是告别有新账号希望有人能踢踢我，我先轻置玉臀在此，静候🍵",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1,
+        "suggestion": 1
+      },
+      "total_likes": 39,
+      "max_likes": 39,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.9
+    },
+    {
+      "normalized": "发酵食物是非常好的抗炎食物建议明天吃现代最前沿研究发现没有添加糖和其他非天然的食物添加剂的发酵食物可以帮助维持健康的肠道益生箘可以抗炎抵抗慢性疾病维持大脑健康尤其对粗粮消化不好的好需要先建立健康的肠胃菌群帮助消化高纤维的食物",
+      "sample": "发酵食物是非常好的抗炎食物，建议明天吃。现代最前沿研究发现，没有添加糖、和其他非天然的食物添加剂的发酵食物，可以帮助维持健康的肠道益生箘。可以抗炎，抵抗慢性疾病，维持大脑健康。尤其对粗粮消化不好的好，需要先建立健康的肠胃菌群，帮助消化高纤维的食物。",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 39,
+      "max_likes": 39,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.9
+    },
+    {
+      "normalized": "这种体重不吃零食三餐一餐一碗饭加上菜不用动都能瘦",
+      "sample": "这种体重不吃零食，三餐一餐一碗饭加上菜，不用动都能瘦",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 38,
+      "max_likes": 38,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.8
+    },
+    {
+      "normalized": "在多媒体高度发达的今天唯有那些带着强烈个人ip属性的表达才能在自媒体时代碰撞出真正动人的火花第一次刷到这篇帖子时我甚至不知道苏丽珍是谁却被这既有力量又有温度的文字深深吸引忍不住反复驻足品读遗憾的是博主即将停更2026年九紫离火运其势迅猛令人惊叹愿帖主如大鹏展翅扶摇直上九万里我便不再关注了",
+      "sample": "在多媒体高度发达的今天，唯有那些带着强烈个人IP属性的表达，才能在自媒体时代碰撞出真正动人的火花。第一次刷到这篇帖子时，我甚至不知道苏丽珍是谁，却被这既有力量又有温度的文字深深吸引，忍不住反复驻足品读。遗憾的是，博主即将停更。2026年，九紫离火运，其势迅猛，令人惊叹！愿帖主如大鹏展翅，扶摇直上九万里。我便不再关注了。",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 38,
+      "max_likes": 38,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.8
+    },
+    {
+      "normalized": "不懂就问这个苏丽珍是方大同歌里那个吗（触雷致歉ky致歉致歉一切不知道致歉什么反正先致歉）",
+      "sample": "不懂就问，这个苏丽珍是方大同歌里那个吗（触雷致歉ky致歉致歉一切不知道致歉什么反正先致歉）",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 36,
+      "max_likes": 36,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.6
+    },
+    {
+      "normalized": "看到博主总结小红书新政策四大变化了对吧1新推流机制这块别只盯着流量数字看重点是你内容的完播率和互动深度有没有跟上平台的新算法权重2新内容载体不是说让你什么都做而是选一个你擅长的深耕比如图文就死磕图文质量别看别人做视频你也跟着焦虑3新变现途径对普通人来说最靠谱的还是先跑通一个最小闭环哪怕只有100个铁粉能变现也比10万泛粉强得多4评论区有人说小红书既要又要其实平台方向很明确就是优质原创内容+真实互动数据这两个指标抓住了红利自然就是你的💪",
+      "sample": "看到博主总结小红书新政策四大变化了对吧，1.新推流机制这块别只盯着流量数字看，重点是你内容的完播率和互动深度有没有跟上平台的新算法权重。2.新内容载体不是说让你什么都做而是选一个你擅长的深耕比如图文就死磕图文质量别看别人做视频你也跟着焦虑。3.新变现途径对普通人来说最靠谱的还是先跑通一个最小闭环哪怕只有100个铁粉能变现也比10万泛粉强得多。4.评论区有人说小红书既要又要其实平台方向很明确就是优质原创内容+真实互动数据这两个指标抓住了红利自然就是你的💪",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "request": 1,
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 33,
+      "max_likes": 33,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.3
+    },
+    {
+      "normalized": "液断5天第六天就开始头晕凌晨惊醒暴饮暴食了一天又开始难受",
+      "sample": "液断5天 第六天就开始头晕 凌晨惊醒。。。暴饮暴食了一天又开始难受",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 32,
+      "max_likes": 32,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.2
+    },
+    {
+      "normalized": "请教下博主长期这样吃会不会出现抑郁情绪或者影响日常工作之前试过没坚持下来",
+      "sample": "请教下博主长期这样吃会不会出现抑郁情绪或者影响日常工作？之前试过没坚持下来",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 32,
+      "max_likes": 32,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 38.2
+    },
+    {
+      "normalized": "赚钱的不会摆明面上",
+      "sample": "赚钱的不会摆明面上",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 26,
+      "max_likes": 26,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.6
+    },
+    {
+      "normalized": "马上也给自己来了一张第一张十年前我是个挨不了一点饿的人77年的49岁啥都不补不爱运动能躺绝不坐饿了就吃不拒绝大鱼大肉12点后睡觉",
+      "sample": "马上也给自己来了一张。第一张十年前。我是个挨不了一点饿的人。77年的，49岁，啥都不补，不爱运动，能躺绝不坐，饿了就吃，不拒绝大鱼大肉。12点后睡觉。",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 26,
+      "max_likes": 26,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.6
+    },
+    {
+      "normalized": "普通员工还能跟着财务自由",
+      "sample": "普通员工还能跟着财务自由？",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 25,
+      "max_likes": 25,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.5
+    },
+    {
+      "normalized": "我已经想好下条文案开头怎么写了：千万不要在面试的时候踩这些坑不然我也不会面了六次实习都被刷直到第七次终于面上了垂类头部公司能不能求个表扬（bushi",
+      "sample": "我已经想好下条文案开头怎么写了：千万不要在面试的时候踩这些坑，不然我也不会面了六次实习都被刷，直到第七次终于面上了垂类头部公司……能不能求个表扬（bushi",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 25,
+      "max_likes": 25,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.5
+    },
+    {
+      "normalized": "哈哈哈难怪很多漫剧看的时候词剧情不连贯台词也对不上哈哈哈哈评论都在说ai是傻子",
+      "sample": "哈哈哈难怪很多漫剧看的时候词剧情不连贯 台词也对不上 哈哈哈哈 评论都在说AI是傻子",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 24,
+      "max_likes": 24,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.4
+    },
+    {
+      "normalized": "但是真的想学点技能技术的该怎么学呢",
+      "sample": "但是真的想学点技能技术的该怎么学呢",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 20,
+      "max_likes": 20,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.0
+    },
+    {
+      "normalized": "正在做一个类似boss直聘的小程序面向独立老师和学生解决双减后老师找学生困难学生找老师困难的问题",
+      "sample": "正在做一个类似boss直聘的小程序，面向独立老师和学生，解决双减后老师找学生困难，学生找老师困难的问题",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 20,
+      "max_likes": 20,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.0
+    },
+    {
+      "normalized": "我有那种聊天软件就是男的发消息花钱女的回复挣钱大多每天都是两三百这样时间多就可以多挣点感兴趣嘛",
+      "sample": "我有那种聊天软件，就是男的发消息花钱，女的回复挣钱，大多每天都是两三百这样，时间多就可以多挣点 感兴趣嘛",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 20,
+      "max_likes": 20,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 37.0
+    },
+    {
+      "normalized": "我不会私信任何人也不会加任何人的联系方式所有主动找你的都不是我请大家擦亮双眼",
+      "sample": "我不会私信任何人，也不会加任何人的联系方式，所有主动找你的都不是我，请大家擦亮双眼。",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 19,
+      "max_likes": 19,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.9
+    },
+    {
+      "normalized": "不能吃鸡蛋和牛奶怎么补充蛋白质呢",
+      "sample": "不能吃鸡蛋和牛奶怎么补充蛋白质呢",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 19,
+      "max_likes": 19,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.9
+    },
+    {
+      "normalized": "我感觉之前的身材就很好了减完肥也太瘦了人只剩下皮包骨了中国的女生到底什么时候才能不身材焦虑",
+      "sample": "我感觉之前的身材就很好了，减完肥也太瘦了人只剩下皮包骨了中国的女生到底什么时候才能不身材焦虑",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 18,
+      "max_likes": 18,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.8
+    },
+    {
+      "normalized": "我是头三天饿完就去吃了放纵餐接着又开始纯靠饿能坚持多少天就坚持再吃一顿放纵餐坚持饿几天之后再吃放纵餐我发现适合我减肥的方法只有饿最开始单纯运动控制不住猪欲只要第一周过了就很好坚持",
+      "sample": "我是头三天饿完就去吃了放纵餐接着又开始纯靠饿能坚持多少天就坚持，再吃一顿放纵餐，坚持饿几天之后再吃放纵餐。我发现适合我减肥的方法只有饿，最开始单纯运动控制不住猪欲。只要第一周过了就很好坚持。",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 17,
+      "max_likes": 17,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.7
+    },
+    {
+      "normalized": "茯苓膏在哪买啊想知道",
+      "sample": "茯苓膏在哪买啊想知道",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "request": 1,
+        "question": 1
+      },
+      "total_likes": 15,
+      "max_likes": 15,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.5
+    },
+    {
+      "normalized": "个人认为过备案太难了吧内容生成类卡的更严这是怎么破的",
+      "sample": "个人认为过备案太难了吧，内容生成类卡的更严，这是怎么破的",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 14,
+      "max_likes": 14,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.4
+    },
+    {
+      "normalized": "我有点崩溃这几天吃的很干净就是不怎么掉昨天早上就是半个贝果夹一片火腿自己做的拿铁中午200克牛肉➕水煮西兰花花菜➕一小块紫薯和芋头晚上练胸肩30分钟爬坡速度45坡度15晚上150克无糖脱脂希腊酸奶和一点点蓝莓一点点麦片今天掉01kg最近每天几乎都这么吃我不懂我的问题出现在哪里",
+      "sample": "我有点崩溃，这几天吃的很干净就是不怎么掉昨天早上就是半个贝果夹一片火腿，自己做的拿铁。中午200克牛肉➕水煮西兰花花菜➕一小块紫薯和芋头。晚上练胸肩 30分钟爬坡，速度4.5，坡度15。晚上150克无糖脱脂希腊酸奶和一点点蓝莓 一点点麦片。今天掉0.1KG最近每天几乎都这么吃 我不懂我的问题出现在哪里…",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 13,
+      "max_likes": 13,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.3
+    },
+    {
+      "normalized": "茯苓膏真的好使吗我是肚子大脸肥能有用吗",
+      "sample": "茯苓膏真的好使吗，我是肚子大脸肥能有用吗…",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1,
+        "praise": 1
+      },
+      "total_likes": 13,
+      "max_likes": 13,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.3
+    },
+    {
+      "normalized": "为什么我家人医生说不能吃鸡肉鸡蛋",
+      "sample": "为什么我家人医生说不能吃鸡肉，鸡蛋",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 13,
+      "max_likes": 13,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.3
+    },
+    {
+      "normalized": "求带靠谱兼职",
+      "sample": "求带靠谱兼职",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 12,
+      "max_likes": 12,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.2
+    },
+    {
+      "normalized": "怎么什么都往身材焦虑上扯如果这一切都是人家喜欢的目标身材那又有什么呢明显看得出来博主很喜欢减完肥的身材啊为什么又要说是身材焦虑呢不要把你自己的思想强加在人家身上",
+      "sample": "怎么什么都往身材焦虑上扯如果这一切都是人家喜欢的目标身材，那又有什么呢明显看得出来博主很喜欢减完肥的身材啊，为什么又要说是身材焦虑呢，不要把你自己的思想强加在人家身上",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 12,
+      "max_likes": 12,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.2
+    },
+    {
+      "normalized": "假发很美有链接吗姐妹",
+      "sample": "假发很美有链接吗？姐妹",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 12,
+      "max_likes": 12,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.2
+    },
+    {
+      "normalized": "所以有宝子看出我的开头用的是哪个公式吗",
+      "sample": "所以有宝子看出我的开头用的是哪个公式吗",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 11,
+      "max_likes": 11,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.1
+    },
+    {
+      "normalized": "这个是给很大基数就是那种bmi超27吃的吧热量2200大卡对于体重正常成年女性基础代谢来说是超的评论区90多斤100出头斤的就不要学了",
+      "sample": "这个是给很大基数，就是那种BMI超27吃的吧，热量2200大卡，对于体重正常成年女性基础代谢来说是超的，评论区90多斤100出头斤的就不要学了",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 11,
+      "max_likes": 11,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.1
+    },
+    {
+      "normalized": "一般情况是能吃的不过如果是消化道手术或者刚术后感染的情况就需要注意正常在恢复中期吃是没问题的每个人情况不一样具体还是遵医嘱比较好",
+      "sample": "一般情况是能吃的，不过如果是消化道手术或者刚术后感染的情况就需要注意，正常在恢复中期吃是没问题的，每个人情况不一样，具体还是遵医嘱比较好",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 11,
+      "max_likes": 11,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.1
+    },
+    {
+      "normalized": "救命我原来90现在110多好崩溃",
+      "sample": "救命，我原来90现在110多，好崩溃",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 10,
+      "max_likes": 10,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.0
+    },
+    {
+      "normalized": "我也留意到了和博主的差别可能就50步到100步",
+      "sample": "我也留意到了，和博主的差别可能就50步到100步",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 10,
+      "max_likes": 10,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.0
+    },
+    {
+      "normalized": "你说那捷风是不是也是个胖的",
+      "sample": "你说那捷风是不是也是个胖的？",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 10,
+      "max_likes": 10,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 36.0
+    },
+    {
+      "normalized": "技艺类的建议研究目标人群然后再课程中重点研究带来什么样的情绪价值找到核心输出点至于拍摄剪辑都不是事",
+      "sample": "技艺类的建议研究目标人群，然后再课程中重点研究带来什么样的情绪价值。找到核心输出点。至于拍摄剪辑都不是事",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 9,
+      "max_likes": 9,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.9
+    },
+    {
+      "normalized": "在家闲得慌想找一份副业求带",
+      "sample": "在家闲得慌，想找一份副业 求带",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 9,
+      "max_likes": 9,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.9
+    },
+    {
+      "normalized": "是的这要因人而异我就是只能渴了才喝不渴不渴不然代谢不了整个人肿的难受",
+      "sample": "是的 这要因人而异，我就是只能渴了才喝，不渴不渴，不然代谢不了整个人肿的难受，",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 9,
+      "max_likes": 9,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.9
+    },
+    {
+      "normalized": "存能在哪里能入手啊",
+      "sample": "存能在哪里能入手啊",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 9,
+      "max_likes": 9,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.9
+    },
+    {
+      "normalized": "牛奶鸡蛋鱼肉大豆海鲜等都有异型蛋白“异型蛋白”本身不直接导致炎症加剧关键在于是否过敏或食物不新鲜只要对虾不过敏保证新鲜全熟虾的优质蛋白和锌反而能促进康复不会加重炎症",
+      "sample": "牛奶、鸡蛋、鱼、肉、大豆、海鲜等都有异型蛋白，“异型蛋白”本身不直接导致炎症加剧。关键在于是否过敏或食物不新鲜。只要对虾不过敏、保证新鲜全熟，虾的优质蛋白和锌反而能促进康复，不会加重炎症。",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 9,
+      "max_likes": 9,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.9
+    },
+    {
+      "normalized": "ai啊谁问你就把他的问题发给ai刚好又能出一期视频or图文",
+      "sample": "ai啊，谁问你，就把他的问题发给ai，刚好又能出一期视频or图文",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 8,
+      "max_likes": 8,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.8
+    },
+    {
+      "normalized": "可能就是因为吸肚子所以看着别扭吧",
+      "sample": "可能就是因为吸肚子所以看着别扭吧",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 8,
+      "max_likes": 8,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.8
+    },
+    {
+      "normalized": "那你不关注我也不关注了",
+      "sample": "那你不关注，我也不关注了",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 8,
+      "max_likes": 8,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.8
+    },
+    {
+      "normalized": "能熬夜可以试试这个",
+      "sample": "能熬夜可以试试这个",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 7,
+      "max_likes": 7,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.7
+    },
+    {
+      "normalized": "人就是因为在乎太多讲究太多所以容易早死容易生病想怎么吃怎么吃怎么开心怎么吃怎么舒服怎么来才是长寿之道开心第一睡眠第一心情好了什么病都没有了多巴胺能杀死一切病毒抑菌",
+      "sample": "人就是因为在乎太多，讲究太多，所以容易早死，容易生病，想怎么吃怎么吃，怎么开心怎么吃，怎么舒服怎么来，才是长寿之道，开心第一，睡眠第一，心情好了，什么病都没有了多巴胺能杀死一切病毒抑菌",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 7,
+      "max_likes": 7,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.7
+    },
+    {
+      "normalized": "不会还有人不知道吵小说是啥吧",
+      "sample": "不会还有人不知道吵小说是啥吧",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "又是一个割韭菜的",
+      "sample": "又是一个割韭菜的。",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "criticism": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "我的问题是肚子吗我的问题是没有那么大的胸",
+      "sample": "我的问题是肚子吗，我的问题是没有那么大的胸",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "如果擅长画画可以做代画我以前就经常买代画参加学校比赛我擅长写ppt一直想我写ppt这么厉害不上班太可惜了后来小红书上陆续有人问我接不接ppt定制我认为ppt代写算时薪性价比太低了不接后来转念一想既然自己喜欢又何必那么在意性价比呢这不就是做着自己喜欢的事情还能赚点小钱吗",
+      "sample": "如果擅长画画，可以做代画，我以前就经常买代画参加学校比赛。我擅长写 ppt，一直想我写 ppt 这么厉害，不上班太可惜了，后来小红书上陆续有人问我接不接 ppt 定制。我认为 ppt 代写算时薪，性价比太低了，不接。后来转念一想，既然自己喜欢，又何必那么在意性价比呢。 这不就是做着自己喜欢的事情，还能赚点小钱吗",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1,
+        "praise": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "能分享原图吗",
+      "sample": "能分享原图吗？",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "宝宝我觉得你可以直接将你的封面设置成vlog里的一帧然后选题可以选一个比较小的点比如说你是在英国的医生我觉得可以分享在英国的一些生活方式一些有趣的现象我会很愿意看的但是如果是纯流水账的话可能就不那么吸引人",
+      "sample": "宝宝我觉得你可以直接将你的封面设置成vlog里的一帧，然后选题可以选一个比较小的点、比如说你是在英国的医生，我觉得可以分享在英国的一些生活方式，一些有趣的现象 我会很愿意看的！！但是如果是纯流水账的话 可能就不那么吸引人",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "求带预算5k",
+      "sample": "求带，预算5K",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "request": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "好多宝子问五红汤适合什么时候喝来分享下我的个人饮用经验～我是月经量少经期结束后第7天开始喝的初期少量喝每周两次就够啦～湿热体质的姐妹不建议喝哦大家喝前一定要结合自己的身体情况来身体不舒服的话记得及时问医生哈～",
+      "sample": "好多宝子问五红汤适合什么时候喝，来分享下我的个人饮用经验～我是月经量少，经期结束后第7天开始喝的，初期少量喝、每周两次就够啦～湿热体质的姐妹不建议喝哦，大家喝前一定要结合自己的身体情况来，身体不舒服的话记得及时问医生哈～",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "宝子好～五红汤建议例假彻底干净后再喝先暂停观察一般会慢慢恢复～体质不同反应有差异不适的话及时咨询专业人士哦💕",
+      "sample": "宝子好～ 五红汤建议例假彻底干净后再喝！先暂停观察，一般会慢慢恢复～ 体质不同反应有差异，不适的话及时咨询专业人士哦💕",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "医生都交代不能吃红枣",
+      "sample": "医生都交代不能吃红枣",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "海鲜那种鱼算吧河鱼河虾不会",
+      "sample": "海鲜那种鱼算吧，河鱼河虾不会",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 6,
+      "max_likes": 6,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.6
+    },
+    {
+      "normalized": "因为我是梨型就是下半身很难瘦",
+      "sample": "因为我是梨型，就是下半身很难瘦",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "有没有减肥搭子我拉群目前13人互相监督的来我骂人可厉害了",
+      "sample": "有没有减肥搭子?我拉群，目前13人，互相监督的来，我骂人可厉害了",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "request": 1,
+        "praise": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "是学前专业的能直接在本地找吗有没有门槛啊",
+      "sample": "是学前专业的，能直接在本地找吗？有没有门槛啊？",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "request": 1,
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "灰色地带不查到你就能做被查了基本都是非法使用国际信道就博主赚的这点钱用正规信道几个月成本都不够",
+      "sample": "灰色地带，不查到你就能做，被查了基本都是非法使用国际信道。就博主赚的这点钱，用正规信道几个月成本都不够。",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "如果你能做我女朋友就算再給我100萬我也願意",
+      "sample": "如果你能做我女朋友，就算再給我100萬我也願意",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "不会呀早上的紫外线最弱而且冬天都裹的严严实实的一般都是晒背背对阳光怕晒黑可以再戴个披巾",
+      "sample": "不会呀，早上的紫外线最弱，而且冬天都裹的严严实实的，一般都是晒背，背对阳光，怕晒黑可以再戴个披巾",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "能这样穿搭出去勇气可嘉",
+      "sample": "能这样穿搭出去 勇气可嘉",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "我手指尖是瘪的指甲也有竖纹网上好多说缺铁你推荐那个可以吃吗平时吃的复合维生素但是居然还是缺铁",
+      "sample": "我手指尖是瘪的，指甲也有竖纹，网上好多说缺铁。你推荐那个可以吃吗？平时吃的复合维生素，但是居然还是缺铁",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "可以的给宝宝喝需要调整一下用量如果孩子是手脚冰凉虚寒体质可以少量喝一点：每次半碗就好每周12次不要多喝避免上火记得红糖减量别太甜了喝之前一定要确保孩子对花生红枣这些食材都不过敏才行湿热体质便秘感冒口臭就不要喝啦每个孩子体质都不同最稳妥的办法还是咨询一下专业的营养师或医生他们会给出最适合您家宝贝的建议❤️",
+      "sample": "可以的！给宝宝喝需要调整一下用量 如果孩子是手脚冰凉、虚寒体质，可以少量喝一点：每次半碗就好，每周1-2次，不要多喝，避免上火，记得红糖减量，别太甜了 喝之前一定要确保孩子对花生、红枣这些食材都不过敏才行！ 湿热体质，便秘、感冒、口臭，就不要喝啦 每个孩子体质都不同，最稳妥的办法还是咨询一下专业的营养师或医生，他们会给出最适合您家宝贝的建议！❤️",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "suggestion": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "所以这个食谱不对；这些我都不能吃",
+      "sample": "所以 这个食谱 不对；这些我都不能吃",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 5,
+      "max_likes": 5,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.5
+    },
+    {
+      "normalized": "稍微人物多难一点的画面根本画不好而且前后基本没有连贯性比如前一张说兔子姐妹住在一个什么样的家里后面一张图那个家就完全变样了第二张图加了一个小猪结果它直接给了我一个猪和兔子的混合体也不怪奇域chatgpt也是这样目前还没有找到真正能做好绘本的ai工具",
+      "sample": "稍微人物多难一点的画面根本画不好而且前后基本没有连贯性，比如前一张说兔子姐妹住在一个什么样的家里，后面一张图那个家就完全变样了，第二张图加了一个小猪，结果它直接给了我一个猪和兔子的混合体也不怪奇域，chatgpt也是这样。目前还没有找到真正能做好绘本的AI工具",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1,
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "驾校倒闭实惨但是模拟费和会员那些是可以省的呀",
+      "sample": "驾校倒闭实惨，但是模拟费和会员那些是可以省的呀！",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "都是脂肪脂肪不会局部消耗所以多训练就ok了建议轻断食",
+      "sample": "都是脂肪，脂肪不会局部消耗，所以多训练就OK了，建议轻断食",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1,
+        "suggestion": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "主播我想问一下早餐只吃两个鸡蛋午餐吃的少然后过午不食难道不会有便秘的困惑吗",
+      "sample": "主播我想问一下 早餐只吃两个鸡蛋午餐吃的少然后过午不食 难道不会有便秘的困惑吗",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "能闲着也是一种幸福啊",
+      "sample": "能闲着也是一种幸福啊",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "呜呜呜呜呜呜呜呜呜那个紫色的的手机好好看啊啥牌子",
+      "sample": "呜呜呜呜呜呜呜呜呜那个紫色的的手机好好看啊，啥牌子",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "内容哪里来的灵感啊",
+      "sample": "内容哪里来的灵感啊",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "姐姐我家适合吗感觉网上好看的家太多了自己的这种不知道走那种路线的自己也不太会收纳没有利他的知识点啊",
+      "sample": "姐姐 我家适合吗 感觉网上好看的家太多了 自己的这种不知道走那种路线的 自己也不太会收纳 没有利他的知识点啊",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "15和17会不会有点冲突",
+      "sample": "15和17会不会有点冲突",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "虾不是也不能吃吗海鲜类的异型蛋白可能会加重炎症",
+      "sample": "虾不是也不能吃吗，海鲜类的，异型蛋白可能会加重炎症",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 4,
+      "max_likes": 4,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.4
+    },
+    {
+      "normalized": "是的其实ai没那么简单",
+      "sample": "是的，其实ai没那么简单",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "可是自己没会有人问回答不上来怎么半不会的话都不敢发很心虚",
+      "sample": "可是自己没会，有人问回答不上来怎么半，不会的话都不敢发，很心虚",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "base44这个案例确实很有代表性但我想提一个不同的角度：shlomo的成功不只是因为ai降低了技术门槛更关键的是他对产品增长的理解——用分享换积分linkedin直播创业过程这些都是growthhacking的经典套路只是他用ai把执行成本降到了最低这说明ai时代的创业者需要两种能力：懂增长+会用ai杠杆技术门槛确实低了但营销和增长的门槛并没有降低很多人只看到了前半句忽略了后半句",
+      "sample": "Base44这个案例确实很有代表性。但我想提一个不同的角度：Shlomo的成功不只是因为AI降低了技术门槛，更关键的是他对产品增长的理解——用分享换积分、LinkedIn直播创业过程。这些都是growth hacking的经典套路，只是他用AI把执行成本降到了最低。这说明AI时代的创业者需要两种能力：懂增长 + 会用AI杠杆。技术门槛确实低了，但营销和增长的门槛并没有降低。很多人只看到了前半句，忽略了后半句。",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "这个案例确实牛三个月不写代码就能做到月入18万💡关键是他那套ai协作的思路很值得学习现在单打独斗也有机会了",
+      "sample": "这个案例确实牛，三个月不写代码就能做到月入18万💡 关键是他那套AI协作的思路很值得学习，现在单打独斗也有机会了",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1,
+        "praise": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "哪个平台是免费的可以上传一个小时以上的课程",
+      "sample": "哪个平台是免费的？可以上传一个小时以上的课程",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "我tk陪跑花了7880做了一个月没做了咸鱼300元下单了专业退费他拿退费的百分之20所有事情他来处理不知道能不能退回来",
+      "sample": "我tk陪跑花了7880，做了一个月没做了，咸鱼300元下单了专业退费，他拿退费的百分之20，所有事情他来处理，不知道能不能退回来",
+      "keywords": {
+        "AI_副业": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "朋友们我是一名18岁的加拿大女孩你能帮我减肥吗我的身高是171体重是174磅",
+      "sample": "朋友们，我是一名18岁的加拿大女孩，你能帮我减肥吗？我的身高是171，体重是174磅",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "我的手从小就肉肉的瘦了手能瘦吗",
+      "sample": "我的手从小就肉肉的，瘦了手能瘦吗",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "最小的那款42我戴大一点的特别硌",
+      "sample": "最小的那款，42，我戴大一点的特别硌",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "首先体重很轻肌肉量也够肚子不用吸都有这个效果而且有些人正常也会腹部发力并不会完全放松腹部不是刻意是自然的收紧腹部",
+      "sample": "首先体重很轻 肌肉量也够 肚子不用吸都有这个效果 而且 有些人正常也会腹部发力 并不会完全放松腹部 不是刻意 是自然的收紧腹部",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "不是纯饿一天吃一顿沙县鸡腿饭（10点左右六七分饱停筷）其他时间什么都不吃能骗过代谢吗",
+      "sample": "不是纯饿 一天吃一顿沙县鸡腿饭（10点左右 六七分饱停筷）其他时间什么都不吃 能骗过代谢吗",
+      "keywords": {
+        "减肥": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "这几个博主在哪个平台呀",
+      "sample": "这几个博主在哪个平台呀",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "请问这么多副业每个月盈利多少啊哪个最挣钱",
+      "sample": "请问这么多副业每个月盈利多少啊，哪个最挣钱",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "我油管做了三个月才过了100粉感觉好难",
+      "sample": "我油管做了三个月 才过了100 粉 感觉好难",
+      "keywords": {
+        "副业赚钱": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "宝宝能看看我吗",
+      "sample": "宝宝能看看我吗",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "你信不信我说一个扎心的真相我发现这种标题党还是会有一堆人不划走给他点赞不会还有人不知道吧",
+      "sample": "你信不信我说一个扎心的真相，我发现这种标题党还是会有一堆人不划走给他点赞，不会还有人不知道吧",
+      "keywords": {
+        "自媒体": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "好想知道治癣的偏方脖子后面两年了一直下不去一个月犯一次挠完出水第二天起干皮烦死了到底是啥也不知道抹药当时好次月又犯",
+      "sample": "好想知道治癣的偏方，脖子后面两年了一直下不去。一个月犯一次，挠完出水，第二天起干皮。烦死了，到底是啥也不知道，抹药当时好，次月又犯",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "pain": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "打呼噜那个谁试试",
+      "sample": "打呼噜那个谁试试？",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    },
+    {
+      "normalized": "是的我虽然也是健身爱好者也知道控糖的确能比常人年轻但是我一直都是遵循的少吃而不是不吃",
+      "sample": "是的，我虽然也是健身爱好者，也知道控糖的确能比常人年轻，但是我一直都是遵循的少吃，而不是不吃",
+      "keywords": {
+        "营养食疗": 1
+      },
+      "categories": {
+        "question": 1
+      },
+      "total_likes": 3,
+      "max_likes": 3,
+      "occurrences": 1,
+      "n_keywords": 1,
+      "n_notes": 1,
+      "value_score": 35.3
+    }
+  ],
+  "by_category_count": {
+    "request": 10,
+    "pain": 45,
+    "question": 94,
+    "criticism": 3,
+    "suggestion": 7
+  }
+}

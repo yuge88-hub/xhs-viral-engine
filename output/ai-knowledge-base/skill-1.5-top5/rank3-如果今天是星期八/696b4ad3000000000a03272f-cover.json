@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "696b4ad3000000000a03272f",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606100906/817b0780b46fab57f48f7fd625ab2497/spectrum/1040g34o31ref1j2u6u0g4a4tvv0mb9ggilb6iso!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\ai-knowledge-base\\skill-1.5-top5\\rank3-如果今天是星期八\\696b4ad3000000000a03272f-cover.png",
+  "rules": {
+    "file_size_kb": 82.8,
+    "width": 1080,
+    "height": 1443,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(255,255,255)",
+    "is_landscape": false,
+    "dominant_color_hex": "#ffffff"
+  },
+  "llm_visual": {}
+}

@@ -1,0 +1,4 @@
+.env
+*.filled.md
+__pycache__/
+*.pyc

@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "6865cc8300000000120212c2",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606092158/53eab54bdd811993db9423562f7e2287/notes_pre_post/1040g3k831jf3e5hb343g5o7mcsmg8f596a932ko!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\children-height\\skill-1.5-top5\\rank3-粒粒\\6865cc8300000000120212c2-cover.png",
+  "rules": {
+    "file_size_kb": 57.8,
+    "width": 1080,
+    "height": 1301,
+    "aspect_ratio": 0.83,
+    "dominant_color": "rgb(189,222,170)",
+    "is_landscape": false,
+    "dominant_color_hex": "#bddeaa"
+  },
+  "llm_visual": {}
+}

@@ -1,0 +1,292 @@
+{
+  "skill": "xhs-trending-scanner",
+  "version": "0.2.0",
+  "keyword": "儿童身高",
+  "filter": {
+    "max_followers": 3000,
+    "min_likes": 1000,
+    "require_fans": true,
+    "fan_source": "drissionpage"
+  },
+  "scanned_notes": 40,
+  "pre_filter_pass": 32,
+  "unique_authors": 30,
+  "fetched_fans": 30,
+  "viral_count": 13,
+  "elapsed_sec": 420.0,
+  "results": [
+    {
+      "note_id": "69e58a7c000000002200f0ad",
+      "xsec_token": "AByN9lztwn9tEk6LawWpmU5ot8-2UDBBZBygZKx-HOk0s=",
+      "title": "你家孩子身高达标了嘛",
+      "url": "https://www.xiaohongshu.com/explore/69e58a7c000000002200f0ad?xsec_token=AByN9lztwn9tEk6LawWpmU5ot8-2UDBBZBygZKx-HOk0s=",
+      "publish_time": "04-20",
+      "author": {
+        "user_id": "658139ac000000001902c0ff",
+        "nickname": "我的兜里有颗糖",
+        "fans": 50,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/658139ac000000001902c0ff?xsec_token=AB_-7wrRGys2wOc4C8dpCL5X6t9dilZ1UQFXb3oLZypjQ=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 3964,
+        "collects": 469,
+        "comments": 854,
+        "shares": 461
+      },
+      "viral_score": 77.73
+    },
+    {
+      "note_id": "67835d3a000000000b0349a3",
+      "xsec_token": "AB3vh9k-JDh3irqYlb8kBRESVZzOx9am0ercSd2WEe9IU=",
+      "title": "0-7岁儿童身高体重发育表",
+      "url": "https://www.xiaohongshu.com/explore/67835d3a000000000b0349a3?xsec_token=AB3vh9k-JDh3irqYlb8kBRESVZzOx9am0ercSd2WEe9IU=",
+      "publish_time": "2025-01-12",
+      "author": {
+        "user_id": "5c2c02c30000000005035e87",
+        "nickname": "美食宝妈～vicky",
+        "fans": 120,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5c2c02c30000000005035e87?xsec_token=AByC2rpFpknTsMam3tNBZkWEVyLrUbKcrth7LqgObBytE=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 4036,
+        "collects": 1100,
+        "comments": 205,
+        "shares": 447
+      },
+      "viral_score": 33.36
+    },
+    {
+      "note_id": "6865cc8300000000120212c2",
+      "xsec_token": "ABlyhg4CzOkq7LouxOuJ0i1vnMFou9faGDnG891SB_Yks=",
+      "title": "锌真的对孩子太重要了！",
+      "url": "https://www.xiaohongshu.com/explore/6865cc8300000000120212c2?xsec_token=ABlyhg4CzOkq7LouxOuJ0i1vnMFou9faGDnG891SB_Yks=",
+      "publish_time": "2025-07-03",
+      "author": {
+        "user_id": "60f6672d0000000001003ca9",
+        "nickname": "粒粒",
+        "fans": 61,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/60f6672d0000000001003ca9?xsec_token=ABV91VZN5ndJw_7Ip4oLNiKcn9ZVc33hHnPLryj97SLOI=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1953,
+        "collects": 1747,
+        "comments": 9,
+        "shares": 696
+      },
+      "viral_score": 31.5
+    },
+    {
+      "note_id": "663ca0f7000000001e02464a",
+      "xsec_token": "ABOrj3h6jDng5wEDlC_NsbD2QAGmvoVz13hzcrW_lDEfw=",
+      "title": "协和开的生长发育3件套（对矮娃）",
+      "url": "https://www.xiaohongshu.com/explore/663ca0f7000000001e02464a?xsec_token=ABOrj3h6jDng5wEDlC_NsbD2QAGmvoVz13hzcrW_lDEfw=",
+      "publish_time": "2024-05-09",
+      "author": {
+        "user_id": "5958f7e45e87e75040648649",
+        "nickname": "小路上的墨迹",
+        "fans": 113,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5958f7e45e87e75040648649?xsec_token=ABw8icu5wTBmKhF-RjnWID4NAm_-U_zVKzGoPeB2O51Oo=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2526,
+        "collects": 1728,
+        "comments": 102,
+        "shares": 219
+      },
+      "viral_score": 22.16
+    },
+    {
+      "note_id": "68784940000000000d0264bf",
+      "xsec_token": "ABxcUlYi5G6LK0JCU3XzyF1pY027CH1Pqc-h6rvuDHrOg=",
+      "title": "新出炉!!!2026身高体重表，你家宝贝达标吗",
+      "url": "https://www.xiaohongshu.com/explore/68784940000000000d0264bf?xsec_token=ABxcUlYi5G6LK0JCU3XzyF1pY027CH1Pqc-h6rvuDHrOg=",
+      "publish_time": "2025-07-23",
+      "author": {
+        "user_id": "59e306bbd7c6fa35e5a1ce44",
+        "nickname": "美少女大佬",
+        "fans": 116,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/59e306bbd7c6fa35e5a1ce44?xsec_token=ABhgzo8SnvI1-Gv6NnoSlw7MV6aTTCeQ56wbX_-mcPyhQ=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2389,
+        "collects": 574,
+        "comments": 171,
+        "shares": 211
+      },
+      "viral_score": 20.42
+    },
+    {
+      "note_id": "687b26a8000000001203077e",
+      "xsec_token": "ABW2yVplIQUPMRB-PmNwxUoroXI8rySZvkRe0HPi7xA1E=",
+      "title": "🔥抓住三伏天：30天长高黄金期，别让孩子错过",
+      "url": "https://www.xiaohongshu.com/explore/687b26a8000000001203077e?xsec_token=ABW2yVplIQUPMRB-PmNwxUoroXI8rySZvkRe0HPi7xA1E=",
+      "publish_time": "2025-07-19",
+      "author": {
+        "user_id": "5bab4ee89aa94f0001900ecb",
+        "nickname": "清宝嘛嘛",
+        "fans": 183,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5bab4ee89aa94f0001900ecb?xsec_token=ABMCipE9km2khWolFtuIC8Z84At6IX7lSrm0C9egp1jVg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2845,
+        "collects": 4171,
+        "comments": 43,
+        "shares": 1817
+      },
+      "viral_score": 15.46
+    },
+    {
+      "note_id": "6656a28a000000001501187b",
+      "xsec_token": "ABdzIU9DsAw6deAQtNjXaKHwWFPhxx-A90XgBzjS2_udo=",
+      "title": "才拍的医院身高标准，你们娃都达标了么？",
+      "url": "https://www.xiaohongshu.com/explore/6656a28a000000001501187b?xsec_token=ABdzIU9DsAw6deAQtNjXaKHwWFPhxx-A90XgBzjS2_udo=",
+      "publish_time": "2024-05-29",
+      "author": {
+        "user_id": "5cf51ad00000000011007c32",
+        "nickname": "吃黑烤鱼的人",
+        "fans": 75,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5cf51ad00000000011007c32?xsec_token=ABkRRyUsUFveJ0hWUwUNiYaxfOSWobRPQ-ySdtZ5JmjF4=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1131,
+        "collects": 346,
+        "comments": 1142,
+        "shares": 59
+      },
+      "viral_score": 14.88
+    },
+    {
+      "note_id": "67f242c1000000000d017b46",
+      "xsec_token": "ABVYu1ER9efP6Di-XZx37PtZJnnxKwieo8pmDdummB6lo=",
+      "title": "妇保院的身高标准贴",
+      "url": "https://www.xiaohongshu.com/explore/67f242c1000000000d017b46?xsec_token=ABVYu1ER9efP6Di-XZx37PtZJnnxKwieo8pmDdummB6lo=",
+      "publish_time": "2025-04-06",
+      "author": {
+        "user_id": "5f1fc01f000000000101e824",
+        "nickname": "熙灵",
+        "fans": 78,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5f1fc01f000000000101e824?xsec_token=ABAIdg2s0qIRcDfrY4932oTqGqTFe1GUNny833DUnIWKY=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1137,
+        "collects": 415,
+        "comments": 524,
+        "shares": 76
+      },
+      "viral_score": 14.39
+    },
+    {
+      "note_id": "64db7747000000000c0366e4",
+      "xsec_token": "ABs4UoSzKrAlUv-sOtuf1-9Yo1syDYgkJ0F_gPXXLWOv4=",
+      "title": "儿童标准身高",
+      "url": "https://www.xiaohongshu.com/explore/64db7747000000000c0366e4?xsec_token=ABs4UoSzKrAlUv-sOtuf1-9Yo1syDYgkJ0F_gPXXLWOv4=",
+      "publish_time": "2023-08-15",
+      "author": {
+        "user_id": "5bcdc9e2729237000161c04a",
+        "nickname": "晨熙妈妈",
+        "fans": 846,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5bcdc9e2729237000161c04a?xsec_token=ABWa_rG5sS8upTzt9u84iPpnalcTG6iEP0pS5RVnv10kg=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 8947,
+        "collects": 8436,
+        "comments": 2009,
+        "shares": 1797
+      },
+      "viral_score": 10.56
+    },
+    {
+      "note_id": "69ccf14b00000000220246a0",
+      "xsec_token": "ABl0l8-I2cGX5AqmNpF3S5X-4KCiuiJwE6Ci4YD9pC44E=",
+      "title": "2026儿童身高体重表，你家孩子达标了吗？",
+      "url": "https://www.xiaohongshu.com/explore/69ccf14b00000000220246a0?xsec_token=ABl0l8-I2cGX5AqmNpF3S5X-4KCiuiJwE6Ci4YD9pC44E=",
+      "publish_time": "05-29",
+      "author": {
+        "user_id": "5f1a30950000000001002b26",
+        "nickname": "语妈陪娃成长",
+        "fans": 903,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/5f1a30950000000001002b26?xsec_token=ABwA321sxWXwQjGEhP9P5V0nPw0_IeV1AsShUcnjt8VRc=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2098,
+        "collects": 920,
+        "comments": 573,
+        "shares": 840
+      },
+      "viral_score": 2.32
+    },
+    {
+      "note_id": "6745c0ea00000000070277f3",
+      "xsec_token": "ABb0CKgRNCPt8Py5QKfM02gDAluEjrpLJZtwXrrC_3nPM=",
+      "title": "我和动物比身高",
+      "url": "https://www.xiaohongshu.com/explore/6745c0ea00000000070277f3?xsec_token=ABb0CKgRNCPt8Py5QKfM02gDAluEjrpLJZtwXrrC_3nPM=",
+      "publish_time": "03-29",
+      "author": {
+        "user_id": "603d982e0000000001005797",
+        "nickname": "Susie思思",
+        "fans": 944,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/603d982e0000000001005797?xsec_token=ABYb3qJtm003V7PA2N9dEy4vN8nihrP4fOpQ8ms5DrVQ8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1134,
+        "collects": 701,
+        "comments": 21,
+        "shares": 127
+      },
+      "viral_score": 1.2
+    },
+    {
+      "note_id": "67372240000000001b02ddcd",
+      "xsec_token": "ABkFni-puzevmIi-yZ1T-XLcaTeHREpH-k3wsxnasb5kk=",
+      "title": "去了儿童医院测骨龄后才知道…",
+      "url": "https://www.xiaohongshu.com/explore/67372240000000001b02ddcd?xsec_token=ABkFni-puzevmIi-yZ1T-XLcaTeHREpH-k3wsxnasb5kk=",
+      "publish_time": "2024-11-16",
+      "author": {
+        "user_id": "662788880000000007007700",
+        "nickname": "风铃",
+        "fans": 2128,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/662788880000000007007700?xsec_token=ABiOcmHrW13L8BJLMDKFBzGWYfDMJj68z2n8Cg9x_q5g8=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 2331,
+        "collects": 822,
+        "comments": 304,
+        "shares": 58
+      },
+      "viral_score": 1.09
+    },
+    {
+      "note_id": "669076d80000000003026ba4",
+      "xsec_token": "ABYxQH0uWPQInKe81AVuSpu71lR7ipaVAofkIWTsHUth4=",
+      "title": "医院🏥拍到的儿童标准身高",
+      "url": "https://www.xiaohongshu.com/explore/669076d80000000003026ba4?xsec_token=ABYxQH0uWPQInKe81AVuSpu71lR7ipaVAofkIWTsHUth4=",
+      "publish_time": "2024-10-24",
+      "author": {
+        "user_id": "6188e18e000000001000820a",
+        "nickname": "美奇屋",
+        "fans": 1870,
+        "fan_source": "drissionpage",
+        "profile_url": "https://www.xiaohongshu.com/user/profile/6188e18e000000001000820a?xsec_token=ABFhc3VuOM2GZZdlMmRXSG2wAKk3GP4d_mlp2W_Dgc71s=&xsec_source=pc_search"
+      },
+      "metrics": {
+        "likes": 1354,
+        "collects": 897,
+        "comments": 274,
+        "shares": 132
+      },
+      "viral_score": 0.72
+    }
+  ]
+}

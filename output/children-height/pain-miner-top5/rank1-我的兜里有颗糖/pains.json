@@ -1,0 +1,73 @@
+{
+  "skill": "xhs-comment-pain-miner",
+  "version": "0.1.0",
+  "input_notes": 1,
+  "filters": {
+    "min_likes": 1,
+    "min_content_len": 6,
+    "exclude_author": true,
+    "categories": [
+      "pain",
+      "suggestion",
+      "question",
+      "criticism",
+      "request"
+    ],
+    "top_per_note": 10
+  },
+  "stats": {
+    "total_comments": 20,
+    "total_kept_pain": 3,
+    "elapsed_sec": 17.6
+  },
+  "per_note": [
+    {
+      "note_id": "69e58a7c000000002200f0ad",
+      "title": "你家孩子身高达标了嘛",
+      "url": "https://www.xiaohongshu.com/explore/69e58a7c000000002200f0ad?xsec_token=AByN9lztwn9tEk6LawWpmU5ot8-2UDBBZBygZKx-HOk0s=",
+      "total_comments": 20,
+      "kept_comments": 3,
+      "top_pains": [
+        {
+          "id": "comment-69e5b28f000000001401dc1d",
+          "content": "小孩身高根本没有标准，有些小孩晚发育，这个就是制造焦虑",
+          "likes": 291,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "小蔡",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69e5b424000000001401a414",
+          "content": "就是焦虑，去年身高标准又降低了，因为发现大部分孩子长不到中位线，神神叨叨的标准……孩子不是快乐健康就行吗",
+          "likes": 180,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "Goodnight姑奶日记",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "pain"
+          ]
+        },
+        {
+          "id": "comment-69e5df81000000001401900b",
+          "content": "我们四周岁10个月身高117，现在五周岁四个月了身高还是117",
+          "likes": 2,
+          "is_sub": false,
+          "is_author": false,
+          "nickname": "🍜",
+          "ip_location": "",
+          "create_time": 0,
+          "categories": [
+            "question"
+          ]
+        }
+      ]
+    }
+  ]
+}

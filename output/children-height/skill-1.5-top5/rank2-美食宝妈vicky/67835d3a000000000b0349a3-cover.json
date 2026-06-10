@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "67835d3a000000000b0349a3",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606092157/1ad0d1e0dee94a036e0ee4ec34ec056e/1040g2sg31chstmdgg8605n1c0b1henk7ng3v42o!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\children-height\\skill-1.5-top5\\rank2-美食宝妈vicky\\67835d3a000000000b0349a3-cover.png",
+  "rules": {
+    "file_size_kb": 126.1,
+    "width": 1080,
+    "height": 1440,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(169,153,140)",
+    "is_landscape": false,
+    "dominant_color_hex": "#a9998c"
+  },
+  "llm_visual": {}
+}

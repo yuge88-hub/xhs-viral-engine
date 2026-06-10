@@ -1,0 +1,22 @@
+# xhs-viral-engine - Python 依赖
+# 安装: pip install -r requirements.txt
+# 推荐: uv pip install -r requirements.txt  (10x 更快)
+
+# ===== 抓取层 =====
+DrissionPage==4.1.1.2          # 浏览器自动化 - 抓评论 / 完整模式取粉丝
+scrapling>=0.2.0               # StealthyFetcher - 抓单条详情 / 截图封面
+
+# xhs-cli-headless 不在这里, 单独用 uv tool install 装:
+#   uv tool install xhs-cli-headless==0.8.9 --force
+
+# ===== LLM / HTTP =====
+requests>=2.31.0               # 调 DeepSeek API
+
+# ===== 视觉 / 数据处理 =====
+Pillow>=10.0.0                 # 封面主色提取
+
+# ===== 配置 =====
+python-dotenv>=1.0.0           # 可选 - 加载 .env
+
+# ===== 开发期可选 (跑测试用) =====
+# pytest>=7.0

@@ -1,0 +1,17 @@
+{
+  "skill": "skill-1.5-cover-analyzer",
+  "version": "0.1.0",
+  "note_id": "6730a3ff000000001b02f1cd",
+  "cover_url": "http://sns-webpic-qc.xhscdn.com/202606092123/c0dea9da19552d09ad7e85fa49780925/spectrum/1040g34o31a166dv3mm0g5pdsv223bvikf6jbaqg!nd_dft_wlteh_webp_3",
+  "cover_local": "output\\ai-children-illustration\\skill-1.5-top3\\rank3-谁懂啊\\6730a3ff000000001b02f1cd-cover.png",
+  "rules": {
+    "file_size_kb": 245.3,
+    "width": 1080,
+    "height": 1440,
+    "aspect_ratio": 0.75,
+    "dominant_color": "rgb(0,0,0)",
+    "is_landscape": false,
+    "dominant_color_hex": "#000000"
+  },
+  "llm_visual": {}
+}
